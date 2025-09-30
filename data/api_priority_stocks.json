@@ -1,0 +1,3688 @@
+[
+  {
+    "symbol": "TTEK",
+    "name": "Tetra Tech, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "country": "United States",
+    "market_cap": 8837069824,
+    "ticker_for_api": "TTEK",
+    "first_trade_date": "1991-12-17",
+    "last_trade_date": "2024-09-09",
+    "total_trades": 11,
+    "total_quantity": 200.2026,
+    "price_range": {
+      "min": 10.73,
+      "max": 10.73,
+      "avg": 10.73
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 386,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Bonus",
+        "Bonus",
+        "Bonus",
+        "Bonus",
+        "Bonus",
+        "Bonus",
+        "Bonus",
+        "Bonus",
+        "Bonus",
+        "Split"
+      ],
+      "last_action_date": "2024-09-09",
+      "total_adjustment_qty": 194.45
+    }
+  },
+  {
+    "symbol": "MMM",
+    "name": "3M Co.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Conglomerates",
+    "country": "United States",
+    "market_cap": 82067587072,
+    "ticker_for_api": "MMM",
+    "first_trade_date": "1975-06-30",
+    "last_trade_date": "2024-04-02",
+    "total_trades": 6,
+    "total_quantity": 6.8531,
+    "price_range": {
+      "min": 65.875,
+      "max": 92.84,
+      "avg": 79.3575
+    },
+    "total_value": 99.45,
+    "is_active": true,
+    "last_activity_days_ago": 546,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2003-09-30",
+      "total_adjustment_qty": 5.811
+    }
+  },
+  {
+    "symbol": "ALTD",
+    "name": "Tonner Drones",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "country": "France",
+    "market_cap": 15006545,
+    "ticker_for_api": "ALTD.PA",
+    "first_trade_date": "2013-07-02",
+    "last_trade_date": "2023-05-18",
+    "total_trades": 6,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 7.0,
+      "max": 7.0,
+      "avg": 7.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 866,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation",
+        "Consolidation",
+        "Consolidation",
+        "Consolidation",
+        "Consolidation"
+      ],
+      "last_action_date": "2023-05-18",
+      "total_adjustment_qty": -10.066997
+    }
+  },
+  {
+    "symbol": "300627",
+    "name": "Shanghai Huace Navigation Technology Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments",
+    "country": "China",
+    "market_cap": 27820058624,
+    "ticker_for_api": "300627.SZ",
+    "first_trade_date": "2017-03-21",
+    "last_trade_date": "2025-06-20",
+    "total_trades": 5,
+    "total_quantity": 133.11,
+    "price_range": {
+      "min": 31.28,
+      "max": 31.28,
+      "avg": 31.28
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 102,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split",
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2025-06-20",
+      "total_adjustment_qty": 116.055
+    }
+  },
+  {
+    "symbol": "CDD",
+    "name": "Cardno Limited",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "CDD",
+    "first_trade_date": "2004-06-03",
+    "last_trade_date": "2025-03-31",
+    "total_trades": 5,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.14,
+      "max": 1.49,
+      "avg": 0.815
+    },
+    "total_value": 35.54,
+    "is_active": true,
+    "last_activity_days_ago": 183,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2022-01-07",
+      "total_adjustment_qty": -60.0
+    }
+  },
+  {
+    "symbol": "9433",
+    "name": "KDDI Corp.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "country": "Japan",
+    "market_cap": 8996653105152,
+    "ticker_for_api": "9433.T",
+    "first_trade_date": "2003-10-09",
+    "last_trade_date": "2025-03-28",
+    "total_trades": 5,
+    "total_quantity": 12.0118,
+    "price_range": {
+      "min": 646000.0,
+      "max": 646000.0,
+      "avg": 646000.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 186,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split",
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2025-03-28",
+      "total_adjustment_qty": 12.0
+    }
+  },
+  {
+    "symbol": "603236",
+    "name": "Quectel Wireless Solutions Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "country": "China",
+    "market_cap": 27505453056,
+    "ticker_for_api": "603236.SS",
+    "first_trade_date": "2019-07-16",
+    "last_trade_date": "2023-06-15",
+    "total_trades": 5,
+    "total_quantity": 70.982,
+    "price_range": {
+      "min": 18.57,
+      "max": 18.57,
+      "avg": 18.57
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 838,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split",
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2023-06-15",
+      "total_adjustment_qty": 45.0
+    }
+  },
+  {
+    "symbol": "9613",
+    "name": "NTT Data Group Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "country": "Japan",
+    "market_cap": 5559273652224,
+    "ticker_for_api": "9613.T",
+    "first_trade_date": "2003-10-13",
+    "last_trade_date": "2025-09-26",
+    "total_trades": 4,
+    "total_quantity": 0.0143,
+    "price_range": {
+      "min": 524000.0,
+      "max": 524000.0,
+      "avg": 524000.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 4,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split",
+        "Consolidation"
+      ],
+      "last_action_date": "2025-09-26",
+      "total_adjustment_qty": 0.0
+    }
+  },
+  {
+    "symbol": "688083",
+    "name": "Zwsoft Co.Ltd.(Guangzhou) - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "country": "China",
+    "market_cap": 12879945728,
+    "ticker_for_api": "688083.SS",
+    "first_trade_date": "2021-03-11",
+    "last_trade_date": "2025-06-06",
+    "total_trades": 4,
+    "total_quantity": 2.4163,
+    "price_range": {
+      "min": 409.0,
+      "max": 409.0,
+      "avg": 409.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 116,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2025-06-06",
+      "total_adjustment_qty": 1.18
+    }
+  },
+  {
+    "symbol": "UAVS",
+    "name": "AgEagle Aerial Systems Inc.",
+    "exchange": "AMEX",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Computer Hardware",
+    "country": "United States",
+    "market_cap": 72379120,
+    "ticker_for_api": "UAVS",
+    "first_trade_date": "2014-01-02",
+    "last_trade_date": "2024-10-15",
+    "total_trades": 4,
+    "total_quantity": 0.01,
+    "price_range": {
+      "min": 0.55,
+      "max": 0.55,
+      "avg": 0.55
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 350,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation",
+        "Consolidation",
+        "Consolidation"
+      ],
+      "last_action_date": "2024-10-15",
+      "total_adjustment_qty": -162.57
+    }
+  },
+  {
+    "symbol": "VIRI",
+    "name": "Viridien",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "country": "France",
+    "market_cap": 461686880,
+    "ticker_for_api": "VIRI.PA",
+    "first_trade_date": "1994-01-03",
+    "last_trade_date": "2024-07-31",
+    "total_trades": 4,
+    "total_quantity": 0.0053,
+    "price_range": {
+      "min": 98.59,
+      "max": 98.59,
+      "avg": 98.59
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 426,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Consolidation",
+        "Consolidation"
+      ],
+      "last_action_date": "2024-07-31",
+      "total_adjustment_qty": -0.5257494
+    }
+  },
+  {
+    "symbol": "PGS",
+    "name": "PGS ASA",
+    "exchange": "OSL",
+    "currency": "NOK",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "PGS",
+    "first_trade_date": "2000-01-03",
+    "last_trade_date": "2024-07-23",
+    "total_trades": 4,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 9.022,
+      "max": 2010.6,
+      "avg": 1009.811
+    },
+    "total_value": 96.23,
+    "is_active": true,
+    "last_activity_days_ago": 434,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2006-12-18",
+      "total_adjustment_qty": 2.7851
+    }
+  },
+  {
+    "symbol": "XTIA",
+    "name": "XTI Aerospace Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "country": "United States",
+    "market_cap": 45934192,
+    "ticker_for_api": "XTIA",
+    "first_trade_date": "2014-04-09",
+    "last_trade_date": "2024-03-12",
+    "total_trades": 4,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.0532,
+      "max": 6.0,
+      "avg": 3.0266
+    },
+    "total_value": 99.99,
+    "is_active": true,
+    "last_activity_days_ago": 567,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation",
+        "Consolidation"
+      ],
+      "last_action_date": "2022-10-07",
+      "total_adjustment_qty": -11.0
+    }
+  },
+  {
+    "symbol": "SPT",
+    "name": "Spirent Communications Plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "country": "United Kingdom",
+    "market_cap": 1168968576,
+    "ticker_for_api": "SPT.L",
+    "first_trade_date": "1998-01-30",
+    "last_trade_date": "2024-03-05",
+    "total_trades": 4,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 1.7262,
+      "max": 9.126,
+      "avg": 5.4261
+    },
+    "total_value": 79.51,
+    "is_active": true,
+    "last_activity_days_ago": 574,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Consolidation"
+      ],
+      "last_action_date": "2001-07-10",
+      "total_adjustment_qty": 2.0
+    }
+  },
+  {
+    "symbol": "BALL",
+    "name": "Ball Corp.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers",
+    "country": "United States",
+    "market_cap": 13498585088,
+    "ticker_for_api": "BALL",
+    "first_trade_date": "2007-12-10",
+    "last_trade_date": "2023-08-17",
+    "total_trades": 4,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 22.94,
+      "max": 55.4,
+      "avg": 39.17
+    },
+    "total_value": -1009.72,
+    "is_active": true,
+    "last_activity_days_ago": 775,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2017-05-17",
+      "total_adjustment_qty": 9.0
+    }
+  },
+  {
+    "symbol": "ARGEO",
+    "name": "Argeo ASA",
+    "exchange": "OSL",
+    "currency": "NOK",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "ARGEO",
+    "first_trade_date": "2021-04-26",
+    "last_trade_date": "2025-08-14",
+    "total_trades": 3,
+    "total_quantity": -0.0,
+    "price_range": {
+      "min": 0.448,
+      "max": 9.5,
+      "avg": 4.974
+    },
+    "total_value": 99.05,
+    "is_active": true,
+    "last_activity_days_ago": 47,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2024-06-19",
+      "total_adjustment_qty": -54.0
+    }
+  },
+  {
+    "symbol": "NVEE",
+    "name": "NV5 Global Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "country": "United States",
+    "market_cap": 1512368256,
+    "ticker_for_api": "NVEE",
+    "first_trade_date": "2019-12-20",
+    "last_trade_date": "2025-08-04",
+    "total_trades": 3,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 22.56,
+      "max": 49.12,
+      "avg": 35.84
+    },
+    "total_value": -88.35,
+    "is_active": true,
+    "last_activity_days_ago": 57,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2024-10-11",
+      "total_adjustment_qty": 4.0
+    }
+  },
+  {
+    "symbol": "300394",
+    "name": "Suzhou TFC Optical Communication Co.Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "country": "China",
+    "market_cap": 130450382848,
+    "ticker_for_api": "300394.SZ",
+    "first_trade_date": "2015-02-17",
+    "last_trade_date": "2025-06-09",
+    "total_trades": 3,
+    "total_quantity": 29.764,
+    "price_range": {
+      "min": 30.83,
+      "max": 30.83,
+      "avg": 30.83
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 113,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2025-06-09",
+      "total_adjustment_qty": 14.0
+    }
+  },
+  {
+    "symbol": "KOG",
+    "name": "Kongsberg Gruppen ASA",
+    "exchange": "OSL",
+    "currency": "NOK",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "KOG",
+    "first_trade_date": "2000-01-03",
+    "last_trade_date": "2025-06-03",
+    "total_trades": 3,
+    "total_quantity": 93.8004,
+    "price_range": {
+      "min": 109.6,
+      "max": 109.6,
+      "avg": 109.6
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 119,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2025-06-03",
+      "total_adjustment_qty": 89.0
+    }
+  },
+  {
+    "symbol": "688568",
+    "name": "Geovis Technology Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "country": "China",
+    "market_cap": 35183755264,
+    "ticker_for_api": "688568.SS",
+    "first_trade_date": "2020-07-08",
+    "last_trade_date": "2025-05-21",
+    "total_trades": 3,
+    "total_quantity": 10.607,
+    "price_range": {
+      "min": 87.27,
+      "max": 87.27,
+      "avg": 87.27
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 132,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2025-05-21",
+      "total_adjustment_qty": 5.0
+    }
+  },
+  {
+    "symbol": "WLDS",
+    "name": "Wearable Devices Ltd",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "country": "Israel",
+    "market_cap": 27949002,
+    "ticker_for_api": "WLDS",
+    "first_trade_date": "2022-09-13",
+    "last_trade_date": "2025-03-17",
+    "total_trades": 3,
+    "total_quantity": 0.665,
+    "price_range": {
+      "min": 4.7,
+      "max": 4.7,
+      "avg": 4.7
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 197,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation",
+        "Consolidation"
+      ],
+      "last_action_date": "2025-03-17",
+      "total_adjustment_qty": -14.0
+    }
+  },
+  {
+    "symbol": "UI",
+    "name": "Urbanimmersive Inc",
+    "exchange": "CVE",
+    "currency": "CAD",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "country": "United States",
+    "market_cap": 39822065664,
+    "ticker_for_api": "UI",
+    "first_trade_date": "2012-10-16",
+    "last_trade_date": "2025-02-05",
+    "total_trades": 3,
+    "total_quantity": -0.0,
+    "price_range": {
+      "min": 0.02,
+      "max": 0.1,
+      "avg": 0.06
+    },
+    "total_value": 95.49,
+    "is_active": true,
+    "last_activity_days_ago": 237,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2021-09-28",
+      "total_adjustment_qty": -800.0
+    }
+  },
+  {
+    "symbol": "9232",
+    "name": "Pasco Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "9232",
+    "first_trade_date": "2001-12-07",
+    "last_trade_date": "2025-01-07",
+    "total_trades": 3,
+    "total_quantity": 0.675,
+    "price_range": {
+      "min": 270.0,
+      "max": 270.0,
+      "avg": 270.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 266,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation",
+        "Consolidation"
+      ],
+      "last_action_date": "2025-01-07",
+      "total_adjustment_qty": -23.2
+    }
+  },
+  {
+    "symbol": "CPTN",
+    "name": "Cepton Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "CPTN",
+    "first_trade_date": "2021-03-25",
+    "last_trade_date": "2025-01-07",
+    "total_trades": 3,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 3.25,
+      "max": 9.55,
+      "avg": 6.4
+    },
+    "total_value": 95.05,
+    "is_active": true,
+    "last_activity_days_ago": 266,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2023-09-22",
+      "total_adjustment_qty": -7.0
+    }
+  },
+  {
+    "symbol": "NBIS",
+    "name": "Nebius Group N.V. - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "country": "Netherlands",
+    "market_cap": 26873233408,
+    "ticker_for_api": "NBIS",
+    "first_trade_date": "2011-05-24",
+    "last_trade_date": "2024-07-10",
+    "total_trades": 3,
+    "total_quantity": 11.915,
+    "price_range": {
+      "min": 18.94,
+      "max": 35.0,
+      "avg": 24.2933
+    },
+    "total_value": 355.99,
+    "is_active": true,
+    "last_activity_days_ago": 447,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corp",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "country": "United States",
+    "market_cap": 4427502059520,
+    "ticker_for_api": "NVDA",
+    "first_trade_date": "2015-06-30",
+    "last_trade_date": "2024-06-10",
+    "total_trades": 3,
+    "total_quantity": 151.2146,
+    "price_range": {
+      "min": 20.12,
+      "max": 20.12,
+      "avg": 20.12
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 477,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2024-06-10",
+      "total_adjustment_qty": 147.4
+    }
+  },
+  {
+    "symbol": "QNGYQ",
+    "name": "Quanergy Systems Inc",
+    "exchange": "OTC",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "QNGYQ",
+    "first_trade_date": "2022-02-08",
+    "last_trade_date": "2023-12-01",
+    "total_trades": 3,
+    "total_quantity": -0.0,
+    "price_range": {
+      "min": 0.19,
+      "max": 7.05,
+      "avg": 3.62
+    },
+    "total_value": 99.68,
+    "is_active": true,
+    "last_activity_days_ago": 669,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2022-10-07",
+      "total_adjustment_qty": -9.0
+    }
+  },
+  {
+    "symbol": "NATI",
+    "name": "National Instruments Corp.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "NATI",
+    "first_trade_date": "2008-07-01",
+    "last_trade_date": "2023-10-23",
+    "total_trades": 3,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 28.37,
+      "max": 59.98,
+      "avg": 44.175
+    },
+    "total_value": -315.43,
+    "is_active": true,
+    "last_activity_days_ago": 708,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2011-02-23",
+      "total_adjustment_qty": 1.0
+    }
+  },
+  {
+    "symbol": "7267",
+    "name": "Honda Motor",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "country": "Japan",
+    "market_cap": 5959456915456,
+    "ticker_for_api": "7267.T",
+    "first_trade_date": "2001-12-07",
+    "last_trade_date": "2023-09-28",
+    "total_trades": 3,
+    "total_quantity": 7.6012,
+    "price_range": {
+      "min": 4900.0,
+      "max": 4900.0,
+      "avg": 4900.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 733,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2023-09-28",
+      "total_adjustment_qty": 6.0
+    }
+  },
+  {
+    "symbol": "OTMO",
+    "name": "Otonomo Technologies Ltd",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "OTMO",
+    "first_trade_date": "2020-10-20",
+    "last_trade_date": "2023-08-07",
+    "total_trades": 3,
+    "total_quantity": -0.0,
+    "price_range": {
+      "min": 3.7317,
+      "max": 144.68,
+      "avg": 74.2058
+    },
+    "total_value": 99.84,
+    "is_active": true,
+    "last_activity_days_ago": 785,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2023-08-04",
+      "total_adjustment_qty": -0.46
+    }
+  },
+  {
+    "symbol": "2395",
+    "name": "Advantech",
+    "exchange": "TAI",
+    "currency": "TWD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "2395",
+    "first_trade_date": "2014-07-01",
+    "last_trade_date": "2023-07-04",
+    "total_trades": 3,
+    "total_quantity": 13.145,
+    "price_range": {
+      "min": 252.5,
+      "max": 252.5,
+      "avg": 252.5
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 819,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2023-07-04",
+      "total_adjustment_qty": 2.0
+    }
+  },
+  {
+    "symbol": "9432",
+    "name": "NTT Inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "country": "Japan",
+    "market_cap": 12799761711104,
+    "ticker_for_api": "9432.T",
+    "first_trade_date": "2019-12-20",
+    "last_trade_date": "2023-06-29",
+    "total_trades": 3,
+    "total_quantity": 9.4054,
+    "price_range": {
+      "min": 5588.0,
+      "max": 5588.0,
+      "avg": 5588.0
+    },
+    "total_value": 15.0,
+    "is_active": true,
+    "last_activity_days_ago": 824,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split",
+        "Split"
+      ],
+      "last_action_date": "2023-06-29",
+      "total_adjustment_qty": 9.2027
+    }
+  },
+  {
+    "symbol": "EMBK",
+    "name": "Embark Technology Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "EMBK",
+    "first_trade_date": "2021-03-05",
+    "last_trade_date": "2023-05-25",
+    "total_trades": 3,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 2.94,
+      "max": 201.0,
+      "avg": 101.97
+    },
+    "total_value": 98.26,
+    "is_active": true,
+    "last_activity_days_ago": 859,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2022-08-17",
+      "total_adjustment_qty": 0.0
+    }
+  },
+  {
+    "symbol": "VSAT",
+    "name": "Viasat, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "country": "United States",
+    "market_cap": 3884224256,
+    "ticker_for_api": "VSAT",
+    "first_trade_date": "1996-12-02",
+    "last_trade_date": "2023-05-09",
+    "total_trades": 3,
+    "total_quantity": 14.345,
+    "price_range": {
+      "min": 9.5,
+      "max": 36.6,
+      "avg": 23.05
+    },
+    "total_value": 200.0,
+    "is_active": true,
+    "last_activity_days_ago": 875,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2000-09-01",
+      "total_adjustment_qty": 6.0
+    }
+  },
+  {
+    "symbol": "OUST",
+    "name": "Ouster Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Electronic Components",
+    "country": "United States",
+    "market_cap": 1609109632,
+    "ticker_for_api": "OUST",
+    "first_trade_date": "2020-10-09",
+    "last_trade_date": "2023-04-21",
+    "total_trades": 3,
+    "total_quantity": 1.465,
+    "price_range": {
+      "min": 9.7,
+      "max": 9.7,
+      "avg": 9.7
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 893,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Bonus",
+        "Consolidation"
+      ],
+      "last_action_date": "2023-04-21",
+      "total_adjustment_qty": -6.0
+    }
+  },
+  {
+    "symbol": "FARO",
+    "name": "Faro Technologies Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "FARO",
+    "first_trade_date": "1997-09-18",
+    "last_trade_date": "2025-07-21",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 16.25,
+      "max": 43.99,
+      "avg": 30.12
+    },
+    "total_value": -155.97,
+    "is_active": true,
+    "last_activity_days_ago": 71,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "ANSS",
+    "name": "Ansys Inc. - Registered Shares",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "ANSS",
+    "first_trade_date": "2020-10-26",
+    "last_trade_date": "2025-07-17",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 321.0,
+      "max": 374.3,
+      "avg": 347.65
+    },
+    "total_value": -32.06,
+    "is_active": true,
+    "last_activity_days_ago": 75,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "000551",
+    "name": "Create Technology & Science Co. Ltd. - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "sector": "Industrials",
+    "industry": "Conglomerates",
+    "country": "China",
+    "market_cap": 5477483520,
+    "ticker_for_api": "000551.SZ",
+    "first_trade_date": "2005-07-06",
+    "last_trade_date": "2025-07-04",
+    "total_trades": 2,
+    "total_quantity": 438.0,
+    "price_range": {
+      "min": 1.68,
+      "max": 1.68,
+      "avg": 1.68
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 88,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2025-07-04",
+      "total_adjustment_qty": 73.0
+    }
+  },
+  {
+    "symbol": "MAPS",
+    "name": "MapsPeople AS",
+    "exchange": "CSE",
+    "currency": "DKK",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "country": "United States",
+    "market_cap": 194963264,
+    "ticker_for_api": "MAPS",
+    "first_trade_date": "2021-06-02",
+    "last_trade_date": "2025-06-27",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.73,
+      "max": 8.1,
+      "avg": 4.415
+    },
+    "total_value": 89.77,
+    "is_active": true,
+    "last_activity_days_ago": 95,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2021-01-11",
+      "total_adjustment_qty": -238.5
+    }
+  },
+  {
+    "symbol": "PEGA",
+    "name": "Pegasystems Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "country": "United States",
+    "market_cap": 10035591168,
+    "ticker_for_api": "PEGA",
+    "first_trade_date": "2014-06-10",
+    "last_trade_date": "2025-06-23",
+    "total_trades": 2,
+    "total_quantity": 8.374,
+    "price_range": {
+      "min": 21.38,
+      "max": 21.38,
+      "avg": 21.38
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 99,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2025-06-23",
+      "total_adjustment_qty": 4.0
+    }
+  },
+  {
+    "symbol": "SST",
+    "name": "System1 Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "country": "United States",
+    "market_cap": 73173824,
+    "ticker_for_api": "SST",
+    "first_trade_date": "2020-08-03",
+    "last_trade_date": "2025-06-12",
+    "total_trades": 2,
+    "total_quantity": 1.073,
+    "price_range": {
+      "min": 10.1,
+      "max": 10.1,
+      "avg": 10.1
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 110,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2025-06-12",
+      "total_adjustment_qty": -6.0
+    }
+  },
+  {
+    "symbol": "MLBMD",
+    "name": "Swissnet Group AG",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "MLBMD",
+    "first_trade_date": "2021-02-12",
+    "last_trade_date": "2025-05-06",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 6.55,
+      "max": 26.5,
+      "avg": 16.525
+    },
+    "total_value": 72.41,
+    "is_active": true,
+    "last_activity_days_ago": 147,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "MRDB",
+    "name": "MariaDB Plc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "MRDB",
+    "first_trade_date": "2022-12-19",
+    "last_trade_date": "2025-05-05",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.5494,
+      "max": 10.0,
+      "avg": 5.2747
+    },
+    "total_value": 94.32,
+    "is_active": true,
+    "last_activity_days_ago": 148,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "LKCO",
+    "name": "Luokung Technology Corp",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "LKCO",
+    "first_trade_date": "2018-09-13",
+    "last_trade_date": "2025-04-12",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.18,
+      "max": 8.0,
+      "avg": 4.09
+    },
+    "total_value": 97.5,
+    "is_active": true,
+    "last_activity_days_ago": 171,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "7250",
+    "name": "Uzma Bhd",
+    "exchange": "KLS",
+    "currency": "MYR",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "7250",
+    "first_trade_date": "2021-07-01",
+    "last_trade_date": "2025-04-04",
+    "total_trades": 2,
+    "total_quantity": 626.5,
+    "price_range": {
+      "min": 0.66,
+      "max": 0.66,
+      "avg": 0.66
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 179,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2025-04-04",
+      "total_adjustment_qty": 156.0
+    }
+  },
+  {
+    "symbol": "VERS",
+    "name": "VERSES AI Inc - Ordinary Shares - Class A (Sub Voting)",
+    "exchange": "NEO",
+    "currency": "CAD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "VERS",
+    "first_trade_date": "2023-06-28",
+    "last_trade_date": "2025-03-27",
+    "total_trades": 2,
+    "total_quantity": 13.09,
+    "price_range": {
+      "min": 0.78,
+      "max": 0.78,
+      "avg": 0.78
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 187,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2025-03-27",
+      "total_adjustment_qty": -100.0
+    }
+  },
+  {
+    "symbol": "ULY",
+    "name": "Urgent.ly Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "country": "United States",
+    "market_cap": 4856430,
+    "ticker_for_api": "ULY",
+    "first_trade_date": "2023-10-19",
+    "last_trade_date": "2025-03-18",
+    "total_trades": 2,
+    "total_quantity": 1.276,
+    "price_range": {
+      "min": 12.0,
+      "max": 12.0,
+      "avg": 12.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 196,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2025-03-18",
+      "total_adjustment_qty": -4.0
+    }
+  },
+  {
+    "symbol": "AIG",
+    "name": "Genesis AI Corp",
+    "exchange": "CNSX",
+    "currency": "CAD",
+    "sector": "Financial Services",
+    "industry": "Insurance - Diversified",
+    "country": "United States",
+    "market_cap": 43201220608,
+    "ticker_for_api": "AIG",
+    "first_trade_date": "2023-07-28",
+    "last_trade_date": "2025-03-13",
+    "total_trades": 2,
+    "total_quantity": 127.0,
+    "price_range": {
+      "min": 0.07,
+      "max": 0.07,
+      "avg": 0.07
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 201,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2025-03-13",
+      "total_adjustment_qty": -1141.0
+    }
+  },
+  {
+    "symbol": "MTTR",
+    "name": "Matterport Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "MTTR",
+    "first_trade_date": "2021-02-02",
+    "last_trade_date": "2025-03-10",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 5.38,
+      "max": 10.69,
+      "avg": 8.035
+    },
+    "total_value": 38.79,
+    "is_active": true,
+    "last_activity_days_ago": 204,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "GSAT",
+    "name": "Globalstar Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "country": "United States",
+    "market_cap": 4480414720,
+    "ticker_for_api": "GSAT",
+    "first_trade_date": "2006-11-09",
+    "last_trade_date": "2025-02-11",
+    "total_trades": 2,
+    "total_quantity": 1.2167,
+    "price_range": {
+      "min": 12.38,
+      "max": 12.38,
+      "avg": 12.38
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 231,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2025-02-11",
+      "total_adjustment_qty": -5.0
+    }
+  },
+  {
+    "symbol": "WIPRO",
+    "name": "Wipro Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "WIPRO",
+    "first_trade_date": "2009-06-30",
+    "last_trade_date": "2024-12-03",
+    "total_trades": 2,
+    "total_quantity": 90.45,
+    "price_range": {
+      "min": 85.05,
+      "max": 85.05,
+      "avg": 85.05
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 301,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2024-12-03",
+      "total_adjustment_qty": 45.0
+    }
+  },
+  {
+    "symbol": "ALDRV",
+    "name": "Drone Volt",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "sector": "Technology",
+    "industry": "Computer Hardware",
+    "country": "France",
+    "market_cap": 45859352,
+    "ticker_for_api": "ALDRV.PA",
+    "first_trade_date": "2016-01-13",
+    "last_trade_date": "2024-12-02",
+    "total_trades": 2,
+    "total_quantity": 0.503,
+    "price_range": {
+      "min": 1.99,
+      "max": 1.99,
+      "avg": 1.99
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 302,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2024-12-02",
+      "total_adjustment_qty": -32.0
+    }
+  },
+  {
+    "symbol": "DUKR",
+    "name": "DUKE Robotics Corp.",
+    "exchange": "OTC",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "country": "Israel",
+    "market_cap": 18971164,
+    "ticker_for_api": "DUKR",
+    "first_trade_date": "2017-06-26",
+    "last_trade_date": "2024-10-29",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.0618,
+      "max": 10.0,
+      "avg": 5.0309
+    },
+    "total_value": 99.29,
+    "is_active": true,
+    "last_activity_days_ago": 336,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "YAHSAT",
+    "name": "YAHSAT",
+    "exchange": "OTHER",
+    "currency": "AED",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "YAHSAT",
+    "first_trade_date": "2023-03-16",
+    "last_trade_date": "2024-10-01",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 2.08,
+      "max": 2.53,
+      "avg": 2.305
+    },
+    "total_value": 20.4,
+    "is_active": true,
+    "last_activity_days_ago": 364,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "BAYANAT",
+    "name": "Bayanat.ai",
+    "exchange": "OTHER",
+    "currency": "AED",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "BAYANAT",
+    "first_trade_date": "2022-10-31",
+    "last_trade_date": "2024-09-30",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 2.38,
+      "max": 3.51,
+      "avg": 2.945
+    },
+    "total_value": 37.2,
+    "is_active": true,
+    "last_activity_days_ago": 365,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "6758",
+    "name": "Sony Group Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "country": "Japan",
+    "market_cap": 26298023936000,
+    "ticker_for_api": "6758.T",
+    "first_trade_date": "2013-02-21",
+    "last_trade_date": "2024-09-27",
+    "total_trades": 2,
+    "total_quantity": 36.251,
+    "price_range": {
+      "min": 1331.0,
+      "max": 1331.0,
+      "avg": 1331.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 368,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2024-09-27",
+      "total_adjustment_qty": 29.0
+    }
+  },
+  {
+    "symbol": "9735",
+    "name": "Secom Co. Ltd.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Industrials",
+    "industry": "Security & Protection Services",
+    "country": "Japan",
+    "market_cap": 2216096432128,
+    "ticker_for_api": "9735.T",
+    "first_trade_date": "2001-12-03",
+    "last_trade_date": "2024-09-27",
+    "total_trades": 2,
+    "total_quantity": 2.0173,
+    "price_range": {
+      "min": 6310.0,
+      "max": 6310.0,
+      "avg": 6310.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 368,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2024-09-27",
+      "total_adjustment_qty": 1.0
+    }
+  },
+  {
+    "symbol": "IQG",
+    "name": "IQGeo Group Plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "IQG",
+    "first_trade_date": "2011-06-01",
+    "last_trade_date": "2024-09-24",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 1.888,
+      "max": 4.7708,
+      "avg": 3.3294
+    },
+    "total_value": -217.32,
+    "is_active": true,
+    "last_activity_days_ago": 371,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "BKSY",
+    "name": "BlackSky Technology Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "country": "United States",
+    "market_cap": 708226368,
+    "ticker_for_api": "BKSY",
+    "first_trade_date": "2019-12-20",
+    "last_trade_date": "2024-09-09",
+    "total_trades": 2,
+    "total_quantity": 1.042,
+    "price_range": {
+      "min": 9.8,
+      "max": 9.8,
+      "avg": 9.8
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 386,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2024-09-09",
+      "total_adjustment_qty": -6.0
+    }
+  },
+  {
+    "symbol": "AVGO",
+    "name": "Broadcom Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "country": "United States",
+    "market_cap": 1579772805120,
+    "ticker_for_api": "AVGO",
+    "first_trade_date": "2014-06-30",
+    "last_trade_date": "2024-07-15",
+    "total_trades": 2,
+    "total_quantity": 12.328,
+    "price_range": {
+      "min": 70.94,
+      "max": 70.94,
+      "avg": 70.94
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 442,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2024-07-15",
+      "total_adjustment_qty": 11.0
+    }
+  },
+  {
+    "symbol": "YNDX",
+    "name": "Yandex NV - Ordinary Shares - Class A",
+    "exchange": "MISX",
+    "currency": "RUB",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "YNDX",
+    "first_trade_date": "2022-03-08",
+    "last_trade_date": "2024-07-10",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 1930.0,
+      "max": 4073.2,
+      "avg": 3001.6
+    },
+    "total_value": -234.3,
+    "is_active": true,
+    "last_activity_days_ago": 447,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "EVBG",
+    "name": "Everbridge Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "EVBG",
+    "first_trade_date": "2016-09-16",
+    "last_trade_date": "2024-07-08",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 12.3,
+      "max": 35.0,
+      "avg": 23.65
+    },
+    "total_value": -215.17,
+    "is_active": true,
+    "last_activity_days_ago": 449,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "8031",
+    "name": "Mitsui & Co. Ltd",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Industrials",
+    "industry": "Conglomerates",
+    "country": "Japan",
+    "market_cap": 10577240915968,
+    "ticker_for_api": "8031.T",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2024-06-27",
+    "total_trades": 2,
+    "total_quantity": 12.3607,
+    "price_range": {
+      "min": 1233.5,
+      "max": 1233.5,
+      "avg": 1233.5
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 460,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2024-06-27",
+      "total_adjustment_qty": 6.0
+    }
+  },
+  {
+    "symbol": "002935",
+    "name": "Chengdu Spaceon Electronics Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "country": "China",
+    "market_cap": 6645686272,
+    "ticker_for_api": "002935.SZ",
+    "first_trade_date": "2018-09-18",
+    "last_trade_date": "2024-06-20",
+    "total_trades": 2,
+    "total_quantity": 58.577,
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0,
+      "avg": 10.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 467,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2024-06-20",
+      "total_adjustment_qty": 9.0
+    }
+  },
+  {
+    "symbol": "SAAB B",
+    "name": "SAAB AB - Ordinary Shares - Class B",
+    "exchange": "STO",
+    "currency": "SEK",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "SAAB B",
+    "first_trade_date": "2000-01-03",
+    "last_trade_date": "2024-05-07",
+    "total_trades": 2,
+    "total_quantity": 29.378,
+    "price_range": {
+      "min": 75.5,
+      "max": 75.5,
+      "avg": 75.5
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 511,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2024-05-07",
+      "total_adjustment_qty": 22.0
+    }
+  },
+  {
+    "symbol": "SOLV",
+    "name": "Solventum Corp",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies",
+    "country": "United States",
+    "market_cap": 12520332288,
+    "ticker_for_api": "SOLV",
+    "first_trade_date": "2024-04-01",
+    "last_trade_date": "2024-04-02",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 66.9,
+      "max": 69.55,
+      "avg": 68.225
+    },
+    "total_value": 0.55,
+    "is_active": true,
+    "last_activity_days_ago": 546,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "7269",
+    "name": "Suzuki Motor Corp.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "country": "Japan",
+    "market_cap": 4168198914048,
+    "ticker_for_api": "7269.T",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2024-03-28",
+    "total_trades": 2,
+    "total_quantity": 10.8971,
+    "price_range": {
+      "min": 2708.0,
+      "max": 2708.0,
+      "avg": 2708.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 551,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2024-03-28",
+      "total_adjustment_qty": 8.0
+    }
+  },
+  {
+    "symbol": "FDGE",
+    "name": "Farmers Edge Inc",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "FDGE",
+    "first_trade_date": "2021-03-03",
+    "last_trade_date": "2024-03-22",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.35,
+      "max": 20.0,
+      "avg": 10.175
+    },
+    "total_value": 98.05,
+    "is_active": true,
+    "last_activity_days_ago": 557,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "AEVA",
+    "name": "Aeva Technologies Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "country": "United States",
+    "market_cap": 853364608,
+    "ticker_for_api": "AEVA",
+    "first_trade_date": "2020-02-27",
+    "last_trade_date": "2024-03-19",
+    "total_trades": 2,
+    "total_quantity": 1.819,
+    "price_range": {
+      "min": 9.6,
+      "max": 9.6,
+      "avg": 9.6
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 560,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2024-03-19",
+      "total_adjustment_qty": -5.0
+    }
+  },
+  {
+    "symbol": "AYX",
+    "name": "Alteryx Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "AYX",
+    "first_trade_date": "2017-03-24",
+    "last_trade_date": "2024-03-19",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 17.25,
+      "max": 48.26,
+      "avg": 32.755
+    },
+    "total_value": -227.13,
+    "is_active": true,
+    "last_activity_days_ago": 560,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "TSP",
+    "name": "TuSimple Holdings Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "TSP",
+    "first_trade_date": "2021-04-15",
+    "last_trade_date": "2024-02-20",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.25,
+      "max": 40.25,
+      "avg": 20.25
+    },
+    "total_value": 99.27,
+    "is_active": true,
+    "last_activity_days_ago": 588,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "SORT",
+    "name": "Sorted Group Holdings Plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "country": "United Kingdom",
+    "market_cap": 1909925,
+    "ticker_for_api": "SORT.L",
+    "first_trade_date": "2018-03-22",
+    "last_trade_date": "2024-02-19",
+    "total_trades": 2,
+    "total_quantity": 437.0,
+    "price_range": {
+      "min": 0.0002,
+      "max": 0.0002,
+      "avg": 0.0002
+    },
+    "total_value": 100.02,
+    "is_active": true,
+    "last_activity_days_ago": 589,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2024-02-19",
+      "total_adjustment_qty": -272263.0
+    }
+  },
+  {
+    "symbol": "GOJXN",
+    "name": "GeoJunxion N.V.",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "GOJXN",
+    "first_trade_date": "2021-02-02",
+    "last_trade_date": "2024-01-17",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 1.1,
+      "max": 1.835,
+      "avg": 1.4675
+    },
+    "total_value": 37.05,
+    "is_active": true,
+    "last_activity_days_ago": 622,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "NIR",
+    "name": "Near Intelligence Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "NIR",
+    "first_trade_date": "2023-03-23",
+    "last_trade_date": "2024-01-01",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.004,
+      "max": 17.38,
+      "avg": 8.692
+    },
+    "total_value": 99.98,
+    "is_active": true,
+    "last_activity_days_ago": 638,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "8058",
+    "name": "Mitsubishi Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Industrials",
+    "industry": "Conglomerates",
+    "country": "Japan",
+    "market_cap": 13383672791040,
+    "ticker_for_api": "8058.T",
+    "first_trade_date": "2019-12-20",
+    "last_trade_date": "2023-12-28",
+    "total_trades": 2,
+    "total_quantity": 1.289,
+    "price_range": {
+      "min": 2913.0,
+      "max": 2913.0,
+      "avg": 2913.0
+    },
+    "total_value": 15.0,
+    "is_active": true,
+    "last_activity_days_ago": 642,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2023-12-28",
+      "total_adjustment_qty": 0.9
+    }
+  },
+  {
+    "symbol": "LIDR",
+    "name": "AEye Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "country": "United States",
+    "market_cap": 94265760,
+    "ticker_for_api": "LIDR",
+    "first_trade_date": "2021-01-11",
+    "last_trade_date": "2023-12-27",
+    "total_trades": 2,
+    "total_quantity": 0.219,
+    "price_range": {
+      "min": 11.0,
+      "max": 11.0,
+      "avg": 11.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 643,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2023-12-27",
+      "total_adjustment_qty": -6.8
+    }
+  },
+  {
+    "symbol": "SIDU",
+    "name": "Sidus Space Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "country": "United States",
+    "market_cap": 37607808,
+    "ticker_for_api": "SIDU",
+    "first_trade_date": "2021-12-14",
+    "last_trade_date": "2023-12-20",
+    "total_trades": 2,
+    "total_quantity": 0.0264,
+    "price_range": {
+      "min": 27.0,
+      "max": 27.0,
+      "avg": 27.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 650,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2023-12-20",
+      "total_adjustment_qty": -2.61459
+    }
+  },
+  {
+    "symbol": "533048",
+    "name": "Teamo Productions HQ Ltd.",
+    "exchange": "BSE",
+    "currency": "INR",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "533048",
+    "first_trade_date": "2009-01-30",
+    "last_trade_date": "2023-12-14",
+    "total_trades": 2,
+    "total_quantity": 1775.63,
+    "price_range": {
+      "min": 18.1,
+      "max": 18.1,
+      "avg": 18.1
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 656,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2023-12-14",
+      "total_adjustment_qty": 1598.0
+    }
+  },
+  {
+    "symbol": "JG",
+    "name": "Aurora Mobile Ltd - ADR",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "country": "China",
+    "market_cap": 48564068,
+    "ticker_for_api": "JG",
+    "first_trade_date": "2018-07-25",
+    "last_trade_date": "2023-12-11",
+    "total_trades": 2,
+    "total_quantity": 0.4714,
+    "price_range": {
+      "min": 9.0,
+      "max": 9.0,
+      "avg": 9.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 659,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2023-12-11",
+      "total_adjustment_qty": -7.8166
+    }
+  },
+  {
+    "symbol": "AAC",
+    "name": "AAC Clyde Space AB (publ)",
+    "exchange": "STO",
+    "currency": "SEK",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "AAC",
+    "first_trade_date": "2016-12-21",
+    "last_trade_date": "2023-11-13",
+    "total_trades": 2,
+    "total_quantity": 2.23,
+    "price_range": {
+      "min": 6.334,
+      "max": 6.334,
+      "avg": 6.334
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 687,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2023-11-13",
+      "total_adjustment_qty": -105.0
+    }
+  },
+  {
+    "symbol": "SPIR",
+    "name": "Spire Global Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "country": "United States",
+    "market_cap": 352409344,
+    "ticker_for_api": "SPIR",
+    "first_trade_date": "2020-11-03",
+    "last_trade_date": "2023-08-31",
+    "total_trades": 2,
+    "total_quantity": 1.572,
+    "price_range": {
+      "min": 9.5,
+      "max": 9.5,
+      "avg": 9.5
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 761,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2023-08-31",
+      "total_adjustment_qty": -6.0
+    }
+  },
+  {
+    "symbol": "KSS",
+    "name": "Kleos",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "KSS",
+    "first_trade_date": "2018-08-24",
+    "last_trade_date": "2023-08-29",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.1,
+      "max": 0.16,
+      "avg": 0.13
+    },
+    "total_value": 37.5,
+    "is_active": true,
+    "last_activity_days_ago": 763,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "002829",
+    "name": "Beijing StarNeto Technology Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments",
+    "country": "China",
+    "market_cap": 4742210048,
+    "ticker_for_api": "002829.SZ",
+    "first_trade_date": "2016-12-13",
+    "last_trade_date": "2023-07-04",
+    "total_trades": 2,
+    "total_quantity": 24.323,
+    "price_range": {
+      "min": 25.42,
+      "max": 25.42,
+      "avg": 25.42
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 819,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2023-07-04",
+      "total_adjustment_qty": 4.0
+    }
+  },
+  {
+    "symbol": "688066",
+    "name": "Beijing Piesat Information Technology Co. Ltd. - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "country": "China",
+    "market_cap": 9199577088,
+    "ticker_for_api": "688066.SS",
+    "first_trade_date": "2019-07-22",
+    "last_trade_date": "2023-05-29",
+    "total_trades": 2,
+    "total_quantity": 14.164,
+    "price_range": {
+      "min": 47.6,
+      "max": 47.6,
+      "avg": 47.6
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 855,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Split"
+      ],
+      "last_action_date": "2023-05-29",
+      "total_adjustment_qty": 4.0
+    }
+  },
+  {
+    "symbol": "ALPP",
+    "name": "Alpine 4 Holdings Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Conglomerates",
+    "country": "United States",
+    "market_cap": 13527,
+    "ticker_for_api": "ALPP",
+    "first_trade_date": "2017-01-13",
+    "last_trade_date": "2023-05-15",
+    "total_trades": 2,
+    "total_quantity": 0.23,
+    "price_range": {
+      "min": 60.0,
+      "max": 60.0,
+      "avg": 60.0
+    },
+    "total_value": 100.07,
+    "is_active": true,
+    "last_activity_days_ago": 869,
+    "has_corporate_actions": true,
+    "corporate_actions": {
+      "types": [
+        "Consolidation"
+      ],
+      "last_action_date": "2023-05-15",
+      "total_adjustment_qty": -1.0
+    }
+  },
+  {
+    "symbol": "MAXR",
+    "name": "Maxar Technologies Inc",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "MAXR",
+    "first_trade_date": "2000-07-12",
+    "last_trade_date": "2023-05-03",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 14.0,
+      "max": 71.35,
+      "avg": 42.675
+    },
+    "total_value": -389.66,
+    "is_active": true,
+    "last_activity_days_ago": 881,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "VORB",
+    "name": "Virgin Orbit Holdings Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "VORB",
+    "first_trade_date": "2021-05-19",
+    "last_trade_date": "2023-04-16",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.0769,
+      "max": 9.7,
+      "avg": 4.8884
+    },
+    "total_value": 99.08,
+    "is_active": true,
+    "last_activity_days_ago": 898,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "VLDR",
+    "name": "Velodyne Lidar Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "VLDR",
+    "first_trade_date": "2018-10-26",
+    "last_trade_date": "2023-02-14",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.0,
+      "max": 9.55,
+      "avg": 4.775
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 959,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "SWIR",
+    "name": "Sierra Wireless Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "SWIR",
+    "first_trade_date": "2003-06-30",
+    "last_trade_date": "2023-01-13",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 6.45,
+      "max": 30.99,
+      "avg": 18.72
+    },
+    "total_value": -358.01,
+    "is_active": true,
+    "last_activity_days_ago": 991,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "NOKIA SEK",
+    "name": "Nokia Corp",
+    "exchange": "STO",
+    "currency": "SEK",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "NOKIA SEK",
+    "first_trade_date": "2006-06-30",
+    "last_trade_date": "2022-12-31",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 48.285,
+      "max": 147.0,
+      "avg": 97.6425
+    },
+    "total_value": 75.11,
+    "is_active": true,
+    "last_activity_days_ago": 1004,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "TKX.H",
+    "name": "TrackX Holdings Inc",
+    "exchange": "CVE",
+    "currency": "CAD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "TKX.H",
+    "first_trade_date": "2016-08-12",
+    "last_trade_date": "2022-12-07",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.005,
+      "max": 0.47,
+      "avg": 0.2375
+    },
+    "total_value": 98.83,
+    "is_active": true,
+    "last_activity_days_ago": 1028,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "NEA",
+    "name": "Nearmap Ltd",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "NEA",
+    "first_trade_date": "2012-11-01",
+    "last_trade_date": "2022-12-06",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.035,
+      "max": 2.1,
+      "avg": 1.0675
+    },
+    "total_value": -5899.7,
+    "is_active": true,
+    "last_activity_days_ago": 1029,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "TIC",
+    "name": "Acuren Corporation Ltd.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "country": "United States",
+    "market_cap": 2906545664,
+    "ticker_for_api": "TIC",
+    "first_trade_date": "2025-08-04",
+    "last_trade_date": "2025-08-04",
+    "total_trades": 1,
+    "total_quantity": 11.0505,
+    "price_range": {
+      "min": 11.03,
+      "max": 11.03,
+      "avg": 11.03
+    },
+    "total_value": 188.35,
+    "is_active": true,
+    "last_activity_days_ago": 57,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "AME",
+    "name": "Ametek Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "country": "United States",
+    "market_cap": 43158364160,
+    "ticker_for_api": "AME",
+    "first_trade_date": "2025-07-21",
+    "last_trade_date": "2025-07-21",
+    "total_trades": 1,
+    "total_quantity": 0.9338,
+    "price_range": {
+      "min": 178.51,
+      "max": 178.51,
+      "avg": 178.51
+    },
+    "total_value": 255.97,
+    "is_active": true,
+    "last_activity_days_ago": 71,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "SNPS",
+    "name": "Synopsys, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "country": "United States",
+    "market_cap": 90600767488,
+    "ticker_for_api": "SNPS",
+    "first_trade_date": "2025-07-17",
+    "last_trade_date": "2025-07-17",
+    "total_trades": 1,
+    "total_quantity": 0.1508,
+    "price_range": {
+      "min": 571.2,
+      "max": 571.2,
+      "avg": 571.2
+    },
+    "total_value": 132.06,
+    "is_active": true,
+    "last_activity_days_ago": 75,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "81D",
+    "name": "Swissnet Group AG",
+    "exchange": "XETR",
+    "currency": "EUR",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "81D",
+    "first_trade_date": "2025-05-06",
+    "last_trade_date": "2025-05-06",
+    "total_trades": 1,
+    "total_quantity": 2.532,
+    "price_range": {
+      "min": 6.25,
+      "max": 6.25,
+      "avg": 6.25
+    },
+    "total_value": 27.59,
+    "is_active": true,
+    "last_activity_days_ago": 147,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "336A",
+    "name": "Dynamic Map Platform Co. Ltd.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "country": "Japan",
+    "market_cap": 25538463744,
+    "ticker_for_api": "336A.T",
+    "first_trade_date": "2025-03-27",
+    "last_trade_date": "2025-03-27",
+    "total_trades": 1,
+    "total_quantity": 5.938,
+    "price_range": {
+      "min": 1601.0,
+      "max": 1601.0,
+      "avg": 1601.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 187,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "CSGP",
+    "name": "Costar Group, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "country": "United States",
+    "market_cap": 35684073472,
+    "ticker_for_api": "CSGP",
+    "first_trade_date": "2025-03-10",
+    "last_trade_date": "2025-03-10",
+    "total_trades": 1,
+    "total_quantity": 0.4859,
+    "price_range": {
+      "min": 79.39,
+      "max": 79.39,
+      "avg": 79.39
+    },
+    "total_value": 61.21,
+    "is_active": true,
+    "last_activity_days_ago": 204,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "7276",
+    "name": "Koito Manufacturing Co. Ltd",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "country": "Japan",
+    "market_cap": 624733388800,
+    "ticker_for_api": "7276.T",
+    "first_trade_date": "2025-01-07",
+    "last_trade_date": "2025-01-07",
+    "total_trades": 1,
+    "total_quantity": 0.244,
+    "price_range": {
+      "min": 2002.5,
+      "max": 2002.5,
+      "avg": 2002.5
+    },
+    "total_value": 4.95,
+    "is_active": true,
+    "last_activity_days_ago": 266,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "290A",
+    "name": "Synspective Inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "country": "Japan",
+    "market_cap": 100868636672,
+    "ticker_for_api": "290A.T",
+    "first_trade_date": "2024-12-19",
+    "last_trade_date": "2024-12-19",
+    "total_trades": 1,
+    "total_quantity": 15.465,
+    "price_range": {
+      "min": 635.0,
+      "max": 635.0,
+      "avg": 635.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 285,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "278A",
+    "name": "Terra Drone Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "country": "Japan",
+    "market_cap": 32648783872,
+    "ticker_for_api": "278A.T",
+    "first_trade_date": "2024-11-29",
+    "last_trade_date": "2024-11-29",
+    "total_trades": 1,
+    "total_quantity": 4.5087,
+    "price_range": {
+      "min": 2162.0,
+      "max": 2162.0,
+      "avg": 2162.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 305,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "9660",
+    "name": "Horizon Robotics - Ordinary Shares - Class B",
+    "exchange": "HKG",
+    "currency": "HKD",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "country": "China",
+    "market_cap": 112631144448,
+    "ticker_for_api": "9660.HK",
+    "first_trade_date": "2024-10-25",
+    "last_trade_date": "2024-10-25",
+    "total_trades": 1,
+    "total_quantity": 128.65,
+    "price_range": {
+      "min": 3.99,
+      "max": 3.99,
+      "avg": 3.99
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 340,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "SPACE42",
+    "name": "SPACE42",
+    "exchange": "OTHER",
+    "currency": "AED",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "SPACE42",
+    "first_trade_date": "2024-10-01",
+    "last_trade_date": "2024-10-01",
+    "total_trades": 1,
+    "total_quantity": 151.22,
+    "price_range": {
+      "min": 2.38,
+      "max": 2.38,
+      "avg": 2.38
+    },
+    "total_value": 142.4,
+    "is_active": true,
+    "last_activity_days_ago": 364,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "KKR",
+    "name": "KKR & Co. Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "country": "United States",
+    "market_cap": 124028575744,
+    "ticker_for_api": "KKR",
+    "first_trade_date": "2024-09-24",
+    "last_trade_date": "2024-09-24",
+    "total_trades": 1,
+    "total_quantity": 1.6342,
+    "price_range": {
+      "min": 132.6,
+      "max": 132.6,
+      "avg": 132.6
+    },
+    "total_value": 317.02,
+    "is_active": true,
+    "last_activity_days_ago": 371,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "186A",
+    "name": "Astroscale Holdings Inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "country": "Japan",
+    "market_cap": 90530234368,
+    "ticker_for_api": "186A.T",
+    "first_trade_date": "2024-06-05",
+    "last_trade_date": "2024-06-05",
+    "total_trades": 1,
+    "total_quantity": 7.548,
+    "price_range": {
+      "min": 1375.0,
+      "max": 1375.0,
+      "avg": 1375.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 482,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "VIAV",
+    "name": "Viavi Solutions Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "country": "United States",
+    "market_cap": 2800620032,
+    "ticker_for_api": "VIAV",
+    "first_trade_date": "2024-03-05",
+    "last_trade_date": "2024-03-05",
+    "total_trades": 1,
+    "total_quantity": 1.37,
+    "price_range": {
+      "min": 9.73,
+      "max": 9.73,
+      "avg": 9.73
+    },
+    "total_value": 20.49,
+    "is_active": true,
+    "last_activity_days_ago": 574,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "9880",
+    "name": "Ubtech Robotics Corp Ltd. - Ordinary Shares - Class H",
+    "exchange": "HKG",
+    "currency": "HKD",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "country": "China",
+    "market_cap": 72724938752,
+    "ticker_for_api": "9880.HK",
+    "first_trade_date": "2023-12-29",
+    "last_trade_date": "2023-12-29",
+    "total_trades": 1,
+    "total_quantity": 5.859,
+    "price_range": {
+      "min": 90.85,
+      "max": 90.85,
+      "avg": 90.85
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 641,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "NIO",
+    "name": "NIO Inc - ADR",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "country": "China",
+    "market_cap": 17920352256,
+    "ticker_for_api": "NIO",
+    "first_trade_date": "2023-12-25",
+    "last_trade_date": "2023-12-25",
+    "total_trades": 1,
+    "total_quantity": 8.071,
+    "price_range": {
+      "min": 8.42,
+      "max": 8.42,
+      "avg": 8.42
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 645,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "ORI",
+    "name": "Orica Limited",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "country": "Australia",
+    "market_cap": 10013892608,
+    "ticker_for_api": "ORI.AX",
+    "first_trade_date": "2023-12-19",
+    "last_trade_date": "2023-12-19",
+    "total_trades": 1,
+    "total_quantity": 6.013,
+    "price_range": {
+      "min": 16.63,
+      "max": 16.63,
+      "avg": 16.63
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 651,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "EMR",
+    "name": "Emerson Electric Co.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "country": "United States",
+    "market_cap": 72741896192,
+    "ticker_for_api": "EMR",
+    "first_trade_date": "2023-10-23",
+    "last_trade_date": "2023-10-23",
+    "total_trades": 1,
+    "total_quantity": 2.4924,
+    "price_range": {
+      "min": 91.47,
+      "max": 91.47,
+      "avg": 91.47
+    },
+    "total_value": 360.78,
+    "is_active": true,
+    "last_activity_days_ago": 708,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "6526",
+    "name": "Airoha Technology Corp",
+    "exchange": "TAI",
+    "currency": "TWD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "6526",
+    "first_trade_date": "2023-10-19",
+    "last_trade_date": "2023-10-19",
+    "total_trades": 1,
+    "total_quantity": 4.9316,
+    "price_range": {
+      "min": 415.0,
+      "max": 415.0,
+      "avg": 415.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 712,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "SCW",
+    "name": "Scanway S.A.",
+    "exchange": "WAR",
+    "currency": "PLN",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "SCW",
+    "first_trade_date": "2023-10-11",
+    "last_trade_date": "2023-10-11",
+    "total_trades": 1,
+    "total_quantity": 6.147,
+    "price_range": {
+      "min": 44.5,
+      "max": 44.5,
+      "avg": 44.5
+    },
+    "total_value": 100.01,
+    "is_active": true,
+    "last_activity_days_ago": 720,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "AGCO",
+    "name": "AGCO Corp.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery",
+    "country": "United States",
+    "market_cap": 8191808512,
+    "ticker_for_api": "AGCO",
+    "first_trade_date": "2023-09-28",
+    "last_trade_date": "2023-09-28",
+    "total_trades": 1,
+    "total_quantity": 0.5402,
+    "price_range": {
+      "min": 117.55,
+      "max": 117.55,
+      "avg": 117.55
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 733,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "PXDT",
+    "name": "Pixie Dust Technologies Inc - ADR",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "PXDT",
+    "first_trade_date": "2023-08-23",
+    "last_trade_date": "2023-08-23",
+    "total_trades": 1,
+    "total_quantity": 8.129,
+    "price_range": {
+      "min": 7.97,
+      "max": 7.97,
+      "avg": 7.97
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 769,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "IDEAFORGE",
+    "name": "Ideaforge Technology Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "IDEAFORGE",
+    "first_trade_date": "2023-07-10",
+    "last_trade_date": "2023-07-10",
+    "total_trades": 1,
+    "total_quantity": 4.7394,
+    "price_range": {
+      "min": 1162.4,
+      "max": 1162.4,
+      "avg": 1162.4
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 813,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "688562",
+    "name": "Beijing Shenzhou Aerospace Software Technology Co. Ltd - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "country": "China",
+    "market_cap": 7351999488,
+    "ticker_for_api": "688562.SS",
+    "first_trade_date": "2023-05-24",
+    "last_trade_date": "2023-05-24",
+    "total_trades": 1,
+    "total_quantity": 16.159,
+    "price_range": {
+      "min": 28.6,
+      "max": 28.6,
+      "avg": 28.6
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 860,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "9348",
+    "name": "ispace inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Technology",
+    "industry": "Computer Hardware",
+    "country": "Japan",
+    "market_cap": 56002977792,
+    "ticker_for_api": "9348.T",
+    "first_trade_date": "2023-04-13",
+    "last_trade_date": "2023-04-13",
+    "total_trades": 1,
+    "total_quantity": 8.986,
+    "price_range": {
+      "min": 1000.0,
+      "max": 1000.0,
+      "avg": 1000.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 901,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "MLUAV",
+    "name": "Embention Sistemas Inteligentes S.A.",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "sector": "Technology",
+    "industry": "Computer Hardware",
+    "country": "Spain",
+    "market_cap": 99369504,
+    "ticker_for_api": "MLUAV.PA",
+    "first_trade_date": "2023-03-03",
+    "last_trade_date": "2023-03-03",
+    "total_trades": 1,
+    "total_quantity": 12.72,
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0,
+      "avg": 5.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 942,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "LUNR",
+    "name": "Intuitive Machines Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "country": "United States",
+    "market_cap": 1208828416,
+    "ticker_for_api": "LUNR",
+    "first_trade_date": "2023-02-14",
+    "last_trade_date": "2023-02-14",
+    "total_trades": 1,
+    "total_quantity": 6.687,
+    "price_range": {
+      "min": 10.42,
+      "max": 10.42,
+      "avg": 10.42
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 959,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "HSAI",
+    "name": "Hesai Group - ADR",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "country": "China",
+    "market_cap": 4554122752,
+    "ticker_for_api": "HSAI",
+    "first_trade_date": "2023-02-09",
+    "last_trade_date": "2023-02-09",
+    "total_trades": 1,
+    "total_quantity": 2.917,
+    "price_range": {
+      "min": 23.75,
+      "max": 23.75,
+      "avg": 23.75
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 964,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "PRGS",
+    "name": "Progress Software Corp.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "country": "United States",
+    "market_cap": 1836846720,
+    "ticker_for_api": "PRGS",
+    "first_trade_date": "2023-02-06",
+    "last_trade_date": "2023-02-06",
+    "total_trades": 1,
+    "total_quantity": 1.2295,
+    "price_range": {
+      "min": 56.02,
+      "max": 56.02,
+      "avg": 56.02
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 967,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "1417",
+    "name": "MIRAIT One Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "country": "Japan",
+    "market_cap": 256005275648,
+    "ticker_for_api": "1417.T",
+    "first_trade_date": "2023-01-23",
+    "last_trade_date": "2023-01-23",
+    "total_trades": 1,
+    "total_quantity": 5.887,
+    "price_range": {
+      "min": 1559.0,
+      "max": 1559.0,
+      "avg": 1559.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 981,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "SMTC",
+    "name": "Semtech Corp.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "country": "United States",
+    "market_cap": 5464157696,
+    "ticker_for_api": "SMTC",
+    "first_trade_date": "2023-01-13",
+    "last_trade_date": "2023-01-13",
+    "total_trades": 1,
+    "total_quantity": 10.389,
+    "price_range": {
+      "min": 30.71,
+      "max": 30.71,
+      "avg": 30.71
+    },
+    "total_value": 458.01,
+    "is_active": true,
+    "last_activity_days_ago": 991,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "543713",
+    "name": "Droneacharya Aerial Innovations Ltd.",
+    "exchange": "BSE",
+    "currency": "INR",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "543713",
+    "first_trade_date": "2022-12-23",
+    "last_trade_date": "2022-12-23",
+    "total_trades": 1,
+    "total_quantity": 54.42,
+    "price_range": {
+      "min": 102.0,
+      "max": 102.0,
+      "avg": 102.0
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 1012,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "ECX",
+    "name": "ECARX Holdings Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "country": "China",
+    "market_cap": 727565760,
+    "ticker_for_api": "ECX",
+    "first_trade_date": "2022-12-09",
+    "last_trade_date": "2022-12-09",
+    "total_trades": 1,
+    "total_quantity": 6.764,
+    "price_range": {
+      "min": 10.02,
+      "max": 10.02,
+      "avg": 10.02
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 1026,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "LITE",
+    "name": "SpotLite360 IOT Solutions Inc",
+    "exchange": "CNSX",
+    "currency": "CAD",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "country": "United States",
+    "market_cap": 11364341760,
+    "ticker_for_api": "LITE",
+    "first_trade_date": "2022-12-07",
+    "last_trade_date": "2022-12-07",
+    "total_trades": 1,
+    "total_quantity": 9.3,
+    "price_range": {
+      "min": 0.115,
+      "max": 0.115,
+      "avg": 0.115
+    },
+    "total_value": 1.17,
+    "is_active": true,
+    "last_activity_days_ago": 1028,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "GRND",
+    "name": "Grindr Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "country": "United States",
+    "market_cap": 3019808256,
+    "ticker_for_api": "GRND",
+    "first_trade_date": "2022-11-18",
+    "last_trade_date": "2022-11-18",
+    "total_trades": 1,
+    "total_quantity": 5.7524,
+    "price_range": {
+      "min": 11.63,
+      "max": 11.63,
+      "avg": 11.63
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 1047,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "ARWY",
+    "name": "Arway Corporation",
+    "exchange": "CNSX",
+    "currency": "CAD",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "country": "Unknown",
+    "market_cap": null,
+    "ticker_for_api": "ARWY",
+    "first_trade_date": "2022-10-31",
+    "last_trade_date": "2022-10-31",
+    "total_trades": 1,
+    "total_quantity": 130.0,
+    "price_range": {
+      "min": 0.67,
+      "max": 0.67,
+      "avg": 0.67
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 1065,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "QBE",
+    "name": "Qbe Insurance Group",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "sector": "Financial Services",
+    "industry": "Insurance - Property & Casualty",
+    "country": "Australia",
+    "market_cap": 31091216384,
+    "ticker_for_api": "QBE.AX",
+    "first_trade_date": "2022-10-28",
+    "last_trade_date": "2022-10-28",
+    "total_trades": 1,
+    "total_quantity": 8.177,
+    "price_range": {
+      "min": 12.23,
+      "max": 12.23,
+      "avg": 12.23
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 1068,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  },
+  {
+    "symbol": "MBLY",
+    "name": "Mobileye Global Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "country": "Israel",
+    "market_cap": 11270769664,
+    "ticker_for_api": "MBLY",
+    "first_trade_date": "2022-10-26",
+    "last_trade_date": "2022-10-26",
+    "total_trades": 1,
+    "total_quantity": 2.2417,
+    "price_range": {
+      "min": 28.97,
+      "max": 28.97,
+      "avg": 28.97
+    },
+    "total_value": 100.0,
+    "is_active": true,
+    "last_activity_days_ago": 1070,
+    "has_corporate_actions": false,
+    "corporate_actions": null
+  }
+]

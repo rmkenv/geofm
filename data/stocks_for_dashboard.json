@@ -1,0 +1,7426 @@
+[
+  {
+    "symbol": "000551",
+    "name": "Create Technology & Science Co. Ltd. - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2005-07-06",
+    "last_trade_date": "2025-07-04",
+    "total_trades": 2,
+    "total_quantity": 438.0,
+    "price_range": {
+      "min": 1.68,
+      "max": 1.68,
+      "avg": 1.68
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "002151",
+    "name": "Beijing Bdstar Navigation Co. Ltd. - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2007-08-13",
+    "last_trade_date": "2016-04-28",
+    "total_trades": 4,
+    "total_quantity": 62.235,
+    "price_range": {
+      "min": 27.7209,
+      "max": 27.7209,
+      "avg": 27.7209
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "002383",
+    "name": "Beijing UniStrong Science & Technology Co - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2010-04-02",
+    "last_trade_date": "2010-04-02",
+    "total_trades": 1,
+    "total_quantity": 34.438,
+    "price_range": {
+      "min": 18.16,
+      "max": 18.16,
+      "avg": 18.16
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "002389",
+    "name": "Aerospace CH UAV Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2010-04-13",
+    "last_trade_date": "2010-04-13",
+    "total_trades": 1,
+    "total_quantity": 7.738,
+    "price_range": {
+      "min": 81.8,
+      "max": 81.8,
+      "avg": 81.8
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "002405",
+    "name": "Navinfo Company Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2010-05-03",
+    "last_trade_date": "2016-06-20",
+    "total_trades": 5,
+    "total_quantity": 94.157,
+    "price_range": {
+      "min": 17.3405,
+      "max": 17.3405,
+      "avg": 17.3405
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "002813",
+    "name": "Shenzhen Roadrover Technology Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2016-10-12",
+    "last_trade_date": "2016-10-12",
+    "total_trades": 1,
+    "total_quantity": 51.12,
+    "price_range": {
+      "min": 9.92,
+      "max": 9.92,
+      "avg": 9.92
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "002829",
+    "name": "Beijing StarNeto Technology Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2016-12-13",
+    "last_trade_date": "2023-07-04",
+    "total_trades": 2,
+    "total_quantity": 24.323,
+    "price_range": {
+      "min": 25.42,
+      "max": 25.42,
+      "avg": 25.42
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "002935",
+    "name": "Chengdu Spaceon Electronics Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2018-09-18",
+    "last_trade_date": "2024-06-20",
+    "total_trades": 2,
+    "total_quantity": 58.577,
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0,
+      "avg": 10.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "005380",
+    "name": "Hyundai Motor",
+    "exchange": "KRX",
+    "currency": "KRW",
+    "first_trade_date": "2020-07-23",
+    "last_trade_date": "2020-07-23",
+    "total_trades": 1,
+    "total_quantity": 0.6852,
+    "price_range": {
+      "min": 124500.0,
+      "max": 124500.0,
+      "avg": 124500.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "005930",
+    "name": "Samsung Electronics",
+    "exchange": "KRX",
+    "currency": "KRW",
+    "first_trade_date": "2012-06-30",
+    "last_trade_date": "2018-05-04",
+    "total_trades": 2,
+    "total_quantity": 5.1194,
+    "price_range": {
+      "min": 978000.0,
+      "max": 978000.0,
+      "avg": 978000.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "017670",
+    "name": "SK Telecom Co Ltd",
+    "exchange": "KRX",
+    "currency": "KRW",
+    "first_trade_date": "2003-10-10",
+    "last_trade_date": "2021-11-29",
+    "total_trades": 2,
+    "total_quantity": 28.8736,
+    "price_range": {
+      "min": 13530.0,
+      "max": 13530.0,
+      "avg": 13530.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "03036",
+    "name": "RedPlanet Berhad",
+    "exchange": "KLS",
+    "currency": "MYR",
+    "first_trade_date": "2020-08-04",
+    "last_trade_date": "2020-08-04",
+    "total_trades": 1,
+    "total_quantity": 946.2,
+    "price_range": {
+      "min": 0.32,
+      "max": 0.32,
+      "avg": 0.32
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "030520",
+    "name": "Haansoft",
+    "exchange": "KOSDAQ",
+    "currency": "KRW",
+    "first_trade_date": "2018-06-30",
+    "last_trade_date": "2018-06-30",
+    "total_trades": 1,
+    "total_quantity": 4.5856,
+    "price_range": {
+      "min": 18000.0,
+      "max": 18000.0,
+      "avg": 18000.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "035420",
+    "name": "Naver Co Ltd",
+    "exchange": "KRX",
+    "currency": "KRW",
+    "first_trade_date": "2008-11-28",
+    "last_trade_date": "2018-10-12",
+    "total_trades": 2,
+    "total_quantity": 3.7836,
+    "price_range": {
+      "min": 122500.0,
+      "max": 122500.0,
+      "avg": 122500.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "035720",
+    "name": "Kakao Corp",
+    "exchange": "KRX",
+    "currency": "KRW",
+    "first_trade_date": "2016-06-30",
+    "last_trade_date": "2021-04-15",
+    "total_trades": 2,
+    "total_quantity": 22.659,
+    "price_range": {
+      "min": 18470.0,
+      "max": 18470.0,
+      "avg": 18470.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "038950",
+    "name": "Finedigital Inc.",
+    "exchange": "KOSDAQ",
+    "currency": "KRW",
+    "first_trade_date": "2004-02-02",
+    "last_trade_date": "2004-02-02",
+    "total_trades": 1,
+    "total_quantity": 31.07,
+    "price_range": {
+      "min": 2860.0,
+      "max": 2860.0,
+      "avg": 2860.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "046310",
+    "name": "BG T&A Co.",
+    "exchange": "KOSDAQ",
+    "currency": "KRW",
+    "first_trade_date": "2004-02-02",
+    "last_trade_date": "2004-02-02",
+    "total_trades": 1,
+    "total_quantity": 42.316,
+    "price_range": {
+      "min": 2100.0,
+      "max": 2100.0,
+      "avg": 2100.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "084730",
+    "name": "Thinkware Systems Corporation",
+    "exchange": "KOSDAQ",
+    "currency": "KRW",
+    "first_trade_date": "2006-05-19",
+    "last_trade_date": "2006-05-19",
+    "total_trades": 1,
+    "total_quantity": 5.996,
+    "price_range": {
+      "min": 12050.0,
+      "max": 12050.0,
+      "avg": 12050.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "099320",
+    "name": "Satrec Initiative Co Ltd",
+    "exchange": "KOSDAQ",
+    "currency": "KRW",
+    "first_trade_date": "2008-06-02",
+    "last_trade_date": "2008-06-02",
+    "total_trades": 1,
+    "total_quantity": 4.0679,
+    "price_range": {
+      "min": 24000.0,
+      "max": 24000.0,
+      "avg": 24000.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "1417",
+    "name": "MIRAIT One Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2023-01-23",
+    "last_trade_date": "2023-01-23",
+    "total_trades": 1,
+    "total_quantity": 5.887,
+    "price_range": {
+      "min": 1559.0,
+      "max": 1559.0,
+      "avg": 1559.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "1802",
+    "name": "Obayashi Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2001-12-07",
+    "last_trade_date": "2001-12-07",
+    "total_trades": 1,
+    "total_quantity": 15.203,
+    "price_range": {
+      "min": 424.0,
+      "max": 424.0,
+      "avg": 424.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "1803",
+    "name": "Shimizu Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2001-12-07",
+    "last_trade_date": "2001-12-07",
+    "total_trades": 1,
+    "total_quantity": 13.43,
+    "price_range": {
+      "min": 480.0,
+      "max": 480.0,
+      "avg": 480.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "186A",
+    "name": "Astroscale Holdings Inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2024-06-05",
+    "last_trade_date": "2024-06-05",
+    "total_trades": 1,
+    "total_quantity": 7.548,
+    "price_range": {
+      "min": 1375.0,
+      "max": 1375.0,
+      "avg": 1375.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "1903",
+    "name": "Jbb Builders International Limited",
+    "exchange": "HKG",
+    "currency": "HKD",
+    "first_trade_date": "2019-05-10",
+    "last_trade_date": "2019-05-10",
+    "total_trades": 1,
+    "total_quantity": 446.7,
+    "price_range": {
+      "min": 1.23,
+      "max": 1.23,
+      "avg": 1.23
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "1926",
+    "name": "Raito Kogyo Co. Ltd.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2006-06-30",
+    "last_trade_date": "2006-06-30",
+    "total_trades": 1,
+    "total_quantity": 21.46,
+    "price_range": {
+      "min": 396.0,
+      "max": 396.0,
+      "avg": 396.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "1CNHI",
+    "name": "CNH Industrial NV",
+    "exchange": "BIT",
+    "currency": "EUR",
+    "first_trade_date": "2016-02-08",
+    "last_trade_date": "2016-02-08",
+    "total_trades": 1,
+    "total_quantity": 11.439,
+    "price_range": {
+      "min": 5.53,
+      "max": 5.53,
+      "avg": 5.53
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "208860",
+    "name": "Engis Technologies Inc",
+    "exchange": "KOSDAQ",
+    "currency": "KRW",
+    "first_trade_date": "2016-07-01",
+    "last_trade_date": "2016-07-01",
+    "total_trades": 1,
+    "total_quantity": 13.518,
+    "price_range": {
+      "min": 6335.0,
+      "max": 6335.0,
+      "avg": 6335.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "2395",
+    "name": "Advantech",
+    "exchange": "TAI",
+    "currency": "TWD",
+    "first_trade_date": "2014-07-01",
+    "last_trade_date": "2023-07-04",
+    "total_trades": 3,
+    "total_quantity": 13.145,
+    "price_range": {
+      "min": 252.5,
+      "max": 252.5,
+      "avg": 252.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "2454",
+    "name": "Media Tek Inc",
+    "exchange": "TAI",
+    "currency": "TWD",
+    "first_trade_date": "2013-01-28",
+    "last_trade_date": "2013-01-28",
+    "total_trades": 1,
+    "total_quantity": 7.024,
+    "price_range": {
+      "min": 436.5,
+      "max": 436.5,
+      "avg": 436.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "248",
+    "name": "HKC International Holdings",
+    "exchange": "HKG",
+    "currency": "HKD",
+    "first_trade_date": "2016-01-25",
+    "last_trade_date": "2016-01-25",
+    "total_trades": 1,
+    "total_quantity": 1934.0,
+    "price_range": {
+      "min": 0.28,
+      "max": 0.28,
+      "avg": 0.28
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "278A",
+    "name": "Terra Drone Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2024-11-29",
+    "last_trade_date": "2024-11-29",
+    "total_trades": 1,
+    "total_quantity": 4.5087,
+    "price_range": {
+      "min": 2162.0,
+      "max": 2162.0,
+      "avg": 2162.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "290A",
+    "name": "Synspective Inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2024-12-19",
+    "last_trade_date": "2024-12-19",
+    "total_trades": 1,
+    "total_quantity": 15.465,
+    "price_range": {
+      "min": 635.0,
+      "max": 635.0,
+      "avg": 635.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "300036",
+    "name": "Beijing Supermap Software Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2009-12-01",
+    "last_trade_date": "2016-05-05",
+    "total_trades": 4,
+    "total_quantity": 85.4192,
+    "price_range": {
+      "min": 37.4784,
+      "max": 37.4784,
+      "avg": 37.4784
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "300177",
+    "name": "Guangzhou Hi-Target Navigation Tech Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2011-02-15",
+    "last_trade_date": "2019-05-31",
+    "total_trades": 5,
+    "total_quantity": 131.282,
+    "price_range": {
+      "min": 62.04,
+      "max": 62.04,
+      "avg": 62.04
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "300394",
+    "name": "Suzhou TFC Optical Communication Co.Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2015-02-17",
+    "last_trade_date": "2025-06-09",
+    "total_trades": 3,
+    "total_quantity": 29.764,
+    "price_range": {
+      "min": 30.83,
+      "max": 30.83,
+      "avg": 30.83
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "300456",
+    "name": "Sai Micro Electronics Inc - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2015-05-14",
+    "last_trade_date": "2022-05-18",
+    "total_trades": 3,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 14.35,
+      "max": 20.17,
+      "avg": 17.26
+    },
+    "total_value": -42.69
+  },
+  {
+    "symbol": "300552",
+    "name": "Vanjee Technology Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2016-10-21",
+    "last_trade_date": "2020-05-19",
+    "total_trades": 2,
+    "total_quantity": 52.3,
+    "price_range": {
+      "min": 17.64,
+      "max": 17.64,
+      "avg": 17.64
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "300627",
+    "name": "Shanghai Huace Navigation Technology Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2017-03-21",
+    "last_trade_date": "2025-06-20",
+    "total_trades": 5,
+    "total_quantity": 133.11,
+    "price_range": {
+      "min": 31.28,
+      "max": 31.28,
+      "avg": 31.28
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "300826",
+    "name": "NanJing Research Inst of Surveying Mapping & Geotec Inves Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2020-04-03",
+    "last_trade_date": "2022-06-15",
+    "total_trades": 3,
+    "total_quantity": 22.906,
+    "price_range": {
+      "min": 32.95,
+      "max": 32.95,
+      "avg": 32.95
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "301136",
+    "name": "Fujian Tendering Co. Ltd. - Ordinary Shares - Class A",
+    "exchange": "SHE",
+    "currency": "CNY",
+    "first_trade_date": "2022-01-11",
+    "last_trade_date": "2022-01-11",
+    "total_trades": 1,
+    "total_quantity": 19.148,
+    "price_range": {
+      "min": 24.0,
+      "max": 24.0,
+      "avg": 24.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "336A",
+    "name": "Dynamic Map Platform Co. Ltd.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2025-03-27",
+    "last_trade_date": "2025-03-27",
+    "total_trades": 1,
+    "total_quantity": 5.938,
+    "price_range": {
+      "min": 1601.0,
+      "max": 1601.0,
+      "avg": 1601.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "3DP",
+    "name": "Pointerra Limited",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2016-07-12",
+    "last_trade_date": "2016-07-12",
+    "total_trades": 1,
+    "total_quantity": 2500.0,
+    "price_range": {
+      "min": 0.04,
+      "max": 0.04,
+      "avg": 0.04
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "4425",
+    "name": "Kudan Inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2018-12-20",
+    "last_trade_date": "2018-12-20",
+    "total_trades": 1,
+    "total_quantity": 0.57,
+    "price_range": {
+      "min": 13890.0,
+      "max": 13890.0,
+      "avg": 13890.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "4667",
+    "name": "Aisan Technology Co. Ltd.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2016-06-13",
+    "total_trades": 1,
+    "total_quantity": 1.4887,
+    "price_range": {
+      "min": 5270.0,
+      "max": 5270.0,
+      "avg": 5270.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "526544",
+    "name": "SGL Resources Ltd.",
+    "exchange": "BSE",
+    "currency": "INR",
+    "first_trade_date": "2008-12-21",
+    "last_trade_date": "2008-12-21",
+    "total_trades": 1,
+    "total_quantity": 1890.0,
+    "price_range": {
+      "min": 1.7,
+      "max": 1.7,
+      "avg": 1.7
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "533048",
+    "name": "Teamo Productions HQ Ltd.",
+    "exchange": "BSE",
+    "currency": "INR",
+    "first_trade_date": "2009-01-30",
+    "last_trade_date": "2023-12-14",
+    "total_trades": 2,
+    "total_quantity": 1775.63,
+    "price_range": {
+      "min": 18.1,
+      "max": 18.1,
+      "avg": 18.1
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "538734",
+    "name": "Ceinsys Tech Ltd.",
+    "exchange": "BSE",
+    "currency": "INR",
+    "first_trade_date": "2014-10-01",
+    "last_trade_date": "2017-08-10",
+    "total_trades": 2,
+    "total_quantity": 136.301,
+    "price_range": {
+      "min": 43.505,
+      "max": 43.505,
+      "avg": 43.505
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "541151",
+    "name": "Ridings Consulting Engineers India Ltd.",
+    "exchange": "BSE",
+    "currency": "INR",
+    "first_trade_date": "2018-03-01",
+    "last_trade_date": "2018-03-01",
+    "total_trades": 1,
+    "total_quantity": 273.45,
+    "price_range": {
+      "min": 18.5,
+      "max": 18.5,
+      "avg": 18.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "543713",
+    "name": "Droneacharya Aerial Innovations Ltd.",
+    "exchange": "BSE",
+    "currency": "INR",
+    "first_trade_date": "2022-12-23",
+    "last_trade_date": "2022-12-23",
+    "total_trades": 1,
+    "total_quantity": 54.42,
+    "price_range": {
+      "min": 102.0,
+      "max": 102.0,
+      "avg": 102.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "600118",
+    "name": "China Spacesat Co. Ltd - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "first_trade_date": "1997-09-08",
+    "last_trade_date": "2012-05-22",
+    "total_trades": 7,
+    "total_quantity": 1858.2221,
+    "price_range": {
+      "min": 3.5672,
+      "max": 3.5672,
+      "avg": 3.5672
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "600435",
+    "name": "North Navigation Control Technology Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "first_trade_date": "2005-07-06",
+    "last_trade_date": "2016-06-27",
+    "total_trades": 5,
+    "total_quantity": 2264.88,
+    "price_range": {
+      "min": 2.6144,
+      "max": 2.6144,
+      "avg": 2.6144
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "600741",
+    "name": "HUAYU Automotive Systems Company Limited - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "first_trade_date": "2005-07-06",
+    "last_trade_date": "2005-07-06",
+    "total_trades": 1,
+    "total_quantity": 194.05,
+    "price_range": {
+      "min": 3.16,
+      "max": 3.16,
+      "avg": 3.16
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "603236",
+    "name": "Quectel Wireless Solutions Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "first_trade_date": "2019-07-16",
+    "last_trade_date": "2023-06-15",
+    "total_trades": 5,
+    "total_quantity": 70.982,
+    "price_range": {
+      "min": 18.57,
+      "max": 18.57,
+      "avg": 18.57
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "6301",
+    "name": "Komatsu Ltd",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2015-06-30",
+    "last_trade_date": "2015-06-30",
+    "total_trades": 1,
+    "total_quantity": 3.8334,
+    "price_range": {
+      "min": 2457.0,
+      "max": 2457.0,
+      "avg": 2457.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "6326",
+    "name": "Kubota Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2014-06-26",
+    "last_trade_date": "2014-06-26",
+    "total_trades": 1,
+    "total_quantity": 6.599,
+    "price_range": {
+      "min": 1446.0,
+      "max": 1446.0,
+      "avg": 1446.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "6503",
+    "name": "Mitsubishi Electric Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2016-06-13",
+    "total_trades": 1,
+    "total_quantity": 6.2266,
+    "price_range": {
+      "min": 1260.0,
+      "max": 1260.0,
+      "avg": 1260.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "6526",
+    "name": "Airoha Technology Corp",
+    "exchange": "TAI",
+    "currency": "TWD",
+    "first_trade_date": "2023-10-19",
+    "last_trade_date": "2023-10-19",
+    "total_trades": 1,
+    "total_quantity": 4.9316,
+    "price_range": {
+      "min": 415.0,
+      "max": 415.0,
+      "avg": 415.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "6754",
+    "name": "Anritsu Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2001-12-07",
+    "last_trade_date": "2001-12-07",
+    "total_trades": 1,
+    "total_quantity": 5.036,
+    "price_range": {
+      "min": 1280.0,
+      "max": 1280.0,
+      "avg": 1280.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "6758",
+    "name": "Sony Group Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2013-02-21",
+    "last_trade_date": "2024-09-27",
+    "total_trades": 2,
+    "total_quantity": 36.251,
+    "price_range": {
+      "min": 1331.0,
+      "max": 1331.0,
+      "avg": 1331.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "6773",
+    "name": "PIONEER CORP",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2017-01-01",
+    "last_trade_date": "2019-03-27",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 65.0,
+      "max": 236.0,
+      "avg": 150.5
+    },
+    "total_value": 0.7
+  },
+  {
+    "symbol": "6784",
+    "name": "TSKY Co., Ltd.",
+    "exchange": "OTHER",
+    "currency": "TWD",
+    "first_trade_date": "2020-11-18",
+    "last_trade_date": "2020-11-18",
+    "total_trades": 1,
+    "total_quantity": 70.63,
+    "price_range": {
+      "min": 29.5,
+      "max": 29.5,
+      "avg": 29.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "6814",
+    "name": "Furuno Electric Co. Ltd.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2003-10-09",
+    "last_trade_date": "2003-10-09",
+    "total_trades": 1,
+    "total_quantity": 10.274,
+    "price_range": {
+      "min": 739.0,
+      "max": 739.0,
+      "avg": 739.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "688066",
+    "name": "Beijing Piesat Information Technology Co. Ltd. - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "first_trade_date": "2019-07-22",
+    "last_trade_date": "2023-05-29",
+    "total_trades": 2,
+    "total_quantity": 14.164,
+    "price_range": {
+      "min": 47.6,
+      "max": 47.6,
+      "avg": 47.6
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "688083",
+    "name": "Zwsoft Co.Ltd.(Guangzhou) - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "first_trade_date": "2021-03-11",
+    "last_trade_date": "2025-06-06",
+    "total_trades": 4,
+    "total_quantity": 2.4163,
+    "price_range": {
+      "min": 409.0,
+      "max": 409.0,
+      "avg": 409.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "688282",
+    "name": "Beijing Navigation Control Technology Co. Ltd. - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "first_trade_date": "2022-03-18",
+    "last_trade_date": "2022-03-18",
+    "total_trades": 1,
+    "total_quantity": 8.526,
+    "price_range": {
+      "min": 55.4,
+      "max": 55.4,
+      "avg": 55.4
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "688509",
+    "name": "Zhengyuan Geomatics Group Co. Ltd. - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "first_trade_date": "2021-06-30",
+    "last_trade_date": "2021-06-30",
+    "total_trades": 1,
+    "total_quantity": 38.396,
+    "price_range": {
+      "min": 12.61,
+      "max": 12.61,
+      "avg": 12.61
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "688562",
+    "name": "Beijing Shenzhou Aerospace Software Technology Co. Ltd - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "first_trade_date": "2023-05-24",
+    "last_trade_date": "2023-05-24",
+    "total_trades": 1,
+    "total_quantity": 16.159,
+    "price_range": {
+      "min": 28.6,
+      "max": 28.6,
+      "avg": 28.6
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "688568",
+    "name": "Geovis Technology Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "first_trade_date": "2020-07-08",
+    "last_trade_date": "2025-05-21",
+    "total_trades": 3,
+    "total_quantity": 10.607,
+    "price_range": {
+      "min": 87.27,
+      "max": 87.27,
+      "avg": 87.27
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "688628",
+    "name": "Uni-Trend Technology (China) Co Ltd - Ordinary Shares - Class A",
+    "exchange": "SHG",
+    "currency": "CNY",
+    "first_trade_date": "2021-02-01",
+    "last_trade_date": "2021-02-01",
+    "total_trades": 1,
+    "total_quantity": 6.898,
+    "price_range": {
+      "min": 71.6,
+      "max": 71.6,
+      "avg": 71.6
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "700",
+    "name": "Tencent Holdings Ltd.",
+    "exchange": "HKG",
+    "currency": "HKD",
+    "first_trade_date": "2011-11-01",
+    "last_trade_date": "2014-05-15",
+    "total_trades": 2,
+    "total_quantity": 22.632,
+    "price_range": {
+      "min": 177.5,
+      "max": 177.5,
+      "avg": 177.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "7201",
+    "name": "Nissan Motor Co. Ltd.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2016-06-13",
+    "total_trades": 1,
+    "total_quantity": 7.7759,
+    "price_range": {
+      "min": 1009.0,
+      "max": 1009.0,
+      "avg": 1009.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "7202",
+    "name": "Isuzu Motors Ltd",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2016-06-13",
+    "total_trades": 1,
+    "total_quantity": 6.1536,
+    "price_range": {
+      "min": 1275.0,
+      "max": 1275.0,
+      "avg": 1275.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "7203",
+    "name": "Toyota Motor Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2021-09-29",
+    "total_trades": 3,
+    "total_quantity": 7.8221,
+    "price_range": {
+      "min": 5428.0,
+      "max": 5699.0,
+      "avg": 5563.5
+    },
+    "total_value": 198.65
+  },
+  {
+    "symbol": "7205",
+    "name": "Hino Motors Ltd",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2016-06-13",
+    "total_trades": 1,
+    "total_quantity": 7.745,
+    "price_range": {
+      "min": 1013.0,
+      "max": 1013.0,
+      "avg": 1013.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "7211",
+    "name": "Mitsubishi Motors Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2016-06-13",
+    "total_trades": 1,
+    "total_quantity": 14.859,
+    "price_range": {
+      "min": 528.0,
+      "max": 528.0,
+      "avg": 528.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "7250",
+    "name": "Uzma Bhd",
+    "exchange": "KLS",
+    "currency": "MYR",
+    "first_trade_date": "2021-07-01",
+    "last_trade_date": "2025-04-04",
+    "total_trades": 2,
+    "total_quantity": 626.5,
+    "price_range": {
+      "min": 0.66,
+      "max": 0.66,
+      "avg": 0.66
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "7261",
+    "name": "Mazda Motor Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2016-06-13",
+    "total_trades": 1,
+    "total_quantity": 4.7436,
+    "price_range": {
+      "min": 1654.0,
+      "max": 1654.0,
+      "avg": 1654.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "7262",
+    "name": "Daihatsu Motor Co Ltd",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2016-07-26",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 1424.0,
+      "max": 1424.0,
+      "avg": 1424.0
+    },
+    "total_value": 1.35
+  },
+  {
+    "symbol": "7267",
+    "name": "Honda Motor",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2001-12-07",
+    "last_trade_date": "2023-09-28",
+    "total_trades": 3,
+    "total_quantity": 7.6012,
+    "price_range": {
+      "min": 4900.0,
+      "max": 4900.0,
+      "avg": 4900.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "7269",
+    "name": "Suzuki Motor Corp.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2024-03-28",
+    "total_trades": 2,
+    "total_quantity": 10.8971,
+    "price_range": {
+      "min": 2708.0,
+      "max": 2708.0,
+      "avg": 2708.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "7270",
+    "name": "Subaru Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2016-06-13",
+    "total_trades": 1,
+    "total_quantity": 2.0905,
+    "price_range": {
+      "min": 3753.0,
+      "max": 3753.0,
+      "avg": 3753.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "7276",
+    "name": "Koito Manufacturing Co. Ltd",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2025-01-07",
+    "last_trade_date": "2025-01-07",
+    "total_trades": 1,
+    "total_quantity": 0.244,
+    "price_range": {
+      "min": 2002.5,
+      "max": 2002.5,
+      "avg": 2002.5
+    },
+    "total_value": 4.95
+  },
+  {
+    "symbol": "7732",
+    "name": "Topcon Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2001-12-07",
+    "last_trade_date": "2006-03-28",
+    "total_trades": 2,
+    "total_quantity": 38.358,
+    "price_range": {
+      "min": 333.0,
+      "max": 333.0,
+      "avg": 333.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "7751",
+    "name": "Canon Inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2017-06-30",
+    "last_trade_date": "2017-06-30",
+    "total_trades": 1,
+    "total_quantity": 2.2665,
+    "price_range": {
+      "min": 3816.0,
+      "max": 3816.0,
+      "avg": 3816.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "8002",
+    "name": "Marubeni Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2021-03-29",
+    "last_trade_date": "2021-03-29",
+    "total_trades": 1,
+    "total_quantity": 8.912,
+    "price_range": {
+      "min": 941.5,
+      "max": 941.5,
+      "avg": 941.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "8031",
+    "name": "Mitsui & Co. Ltd",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2024-06-27",
+    "total_trades": 2,
+    "total_quantity": 12.3607,
+    "price_range": {
+      "min": 1233.5,
+      "max": 1233.5,
+      "avg": 1233.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "8053",
+    "name": "Sumitomo Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2018-06-30",
+    "last_trade_date": "2018-06-30",
+    "total_trades": 1,
+    "total_quantity": 4.5047,
+    "price_range": {
+      "min": 1820.0,
+      "max": 1820.0,
+      "avg": 1820.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "8058",
+    "name": "Mitsubishi Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2019-12-20",
+    "last_trade_date": "2023-12-28",
+    "total_trades": 2,
+    "total_quantity": 1.289,
+    "price_range": {
+      "min": 2913.0,
+      "max": 2913.0,
+      "avg": 2913.0
+    },
+    "total_value": 15.0
+  },
+  {
+    "symbol": "81D",
+    "name": "Swissnet Group AG",
+    "exchange": "XETR",
+    "currency": "EUR",
+    "first_trade_date": "2025-05-06",
+    "last_trade_date": "2025-05-06",
+    "total_trades": 1,
+    "total_quantity": 2.532,
+    "price_range": {
+      "min": 6.25,
+      "max": 6.25,
+      "avg": 6.25
+    },
+    "total_value": 27.59
+  },
+  {
+    "symbol": "8306",
+    "name": "Mitsubishi UFJ Financial Group, Inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2016-06-13",
+    "total_trades": 1,
+    "total_quantity": 15.545,
+    "price_range": {
+      "min": 504.7,
+      "max": 504.7,
+      "avg": 504.7
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "8411",
+    "name": "Mizuho Financial Group, Inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2020-09-29",
+    "total_trades": 2,
+    "total_quantity": 5.5,
+    "price_range": {
+      "min": 158.5,
+      "max": 158.5,
+      "avg": 158.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "8593",
+    "name": "Mitsubishi HC Capital Inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2016-06-13",
+    "last_trade_date": "2016-06-13",
+    "total_trades": 1,
+    "total_quantity": 18.997,
+    "price_range": {
+      "min": 413.0,
+      "max": 413.0,
+      "avg": 413.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "9232",
+    "name": "Pasco Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2001-12-07",
+    "last_trade_date": "2025-01-07",
+    "total_trades": 3,
+    "total_quantity": 0.675,
+    "price_range": {
+      "min": 270.0,
+      "max": 270.0,
+      "avg": 270.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "9233",
+    "name": "Asia Air Survey Co. Ltd",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2001-12-07",
+    "last_trade_date": "2001-12-07",
+    "total_trades": 1,
+    "total_quantity": 25.58,
+    "price_range": {
+      "min": 252.0,
+      "max": 252.0,
+      "avg": 252.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "9348",
+    "name": "ispace inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2023-04-13",
+    "last_trade_date": "2023-04-13",
+    "total_trades": 1,
+    "total_quantity": 8.986,
+    "price_range": {
+      "min": 1000.0,
+      "max": 1000.0,
+      "avg": 1000.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "9432",
+    "name": "NTT Inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2019-12-20",
+    "last_trade_date": "2023-06-29",
+    "total_trades": 3,
+    "total_quantity": 9.4054,
+    "price_range": {
+      "min": 5588.0,
+      "max": 5588.0,
+      "avg": 5588.0
+    },
+    "total_value": 15.0
+  },
+  {
+    "symbol": "9433",
+    "name": "KDDI Corp.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2003-10-09",
+    "last_trade_date": "2025-03-28",
+    "total_trades": 5,
+    "total_quantity": 12.0118,
+    "price_range": {
+      "min": 646000.0,
+      "max": 646000.0,
+      "avg": 646000.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "9474",
+    "name": "Zenrin Co. Ltd.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2001-12-03",
+    "last_trade_date": "2018-03-28",
+    "total_trades": 2,
+    "total_quantity": 8.9167,
+    "price_range": {
+      "min": 1085.0,
+      "max": 1085.0,
+      "avg": 1085.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "9613",
+    "name": "NTT Data Group Corporation",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2003-10-13",
+    "last_trade_date": "2025-09-26",
+    "total_trades": 4,
+    "total_quantity": 0.0143,
+    "price_range": {
+      "min": 524000.0,
+      "max": 524000.0,
+      "avg": 524000.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "9660",
+    "name": "Horizon Robotics - Ordinary Shares - Class B",
+    "exchange": "HKG",
+    "currency": "HKD",
+    "first_trade_date": "2024-10-25",
+    "last_trade_date": "2024-10-25",
+    "total_trades": 1,
+    "total_quantity": 128.65,
+    "price_range": {
+      "min": 3.99,
+      "max": 3.99,
+      "avg": 3.99
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "9735",
+    "name": "Secom Co. Ltd.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2001-12-03",
+    "last_trade_date": "2024-09-27",
+    "total_trades": 2,
+    "total_quantity": 2.0173,
+    "price_range": {
+      "min": 6310.0,
+      "max": 6310.0,
+      "avg": 6310.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "9790",
+    "name": "Fukui Computer Holdings Inc.",
+    "exchange": "TYO",
+    "currency": "JPY",
+    "first_trade_date": "2006-02-10",
+    "last_trade_date": "2014-09-26",
+    "total_trades": 2,
+    "total_quantity": 12.5277,
+    "price_range": {
+      "min": 1341.0,
+      "max": 1341.0,
+      "avg": 1341.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "9880",
+    "name": "Ubtech Robotics Corp Ltd. - Ordinary Shares - Class H",
+    "exchange": "HKG",
+    "currency": "HKD",
+    "first_trade_date": "2023-12-29",
+    "last_trade_date": "2023-12-29",
+    "total_trades": 1,
+    "total_quantity": 5.859,
+    "price_range": {
+      "min": 90.85,
+      "max": 90.85,
+      "avg": 90.85
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "A",
+    "name": "Agilent Technologies Inc.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1999-11-18",
+    "last_trade_date": "2014-10-19",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 27.46,
+      "max": 52.27,
+      "avg": 39.865
+    },
+    "total_value": -29.75
+  },
+  {
+    "symbol": "AAC",
+    "name": "AAC Clyde Space AB (publ)",
+    "exchange": "STO",
+    "currency": "SEK",
+    "first_trade_date": "2016-12-21",
+    "last_trade_date": "2023-11-13",
+    "total_trades": 2,
+    "total_quantity": 2.23,
+    "price_range": {
+      "min": 6.334,
+      "max": 6.334,
+      "avg": 6.334
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2012-09-19",
+    "last_trade_date": "2020-08-31",
+    "total_trades": 3,
+    "total_quantity": 3.7425,
+    "price_range": {
+      "min": 701.91,
+      "max": 701.91,
+      "avg": 701.91
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ABB",
+    "name": "ABB Ltd.",
+    "exchange": "STO",
+    "currency": "SEK",
+    "first_trade_date": "2003-06-30",
+    "last_trade_date": "2003-06-30",
+    "total_trades": 1,
+    "total_quantity": 20.363,
+    "price_range": {
+      "min": 26.5,
+      "max": 26.5,
+      "avg": 26.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ACM",
+    "name": "AECOM",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2007-05-10",
+    "last_trade_date": "2007-05-10",
+    "total_trades": 1,
+    "total_quantity": 3.928,
+    "price_range": {
+      "min": 21.1,
+      "max": 21.1,
+      "avg": 21.1
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ADSK",
+    "name": "Autodesk Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1985-06-28",
+    "last_trade_date": "2004-12-21",
+    "total_trades": 5,
+    "total_quantity": 120.611,
+    "price_range": {
+      "min": 11.0,
+      "max": 11.0,
+      "avg": 11.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AEVA",
+    "name": "Aeva Technologies Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2020-02-27",
+    "last_trade_date": "2024-03-19",
+    "total_trades": 2,
+    "total_quantity": 1.819,
+    "price_range": {
+      "min": 9.6,
+      "max": 9.6,
+      "avg": 9.6
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AFRY",
+    "name": "Afry AB - Ordinary Shares - Class B",
+    "exchange": "STO",
+    "currency": "SEK",
+    "first_trade_date": "2000-01-03",
+    "last_trade_date": "2014-06-13",
+    "total_trades": 4,
+    "total_quantity": 32.3018,
+    "price_range": {
+      "min": 129.5,
+      "max": 129.5,
+      "avg": 129.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AGCO",
+    "name": "AGCO Corp.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2023-09-28",
+    "last_trade_date": "2023-09-28",
+    "total_trades": 1,
+    "total_quantity": 0.5402,
+    "price_range": {
+      "min": 117.55,
+      "max": 117.55,
+      "avg": 117.55
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AI",
+    "name": "C3.ai Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2020-12-08",
+    "last_trade_date": "2020-12-08",
+    "total_trades": 1,
+    "total_quantity": 0.7408,
+    "price_range": {
+      "min": 100.0,
+      "max": 100.0,
+      "avg": 100.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AIG",
+    "name": "Genesis AI Corp",
+    "exchange": "CNSX",
+    "currency": "CAD",
+    "first_trade_date": "2023-07-28",
+    "last_trade_date": "2025-03-13",
+    "total_trades": 2,
+    "total_quantity": 127.0,
+    "price_range": {
+      "min": 0.07,
+      "max": 0.07,
+      "avg": 0.07
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AIR",
+    "name": "Airbus SE",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2016-10-01",
+    "last_trade_date": "2016-10-01",
+    "total_trades": 1,
+    "total_quantity": 1.2673,
+    "price_range": {
+      "min": 53.84,
+      "max": 53.84,
+      "avg": 53.84
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ALDRV",
+    "name": "Drone Volt",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2016-01-13",
+    "last_trade_date": "2024-12-02",
+    "total_trades": 2,
+    "total_quantity": 0.503,
+    "price_range": {
+      "min": 1.99,
+      "max": 1.99,
+      "avg": 1.99
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ALL",
+    "name": "Allstate Corp (The)",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2014-06-30",
+    "last_trade_date": "2014-06-30",
+    "total_trades": 1,
+    "total_quantity": 1.6052,
+    "price_range": {
+      "min": 58.69,
+      "max": 58.69,
+      "avg": 58.69
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ALPHAGEO",
+    "name": "Alphageo (India) Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "2003-10-29",
+    "last_trade_date": "2003-10-29",
+    "total_trades": 1,
+    "total_quantity": 138.64,
+    "price_range": {
+      "min": 23.0,
+      "max": 23.0,
+      "avg": 23.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ALPK3",
+    "name": "Allpark Empreendimentos Participacoes Servicos S.A.",
+    "exchange": "BVMF",
+    "currency": "BRL",
+    "first_trade_date": "2020-05-15",
+    "last_trade_date": "2020-05-15",
+    "total_trades": 1,
+    "total_quantity": 42.098,
+    "price_range": {
+      "min": 8.934,
+      "max": 8.934,
+      "avg": 8.934
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ALPP",
+    "name": "Alpine 4 Holdings Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2017-01-13",
+    "last_trade_date": "2023-05-15",
+    "total_trades": 2,
+    "total_quantity": 0.23,
+    "price_range": {
+      "min": 60.0,
+      "max": 60.0,
+      "avg": 60.0
+    },
+    "total_value": 100.07
+  },
+  {
+    "symbol": "ALTD",
+    "name": "Tonner Drones",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2013-07-02",
+    "last_trade_date": "2023-05-18",
+    "total_trades": 6,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 7.0,
+      "max": 7.0,
+      "avg": 7.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ALV",
+    "name": "Allianz SE - Registered Shares",
+    "exchange": "XETR",
+    "currency": "EUR",
+    "first_trade_date": "2011-07-27",
+    "last_trade_date": "2011-07-27",
+    "total_trades": 1,
+    "total_quantity": 0.8259,
+    "price_range": {
+      "min": 91.72,
+      "max": 91.72,
+      "avg": 91.72
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AME",
+    "name": "Ametek Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2025-07-21",
+    "last_trade_date": "2025-07-21",
+    "total_trades": 1,
+    "total_quantity": 0.9338,
+    "price_range": {
+      "min": 178.51,
+      "max": 178.51,
+      "avg": 178.51
+    },
+    "total_value": 255.97
+  },
+  {
+    "symbol": "AMX",
+    "name": "Aerometrex Limited",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2019-12-02",
+    "last_trade_date": "2019-12-02",
+    "total_trades": 1,
+    "total_quantity": 50.0,
+    "price_range": {
+      "min": 2.0,
+      "max": 2.0,
+      "avg": 2.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2012-08-15",
+    "last_trade_date": "2022-06-06",
+    "total_trades": 2,
+    "total_quantity": 8.4527,
+    "price_range": {
+      "min": 233.19,
+      "max": 233.19,
+      "avg": 233.19
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ANSS",
+    "name": "Ansys Inc. - Registered Shares",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2020-10-26",
+    "last_trade_date": "2025-07-17",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 321.0,
+      "max": 374.3,
+      "avg": 347.65
+    },
+    "total_value": -32.06
+  },
+  {
+    "symbol": "AON",
+    "name": "Aon plc. - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2021-11-15",
+    "last_trade_date": "2021-11-15",
+    "total_trades": 1,
+    "total_quantity": 0.2441,
+    "price_range": {
+      "min": 300.34,
+      "max": 300.34,
+      "avg": 300.34
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ARCAD",
+    "name": "Arcadis NV",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2002-01-02",
+    "last_trade_date": "2008-05-16",
+    "total_trades": 2,
+    "total_quantity": 16.992,
+    "price_range": {
+      "min": 9.5,
+      "max": 9.5,
+      "avg": 9.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ARGEO",
+    "name": "Argeo ASA",
+    "exchange": "OSL",
+    "currency": "NOK",
+    "first_trade_date": "2021-04-26",
+    "last_trade_date": "2025-08-14",
+    "total_trades": 3,
+    "total_quantity": -0.0,
+    "price_range": {
+      "min": 0.448,
+      "max": 9.5,
+      "avg": 4.974
+    },
+    "total_value": 99.05
+  },
+  {
+    "symbol": "ART",
+    "name": "Airtasker Limited",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2021-03-23",
+    "last_trade_date": "2021-03-23",
+    "total_trades": 1,
+    "total_quantity": 95.24,
+    "price_range": {
+      "min": 1.05,
+      "max": 1.05,
+      "avg": 1.05
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ARWY",
+    "name": "Arway Corporation",
+    "exchange": "CNSX",
+    "currency": "CAD",
+    "first_trade_date": "2022-10-31",
+    "last_trade_date": "2022-10-31",
+    "total_trades": 1,
+    "total_quantity": 130.0,
+    "price_range": {
+      "min": 0.67,
+      "max": 0.67,
+      "avg": 0.67
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AUR",
+    "name": "Aurora Innovation Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-05-10",
+    "last_trade_date": "2021-05-10",
+    "total_trades": 1,
+    "total_quantity": 7.86,
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0,
+      "avg": 10.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AVAV",
+    "name": "AeroVironment Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2008-07-01",
+    "last_trade_date": "2008-07-01",
+    "total_trades": 1,
+    "total_quantity": 3.4383,
+    "price_range": {
+      "min": 27.84,
+      "max": 27.84,
+      "avg": 27.84
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AVGO",
+    "name": "Broadcom Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2014-06-30",
+    "last_trade_date": "2024-07-15",
+    "total_trades": 2,
+    "total_quantity": 12.328,
+    "price_range": {
+      "min": 70.94,
+      "max": 70.94,
+      "avg": 70.94
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AXA",
+    "name": "Axa",
+    "exchange": "FRA",
+    "currency": "EUR",
+    "first_trade_date": "1987-01-01",
+    "last_trade_date": "2001-05-16",
+    "total_trades": 2,
+    "total_quantity": 29.4791,
+    "price_range": {
+      "min": 7.0,
+      "max": 7.0,
+      "avg": 7.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AYI",
+    "name": "Acuity Inc.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2019-11-25",
+    "last_trade_date": "2019-11-25",
+    "total_trades": 1,
+    "total_quantity": 0.5234,
+    "price_range": {
+      "min": 129.47,
+      "max": 129.47,
+      "avg": 129.47
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "AYX",
+    "name": "Alteryx Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2017-03-24",
+    "last_trade_date": "2024-03-19",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 17.25,
+      "max": 48.26,
+      "avg": 32.755
+    },
+    "total_value": -227.13
+  },
+  {
+    "symbol": "BA",
+    "name": "Boeing Co.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1992-06-30",
+    "last_trade_date": "1997-06-09",
+    "total_trades": 2,
+    "total_quantity": 3.0954,
+    "price_range": {
+      "min": 39.88,
+      "max": 39.88,
+      "avg": 39.88
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "BA.",
+    "name": "BAE Systems plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "1991-06-30",
+    "last_trade_date": "1998-05-05",
+    "total_trades": 2,
+    "total_quantity": 264.01,
+    "price_range": {
+      "min": 0.564,
+      "max": 0.564,
+      "avg": 0.564
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "BABA",
+    "name": "Alibaba Group Holding Ltd - ADR",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2014-09-19",
+    "last_trade_date": "2014-09-19",
+    "total_trades": 1,
+    "total_quantity": 0.9527,
+    "price_range": {
+      "min": 93.89,
+      "max": 93.89,
+      "avg": 93.89
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "BAH",
+    "name": "Booz Allen Hamilton Holding Corp - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2010-11-01",
+    "last_trade_date": "2010-11-01",
+    "total_trades": 1,
+    "total_quantity": 5.666,
+    "price_range": {
+      "min": 17.26,
+      "max": 17.26,
+      "avg": 17.26
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "BALL",
+    "name": "Ball Corp.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2007-12-10",
+    "last_trade_date": "2023-08-17",
+    "total_trades": 4,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 22.94,
+      "max": 55.4,
+      "avg": 39.17
+    },
+    "total_value": -1009.72
+  },
+  {
+    "symbol": "BASE",
+    "name": "Couchbase Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-07-22",
+    "last_trade_date": "2021-07-22",
+    "total_trades": 1,
+    "total_quantity": 2.484,
+    "price_range": {
+      "min": 29.6,
+      "max": 29.6,
+      "avg": 29.6
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "BAYANAT",
+    "name": "Bayanat.ai",
+    "exchange": "OTHER",
+    "currency": "AED",
+    "first_trade_date": "2022-10-31",
+    "last_trade_date": "2024-09-30",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 2.38,
+      "max": 3.51,
+      "avg": 2.945
+    },
+    "total_value": 37.2
+  },
+  {
+    "symbol": "BBAI",
+    "name": "BigBear.ai Holdings Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2021-12-21",
+    "last_trade_date": "2021-12-21",
+    "total_trades": 1,
+    "total_quantity": 8.853,
+    "price_range": {
+      "min": 8.03,
+      "max": 8.03,
+      "avg": 8.03
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "BIDU",
+    "name": "Baidu Inc - ADR",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2005-09-15",
+    "last_trade_date": "2010-05-12",
+    "total_trades": 2,
+    "total_quantity": 8.9442,
+    "price_range": {
+      "min": 81.32,
+      "max": 81.32,
+      "avg": 81.32
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "BIM",
+    "name": "BIMobject AB",
+    "exchange": "STO",
+    "currency": "SEK",
+    "first_trade_date": "2014-01-14",
+    "last_trade_date": "2018-09-11",
+    "total_trades": 3,
+    "total_quantity": 584.3,
+    "price_range": {
+      "min": 4.025,
+      "max": 4.025,
+      "avg": 4.025
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "BKSY",
+    "name": "BlackSky Technology Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2019-12-20",
+    "last_trade_date": "2024-09-09",
+    "total_trades": 2,
+    "total_quantity": 1.042,
+    "price_range": {
+      "min": 9.8,
+      "max": 9.8,
+      "avg": 9.8
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "BLK",
+    "name": "Blackrock Inc.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2019-07-01",
+    "last_trade_date": "2019-07-01",
+    "total_trades": 1,
+    "total_quantity": 0.1554,
+    "price_range": {
+      "min": 472.93,
+      "max": 472.93,
+      "avg": 472.93
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "BLN",
+    "name": "Blackline Safety Corp",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2009-03-16",
+    "last_trade_date": "2011-06-24",
+    "total_trades": 2,
+    "total_quantity": 56.96,
+    "price_range": {
+      "min": 0.15,
+      "max": 0.15,
+      "avg": 0.15
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "BMW",
+    "name": "Bayerische Motoren Werke AG",
+    "exchange": "FRA",
+    "currency": "EUR",
+    "first_trade_date": "2015-08-03",
+    "last_trade_date": "2015-08-03",
+    "total_trades": 1,
+    "total_quantity": 0.1087,
+    "price_range": {
+      "min": 91.665,
+      "max": 91.665,
+      "avg": 91.665
+    },
+    "total_value": 15.0
+  },
+  {
+    "symbol": "BSY",
+    "name": "Bentley Systems Inc - Ordinary Shares - Class B",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2020-09-01",
+    "last_trade_date": "2020-09-01",
+    "total_trades": 1,
+    "total_quantity": 2.6344,
+    "price_range": {
+      "min": 28.0,
+      "max": 28.0,
+      "avg": 28.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "BWMN",
+    "name": "Bowman Consulting Group Ltd",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-05-21",
+    "last_trade_date": "2021-05-21",
+    "total_trades": 1,
+    "total_quantity": 5.5515,
+    "price_range": {
+      "min": 14.0,
+      "max": 14.0,
+      "avg": 14.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CA",
+    "name": "Computer Associates",
+    "exchange": "OTHER",
+    "currency": "USD",
+    "first_trade_date": "1995-01-01",
+    "last_trade_date": "2005-11-15",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 27.85,
+      "max": 42.92,
+      "avg": 35.385
+    },
+    "total_value": 45.05
+  },
+  {
+    "symbol": "CACI",
+    "name": "Caci International Inc. - Registered Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2003-01-01",
+    "last_trade_date": "2003-01-01",
+    "total_trades": 1,
+    "total_quantity": 1.5794,
+    "price_range": {
+      "min": 35.64,
+      "max": 35.64,
+      "avg": 35.64
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CAE",
+    "name": "Cae Inc.",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "1996-04-09",
+    "last_trade_date": "2001-07-05",
+    "total_trades": 2,
+    "total_quantity": 15.9345,
+    "price_range": {
+      "min": 11.88,
+      "max": 11.88,
+      "avg": 11.88
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CAP",
+    "name": "Capgemini",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "1994-01-03",
+    "last_trade_date": "1994-01-03",
+    "total_trades": 1,
+    "total_quantity": 2.2685,
+    "price_range": {
+      "min": 23.08,
+      "max": 23.08,
+      "avg": 23.08
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CAT",
+    "name": "Catapult Sports Ltd",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2014-12-14",
+    "last_trade_date": "2014-12-14",
+    "total_trades": 1,
+    "total_quantity": 170.94,
+    "price_range": {
+      "min": 0.585,
+      "max": 0.585,
+      "avg": 0.585
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CAT",
+    "name": "Caterpillar Inc.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2010-07-07",
+    "last_trade_date": "2010-07-07",
+    "total_trades": 1,
+    "total_quantity": 1.4046,
+    "price_range": {
+      "min": 59.81,
+      "max": 59.81,
+      "avg": 59.81
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CDD",
+    "name": "Cardno Limited",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2004-06-03",
+    "last_trade_date": "2025-03-31",
+    "total_trades": 5,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.14,
+      "max": 1.49,
+      "avg": 0.815
+    },
+    "total_value": 35.54
+  },
+  {
+    "symbol": "CG",
+    "name": "Carlyle Group Inc (The)",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-09-07",
+    "last_trade_date": "2021-09-07",
+    "total_trades": 1,
+    "total_quantity": 1.4852,
+    "price_range": {
+      "min": 50.09,
+      "max": 50.09,
+      "avg": 50.09
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CGY",
+    "name": "Calian Group Ltd",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2020-09-01",
+    "last_trade_date": "2020-09-01",
+    "total_trades": 1,
+    "total_quantity": 1.499,
+    "price_range": {
+      "min": 64.16,
+      "max": 64.16,
+      "avg": 64.16
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CLH",
+    "name": "Clean Harbors, Inc.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2009-07-31",
+    "last_trade_date": "2011-07-27",
+    "total_trades": 2,
+    "total_quantity": 3.1435,
+    "price_range": {
+      "min": 52.17,
+      "max": 52.17,
+      "avg": 52.17
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CMTL",
+    "name": "Comtech Telecommunications Corp.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1972-12-15",
+    "last_trade_date": "2005-04-05",
+    "total_trades": 5,
+    "total_quantity": 2.6046,
+    "price_range": {
+      "min": 21.249,
+      "max": 21.249,
+      "avg": 21.249
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CNC",
+    "name": "Concurrent Technologies",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2001-12-03",
+    "last_trade_date": "2004-12-20",
+    "total_trades": 3,
+    "total_quantity": 450.24,
+    "price_range": {
+      "min": 0.2425,
+      "max": 0.2425,
+      "avg": 0.2425
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CODA",
+    "name": "Coda Octopus Group Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1994-05-17",
+    "last_trade_date": "2017-01-11",
+    "total_trades": 3,
+    "total_quantity": 0.0355,
+    "price_range": {
+      "min": 5.375,
+      "max": 5.375,
+      "avg": 5.375
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CON",
+    "name": "Continental AG",
+    "exchange": "FRA",
+    "currency": "EUR",
+    "first_trade_date": "2018-01-01",
+    "last_trade_date": "2018-01-01",
+    "total_trades": 1,
+    "total_quantity": 0.0144,
+    "price_range": {
+      "min": 225.575,
+      "max": 225.575,
+      "avg": 225.575
+    },
+    "total_value": 5.0
+  },
+  {
+    "symbol": "CPTN",
+    "name": "Cepton Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-03-25",
+    "last_trade_date": "2025-01-07",
+    "total_trades": 3,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 3.25,
+      "max": 9.55,
+      "avg": 6.4
+    },
+    "total_value": 95.05
+  },
+  {
+    "symbol": "CRM",
+    "name": "Salesforce Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2019-04-17",
+    "last_trade_date": "2019-04-17",
+    "total_trades": 1,
+    "total_quantity": 0.4516,
+    "price_range": {
+      "min": 158.69,
+      "max": 158.69,
+      "avg": 158.69
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2013-10-25",
+    "last_trade_date": "2013-10-25",
+    "total_trades": 1,
+    "total_quantity": 4.2988,
+    "price_range": {
+      "min": 22.3745,
+      "max": 22.3745,
+      "avg": 22.3745
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CSGP",
+    "name": "Costar Group, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2025-03-10",
+    "last_trade_date": "2025-03-10",
+    "total_trades": 1,
+    "total_quantity": 0.4859,
+    "price_range": {
+      "min": 79.39,
+      "max": 79.39,
+      "avg": 79.39
+    },
+    "total_value": 61.21
+  },
+  {
+    "symbol": "CSU",
+    "name": "Constellation Software Inc",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2015-07-27",
+    "last_trade_date": "2015-07-27",
+    "total_trades": 1,
+    "total_quantity": 0.1666,
+    "price_range": {
+      "min": 569.5,
+      "max": 569.5,
+      "avg": 569.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CTSH",
+    "name": "Cognizant Technology Solutions Corp. - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2011-07-26",
+    "last_trade_date": "2014-03-10",
+    "total_trades": 2,
+    "total_quantity": 2.4599,
+    "price_range": {
+      "min": 74.32,
+      "max": 74.32,
+      "avg": 74.32
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CXAI",
+    "name": "CXApp Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-02-04",
+    "last_trade_date": "2021-02-04",
+    "total_trades": 1,
+    "total_quantity": 7.4029,
+    "price_range": {
+      "min": 10.31,
+      "max": 10.31,
+      "avg": 10.31
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CYBERTECH",
+    "name": "Cybertech Systems & Software Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "1999-01-27",
+    "last_trade_date": "2000-02-25",
+    "total_trades": 2,
+    "total_quantity": 33.516,
+    "price_range": {
+      "min": 180.0,
+      "max": 180.0,
+      "avg": 180.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "CYIENT",
+    "name": "Cyient Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "2014-05-22",
+    "last_trade_date": "2014-05-22",
+    "total_trades": 1,
+    "total_quantity": 18.77,
+    "price_range": {
+      "min": 289.0,
+      "max": 289.0,
+      "avg": 289.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "DCH",
+    "name": "Hanoi Cadastral Survey JSC",
+    "exchange": "OTHER",
+    "currency": "VND",
+    "first_trade_date": "2020-07-01",
+    "last_trade_date": "2020-07-01",
+    "total_trades": 1,
+    "total_quantity": 307.3,
+    "price_range": {
+      "min": 5200.0,
+      "max": 5200.0,
+      "avg": 5200.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "DE",
+    "name": "Deere & Co.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1998-07-30",
+    "last_trade_date": "2007-12-04",
+    "total_trades": 2,
+    "total_quantity": 4.3363,
+    "price_range": {
+      "min": 26.42,
+      "max": 26.42,
+      "avg": 26.42
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "DGI",
+    "name": "Digital Globe",
+    "exchange": "OTHER",
+    "currency": "USD",
+    "first_trade_date": "2009-05-01",
+    "last_trade_date": "2017-10-02",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 23.0,
+      "max": 34.4,
+      "avg": 28.7
+    },
+    "total_value": -38.19
+  },
+  {
+    "symbol": "DIDIY",
+    "name": "DiDi Global Inc - ADR",
+    "exchange": "OTC",
+    "currency": "USD",
+    "first_trade_date": "2021-06-30",
+    "last_trade_date": "2021-06-30",
+    "total_trades": 1,
+    "total_quantity": 4.513,
+    "price_range": {
+      "min": 16.65,
+      "max": 16.65,
+      "avg": 16.65
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "DND",
+    "name": "Dye & Durham Ltd",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2021-05-12",
+    "last_trade_date": "2021-05-12",
+    "total_trades": 1,
+    "total_quantity": 2.4554,
+    "price_range": {
+      "min": 38.63,
+      "max": 38.63,
+      "avg": 38.63
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "DRNG",
+    "name": "Drone Guarder Inc",
+    "exchange": "OTC",
+    "currency": "USD",
+    "first_trade_date": "2014-09-04",
+    "last_trade_date": "2021-08-30",
+    "total_trades": 3,
+    "total_quantity": 32671.1,
+    "price_range": {
+      "min": 0.0625,
+      "max": 0.0625,
+      "avg": 0.0625
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "DRO",
+    "name": "Droneshield Limited",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2016-01-22",
+    "last_trade_date": "2016-01-22",
+    "total_trades": 1,
+    "total_quantity": 312.5,
+    "price_range": {
+      "min": 0.32,
+      "max": 0.32,
+      "avg": 0.32
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "DSAI",
+    "name": "DeepSpatial Inc",
+    "exchange": "CNSX",
+    "currency": "CAD",
+    "first_trade_date": "2021-03-04",
+    "last_trade_date": "2021-03-04",
+    "total_trades": 1,
+    "total_quantity": 2808.8,
+    "price_range": {
+      "min": 0.035,
+      "max": 0.035,
+      "avg": 0.035
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "DSG",
+    "name": "Descartes Systems Group Inc",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "1998-01-01",
+    "last_trade_date": "1998-01-01",
+    "total_trades": 1,
+    "total_quantity": 13.965,
+    "price_range": {
+      "min": 6.75,
+      "max": 6.75,
+      "avg": 6.75
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "DSUS",
+    "name": "Drone Services USA Inc",
+    "exchange": "OTC",
+    "currency": "USD",
+    "first_trade_date": "2015-04-29",
+    "last_trade_date": "2015-04-29",
+    "total_trades": 1,
+    "total_quantity": 3121.7,
+    "price_range": {
+      "min": 0.025,
+      "max": 0.025,
+      "avg": 0.025
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "DSY",
+    "name": "Dassault Systemes SA",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "1996-06-28",
+    "last_trade_date": "2021-07-07",
+    "total_trades": 3,
+    "total_quantity": 41.267,
+    "price_range": {
+      "min": 12.27,
+      "max": 12.27,
+      "avg": 12.27
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "DUKR",
+    "name": "DUKE Robotics Corp.",
+    "exchange": "OTC",
+    "currency": "USD",
+    "first_trade_date": "2017-06-26",
+    "last_trade_date": "2024-10-29",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.0618,
+      "max": 10.0,
+      "avg": 5.0309
+    },
+    "total_value": 99.29
+  },
+  {
+    "symbol": "ECX",
+    "name": "ECARX Holdings Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2022-12-09",
+    "last_trade_date": "2022-12-09",
+    "total_trades": 1,
+    "total_quantity": 6.764,
+    "price_range": {
+      "min": 10.02,
+      "max": 10.02,
+      "avg": 10.02
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "EH",
+    "name": "EHang Holdings Ltd - ADR",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2019-12-12",
+    "last_trade_date": "2019-12-12",
+    "total_trades": 1,
+    "total_quantity": 5.474,
+    "price_range": {
+      "min": 12.55,
+      "max": 12.55,
+      "avg": 12.55
+    },
+    "total_value": 99.99
+  },
+  {
+    "symbol": "EKDKQ",
+    "name": "Eastman Kodak Company",
+    "exchange": "OTHER",
+    "currency": "USD",
+    "first_trade_date": "1975-01-01",
+    "last_trade_date": "2004-12-31",
+    "total_trades": 5,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 32.55,
+      "max": 62.875,
+      "avg": 47.7125
+    },
+    "total_value": -15.87
+  },
+  {
+    "symbol": "EMBK",
+    "name": "Embark Technology Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-03-05",
+    "last_trade_date": "2023-05-25",
+    "total_trades": 3,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 2.94,
+      "max": 201.0,
+      "avg": 101.97
+    },
+    "total_value": 98.26
+  },
+  {
+    "symbol": "EMBR3",
+    "name": "Embraer S.A.",
+    "exchange": "BVMF",
+    "currency": "BRL",
+    "first_trade_date": "2012-06-29",
+    "last_trade_date": "2012-06-29",
+    "total_trades": 1,
+    "total_quantity": 15.707,
+    "price_range": {
+      "min": 13.29,
+      "max": 13.29,
+      "avg": 13.29
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "EMR",
+    "name": "Emerson Electric Co.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2023-10-23",
+    "last_trade_date": "2023-10-23",
+    "total_trades": 1,
+    "total_quantity": 2.4924,
+    "price_range": {
+      "min": 91.47,
+      "max": 91.47,
+      "avg": 91.47
+    },
+    "total_value": 360.78
+  },
+  {
+    "symbol": "EQ",
+    "name": "EQ Inc",
+    "exchange": "CVE",
+    "currency": "CAD",
+    "first_trade_date": "2013-09-06",
+    "last_trade_date": "2013-09-06",
+    "total_trades": 1,
+    "total_quantity": 227.99,
+    "price_range": {
+      "min": 0.42,
+      "max": 0.42,
+      "avg": 0.42
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ESTC",
+    "name": "Elastic N.V",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2019-10-05",
+    "last_trade_date": "2019-10-05",
+    "total_trades": 1,
+    "total_quantity": 0.9674,
+    "price_range": {
+      "min": 70.0,
+      "max": 70.0,
+      "avg": 70.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "EVBG",
+    "name": "Everbridge Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2016-09-16",
+    "last_trade_date": "2024-07-08",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 12.3,
+      "max": 35.0,
+      "avg": 23.65
+    },
+    "total_value": -215.17
+  },
+  {
+    "symbol": "EXL",
+    "name": "EXASOL AG - Registered Shares",
+    "exchange": "FRA",
+    "currency": "EUR",
+    "first_trade_date": "2020-05-25",
+    "last_trade_date": "2020-05-25",
+    "total_trades": 1,
+    "total_quantity": 6.3224,
+    "price_range": {
+      "min": 9.5,
+      "max": 9.5,
+      "avg": 9.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "EXPO",
+    "name": "Exponent Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1990-08-17",
+    "last_trade_date": "2018-06-08",
+    "total_trades": 4,
+    "total_quantity": 32.822,
+    "price_range": {
+      "min": 12.8,
+      "max": 12.8,
+      "avg": 12.8
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "F",
+    "name": "Ford Motor Co.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2016-08-16",
+    "last_trade_date": "2016-08-16",
+    "total_trades": 1,
+    "total_quantity": 6.177,
+    "price_range": {
+      "min": 12.43,
+      "max": 12.43,
+      "avg": 12.43
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "F3DC",
+    "name": "Fugro NV - Ordinary Shares - New",
+    "exchange": "FRA",
+    "currency": "EUR",
+    "first_trade_date": "2002-03-01",
+    "last_trade_date": "2020-12-21",
+    "total_trades": 3,
+    "total_quantity": 2.2358,
+    "price_range": {
+      "min": 48.28,
+      "max": 48.28,
+      "avg": 48.28
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "F9D",
+    "name": "Boustead Singapore Limited",
+    "exchange": "SGX",
+    "currency": "SGD",
+    "first_trade_date": "2001-02-01",
+    "last_trade_date": "2008-08-18",
+    "total_trades": 2,
+    "total_quantity": 542.62,
+    "price_range": {
+      "min": 0.35,
+      "max": 0.35,
+      "avg": 0.35
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "FARO",
+    "name": "Faro Technologies Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1997-09-18",
+    "last_trade_date": "2025-07-21",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 16.25,
+      "max": 43.99,
+      "avg": 30.12
+    },
+    "total_value": -155.97
+  },
+  {
+    "symbol": "FCS",
+    "name": "Fairchild Semiconductor International Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2015-06-17",
+    "last_trade_date": "2016-09-19",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 18.89,
+      "max": 20.0,
+      "avg": 19.445
+    },
+    "total_value": -9.05
+  },
+  {
+    "symbol": "FDGE",
+    "name": "Farmers Edge Inc",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2021-03-03",
+    "last_trade_date": "2024-03-22",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.35,
+      "max": 20.0,
+      "avg": 10.175
+    },
+    "total_value": 98.05
+  },
+  {
+    "symbol": "FDS",
+    "name": "Factset Research Systems Inc.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2022-02-02",
+    "last_trade_date": "2022-02-02",
+    "total_trades": 1,
+    "total_quantity": 0.1661,
+    "price_range": {
+      "min": 428.7,
+      "max": 428.7,
+      "avg": 428.7
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "FLTX",
+    "name": "Fleetmatics Group PLC",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2012-10-04",
+    "last_trade_date": "2016-11-07",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 17.0,
+      "max": 60.0,
+      "avg": 38.5
+    },
+    "total_value": -372.04
+  },
+  {
+    "symbol": "FR",
+    "name": "Valeo S.A.",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2015-02-20",
+    "last_trade_date": "2016-06-06",
+    "total_trades": 2,
+    "total_quantity": 1.5096,
+    "price_range": {
+      "min": 134.1,
+      "max": 134.1,
+      "avg": 134.1
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "FSL",
+    "name": "Freescale Semiconductor Ltd",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2004-12-03",
+    "last_trade_date": "2016-01-06",
+    "total_trades": 3,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 18.35,
+      "max": 36.53,
+      "avg": 27.44
+    },
+    "total_value": -15.14
+  },
+  {
+    "symbol": "GD",
+    "name": "General Dynamics Corp.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1997-06-30",
+    "last_trade_date": "2006-03-27",
+    "total_trades": 3,
+    "total_quantity": 3.823,
+    "price_range": {
+      "min": 75.0,
+      "max": 75.0,
+      "avg": 75.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GDOT",
+    "name": "Green Dot Corp. - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2012-03-09",
+    "last_trade_date": "2012-03-09",
+    "total_trades": 1,
+    "total_quantity": 3.5835,
+    "price_range": {
+      "min": 29.47,
+      "max": 29.47,
+      "avg": 29.47
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GE",
+    "name": "GE Aerospace",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1975-01-01",
+    "last_trade_date": "2021-08-02",
+    "total_trades": 7,
+    "total_quantity": 12.8489,
+    "price_range": {
+      "min": 33.384,
+      "max": 33.384,
+      "avg": 33.384
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GENESYS",
+    "name": "Genesys International Corp. Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "2003-10-29",
+    "last_trade_date": "2010-06-23",
+    "total_trades": 2,
+    "total_quantity": 189.25,
+    "price_range": {
+      "min": 33.7,
+      "max": 33.7,
+      "avg": 33.7
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GEOY",
+    "name": "GeoEye Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2006-04-03",
+    "last_trade_date": "2013-01-31",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 15.12,
+      "max": 35.83,
+      "avg": 25.475
+    },
+    "total_value": -70.84
+  },
+  {
+    "symbol": "GIB",
+    "name": "CGI Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1998-10-07",
+    "last_trade_date": "2000-01-18",
+    "total_trades": 4,
+    "total_quantity": 12.5193,
+    "price_range": {
+      "min": 24.5,
+      "max": 24.5,
+      "avg": 24.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GM",
+    "name": "General Motors Company",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2016-03-15",
+    "last_trade_date": "2016-03-15",
+    "total_trades": 1,
+    "total_quantity": 2.4085,
+    "price_range": {
+      "min": 31.18,
+      "max": 31.18,
+      "avg": 31.18
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GMPW",
+    "name": "GiveMePower Corp.",
+    "exchange": "OTC",
+    "currency": "USD",
+    "first_trade_date": "1998-03-02",
+    "last_trade_date": "1998-03-02",
+    "total_trades": 1,
+    "total_quantity": 1.6003,
+    "price_range": {
+      "min": 38.57,
+      "max": 38.57,
+      "avg": 38.57
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GNSS",
+    "name": "LRAD Corp",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1995-07-27",
+    "last_trade_date": "2020-01-14",
+    "total_trades": 3,
+    "total_quantity": 123.44,
+    "price_range": {
+      "min": 0.5,
+      "max": 3.38,
+      "avg": 2.42
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GOJXN",
+    "name": "GeoJunxion N.V.",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2021-02-02",
+    "last_trade_date": "2024-01-17",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 1.1,
+      "max": 1.835,
+      "avg": 1.4675
+    },
+    "total_value": 37.05
+  },
+  {
+    "symbol": "GOMX",
+    "name": "GomSpace Group AB",
+    "exchange": "STO",
+    "currency": "SEK",
+    "first_trade_date": "2016-06-16",
+    "last_trade_date": "2016-06-16",
+    "total_trades": 1,
+    "total_quantity": 102.65,
+    "price_range": {
+      "min": 6.0,
+      "max": 6.0,
+      "avg": 6.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2004-08-19",
+    "last_trade_date": "2022-07-18",
+    "total_trades": 3,
+    "total_quantity": 20.4231,
+    "price_range": {
+      "min": 100.34,
+      "max": 100.34,
+      "avg": 100.34
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GRAB",
+    "name": "Grab Holdings Limited - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2020-12-01",
+    "last_trade_date": "2020-12-01",
+    "total_trades": 1,
+    "total_quantity": 6.1897,
+    "price_range": {
+      "min": 11.89,
+      "max": 11.89,
+      "avg": 11.89
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GRMN",
+    "name": "Garmin Ltd",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2000-12-01",
+    "last_trade_date": "2006-08-16",
+    "total_trades": 2,
+    "total_quantity": 6.616,
+    "price_range": {
+      "min": 15.82,
+      "max": 15.82,
+      "avg": 15.82
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GRND",
+    "name": "Grindr Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2022-11-18",
+    "last_trade_date": "2022-11-18",
+    "total_trades": 1,
+    "total_quantity": 5.7524,
+    "price_range": {
+      "min": 11.63,
+      "max": 11.63,
+      "avg": 11.63
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GSAT",
+    "name": "Globalstar Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2006-11-09",
+    "last_trade_date": "2025-02-11",
+    "total_trades": 2,
+    "total_quantity": 1.2167,
+    "price_range": {
+      "min": 12.38,
+      "max": 12.38,
+      "avg": 12.38
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "GSPH",
+    "name": "Geospatial Corp",
+    "exchange": "OTC",
+    "currency": "USD",
+    "first_trade_date": "2008-03-25",
+    "last_trade_date": "2022-05-13",
+    "total_trades": 3,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.0053,
+      "max": 3.572,
+      "avg": 1.7886
+    },
+    "total_value": 99.61
+  },
+  {
+    "symbol": "GTC",
+    "name": "Getech Group",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2005-09-23",
+    "last_trade_date": "2005-09-23",
+    "total_trades": 1,
+    "total_quantity": 99.21,
+    "price_range": {
+      "min": 0.43,
+      "max": 0.43,
+      "avg": 0.43
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "HAL",
+    "name": "Halliburton Co.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2010-06-30",
+    "last_trade_date": "2010-06-30",
+    "total_trades": 1,
+    "total_quantity": 3.4869,
+    "price_range": {
+      "min": 24.55,
+      "max": 24.55,
+      "avg": 24.55
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "HAPPSTMNDS",
+    "name": "Happiest Minds Technologies Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "2020-09-17",
+    "last_trade_date": "2020-09-17",
+    "total_trades": 1,
+    "total_quantity": 15.383,
+    "price_range": {
+      "min": 350.0,
+      "max": 350.0,
+      "avg": 350.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "HCLTECH",
+    "name": "HCL Technologies Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "2018-07-18",
+    "last_trade_date": "2019-12-05",
+    "total_trades": 2,
+    "total_quantity": 10.1086,
+    "price_range": {
+      "min": 991.89,
+      "max": 991.89,
+      "avg": 991.89
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "HEXA B",
+    "name": "Hexagon AB - Ordinary Shares - Class B",
+    "exchange": "STO",
+    "currency": "SEK",
+    "first_trade_date": "2000-01-03",
+    "last_trade_date": "2021-05-19",
+    "total_trades": 6,
+    "total_quantity": 258.8788,
+    "price_range": {
+      "min": 133.0,
+      "max": 152.0,
+      "avg": 142.5
+    },
+    "total_value": 216.64
+  },
+  {
+    "symbol": "HII",
+    "name": "Huntington Ingalls Industries Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2011-03-22",
+    "last_trade_date": "2011-03-22",
+    "total_trades": 1,
+    "total_quantity": 2.8095,
+    "price_range": {
+      "min": 35.72,
+      "max": 35.72,
+      "avg": 35.72
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "HIPO",
+    "name": "Hippo Holdings Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2021-01-11",
+    "last_trade_date": "2022-09-30",
+    "total_trades": 2,
+    "total_quantity": 0.2733,
+    "price_range": {
+      "min": 282.5,
+      "max": 282.5,
+      "avg": 282.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "HLMA",
+    "name": "Halma plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2016-02-05",
+    "last_trade_date": "2016-02-05",
+    "total_trades": 1,
+    "total_quantity": 6.1208,
+    "price_range": {
+      "min": 8.05,
+      "max": 8.05,
+      "avg": 8.05
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "HO",
+    "name": "Thales S.A.",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "1994-01-03",
+    "last_trade_date": "1994-01-03",
+    "total_trades": 1,
+    "total_quantity": 1.8867,
+    "price_range": {
+      "min": 27.75,
+      "max": 27.75,
+      "avg": 27.75
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "HON",
+    "name": "Honeywell International Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1970-01-01",
+    "last_trade_date": "1997-09-16",
+    "total_trades": 4,
+    "total_quantity": 15.758,
+    "price_range": {
+      "min": 22.38,
+      "max": 22.38,
+      "avg": 22.38
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "HSAI",
+    "name": "Hesai Group - ADR",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2023-02-09",
+    "last_trade_date": "2023-02-09",
+    "total_trades": 1,
+    "total_quantity": 2.917,
+    "price_range": {
+      "min": 23.75,
+      "max": 23.75,
+      "avg": 23.75
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "IAI",
+    "name": "Infinitii Ai Inc",
+    "exchange": "CNSX",
+    "currency": "CAD",
+    "first_trade_date": "2022-02-23",
+    "last_trade_date": "2022-02-23",
+    "total_trades": 1,
+    "total_quantity": 1085.3,
+    "price_range": {
+      "min": 0.085,
+      "max": 0.085,
+      "avg": 0.085
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "IBM",
+    "name": "International Business Machines Corp.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1966-05-18",
+    "last_trade_date": "1999-05-26",
+    "total_trades": 6,
+    "total_quantity": 23.4179,
+    "price_range": {
+      "min": null,
+      "max": null,
+      "avg": null
+    },
+    "total_value": 0.0
+  },
+  {
+    "symbol": "ICE",
+    "name": "Intercontinental Exchange Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2021-12-15",
+    "last_trade_date": "2021-12-15",
+    "total_trades": 1,
+    "total_quantity": 0.5311,
+    "price_range": {
+      "min": 133.81,
+      "max": 133.81,
+      "avg": 133.81
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ICFI",
+    "name": "ICF International, Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2015-07-01",
+    "last_trade_date": "2015-07-01",
+    "total_trades": 1,
+    "total_quantity": 2.1755,
+    "price_range": {
+      "min": 35.35,
+      "max": 35.35,
+      "avg": 35.35
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "IDEAFORGE",
+    "name": "Ideaforge Technology Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "2023-07-10",
+    "last_trade_date": "2023-07-10",
+    "total_trades": 1,
+    "total_quantity": 4.7394,
+    "price_range": {
+      "min": 1162.4,
+      "max": 1162.4,
+      "avg": 1162.4
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "IDOX",
+    "name": "Idox",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2021-01-01",
+    "last_trade_date": "2021-01-01",
+    "total_trades": 1,
+    "total_quantity": 111.42,
+    "price_range": {
+      "min": 0.505,
+      "max": 0.505,
+      "avg": 0.505
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "IFMX",
+    "name": "Informix",
+    "exchange": "OTHER",
+    "currency": "USD",
+    "first_trade_date": "1996-02-15",
+    "last_trade_date": "2001-07-01",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 3.55,
+      "max": 17.13,
+      "avg": 10.34
+    },
+    "total_value": 74.84
+  },
+  {
+    "symbol": "IKE",
+    "name": "Ikegps Group Ltd",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2016-11-01",
+    "last_trade_date": "2016-11-01",
+    "total_trades": 1,
+    "total_quantity": 246.91,
+    "price_range": {
+      "min": 0.405,
+      "max": 0.405,
+      "avg": 0.405
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "IMP",
+    "name": "Intermap Technologies Corp. - Ordinary Shares - Class A",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2004-07-08",
+    "last_trade_date": "2017-12-08",
+    "total_trades": 2,
+    "total_quantity": 2.582,
+    "price_range": {
+      "min": 4.6,
+      "max": 4.6,
+      "avg": 4.6
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "IND",
+    "name": "Index International Group Public Company Ltd",
+    "exchange": "BKK",
+    "currency": "THB",
+    "first_trade_date": "2020-12-21",
+    "last_trade_date": "2020-12-21",
+    "total_trades": 1,
+    "total_quantity": 2070.7,
+    "price_range": {
+      "min": 1.1,
+      "max": 1.1,
+      "avg": 1.1
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "INDI",
+    "name": "Indie Semiconductor Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-06-11",
+    "last_trade_date": "2021-06-11",
+    "total_trades": 1,
+    "total_quantity": 7.131,
+    "price_range": {
+      "min": 10.87,
+      "max": 10.87,
+      "avg": 10.87
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "INFY",
+    "name": "Infosys Ltd",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "2004-01-01",
+    "last_trade_date": "2004-01-01",
+    "total_trades": 1,
+    "total_quantity": 38.903,
+    "price_range": {
+      "min": 87.45,
+      "max": 87.45,
+      "avg": 87.45
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel Corp.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2017-01-01",
+    "last_trade_date": "2017-01-01",
+    "total_trades": 1,
+    "total_quantity": 0.2987,
+    "price_range": {
+      "min": 36.27,
+      "max": 36.27,
+      "avg": 36.27
+    },
+    "total_value": 15.0
+  },
+  {
+    "symbol": "INVZ",
+    "name": "Innoviz Technologies Ltd",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2020-06-29",
+    "last_trade_date": "2020-06-29",
+    "total_trades": 1,
+    "total_quantity": 7.0037,
+    "price_range": {
+      "min": 9.8,
+      "max": 9.8,
+      "avg": 9.8
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "IOT",
+    "name": "Samsara Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2021-12-15",
+    "last_trade_date": "2021-12-15",
+    "total_trades": 1,
+    "total_quantity": 3.0897,
+    "price_range": {
+      "min": 23.0,
+      "max": 23.0,
+      "avg": 23.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "IQG",
+    "name": "IQGeo Group Plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2011-06-01",
+    "last_trade_date": "2024-09-24",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 1.888,
+      "max": 4.7708,
+      "avg": 3.3294
+    },
+    "total_value": -217.32
+  },
+  {
+    "symbol": "IRDM",
+    "name": "Iridium Communications Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-05-24",
+    "last_trade_date": "2021-05-24",
+    "total_trades": 1,
+    "total_quantity": 2.09,
+    "price_range": {
+      "min": 36.98,
+      "max": 36.98,
+      "avg": 36.98
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ISAT",
+    "name": "Inmarsat",
+    "exchange": "OTHER",
+    "currency": "GBP",
+    "first_trade_date": "2005-06-01",
+    "last_trade_date": "2019-12-02",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.28,
+      "max": 0.5444,
+      "avg": 0.4122
+    },
+    "total_value": -53.19
+  },
+  {
+    "symbol": "ISI",
+    "name": "Imagesat International (I.S.I) Ltd",
+    "exchange": "TLV",
+    "currency": "ILS",
+    "first_trade_date": "2022-02-02",
+    "last_trade_date": "2022-02-02",
+    "total_trades": 1,
+    "total_quantity": 11.48,
+    "price_range": {
+      "min": 19.67,
+      "max": 19.67,
+      "avg": 19.67
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ITRN",
+    "name": "Ituran Location And Control Ltd.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2005-09-27",
+    "last_trade_date": "2005-09-27",
+    "total_trades": 1,
+    "total_quantity": 5.748,
+    "price_range": {
+      "min": 13.15,
+      "max": 13.15,
+      "avg": 13.15
+    },
+    "total_value": 100.01
+  },
+  {
+    "symbol": "J",
+    "name": "Jacobs Solutions Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2022-02-07",
+    "last_trade_date": "2022-02-07",
+    "total_trades": 1,
+    "total_quantity": 0.5544,
+    "price_range": {
+      "min": 127.67,
+      "max": 127.67,
+      "avg": 127.67
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "JG",
+    "name": "Aurora Mobile Ltd - ADR",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2018-07-25",
+    "last_trade_date": "2023-12-11",
+    "total_trades": 2,
+    "total_quantity": 0.4714,
+    "price_range": {
+      "min": 9.0,
+      "max": 9.0,
+      "avg": 9.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "JNPR",
+    "name": "Juniper Networks Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2016-02-11",
+    "last_trade_date": "2019-01-14",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 21.62,
+      "max": 27.9,
+      "avg": 24.76
+    },
+    "total_value": -36.59
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2013-07-01",
+    "last_trade_date": "2013-07-01",
+    "total_trades": 1,
+    "total_quantity": 1.7565,
+    "price_range": {
+      "min": 52.49,
+      "max": 52.49,
+      "avg": 52.49
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "KBR",
+    "name": "KBR Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2006-11-01",
+    "last_trade_date": "2006-11-01",
+    "total_trades": 1,
+    "total_quantity": 3.661,
+    "price_range": {
+      "min": 21.0,
+      "max": 21.0,
+      "avg": 21.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "KEYS",
+    "name": "Keysight Technologies Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2014-10-20",
+    "last_trade_date": "2014-10-20",
+    "total_trades": 1,
+    "total_quantity": 4.073,
+    "price_range": {
+      "min": 27.9,
+      "max": 27.9,
+      "avg": 27.9
+    },
+    "total_value": 129.75
+  },
+  {
+    "symbol": "KKR",
+    "name": "KKR & Co. Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2024-09-24",
+    "last_trade_date": "2024-09-24",
+    "total_trades": 1,
+    "total_quantity": 1.6342,
+    "price_range": {
+      "min": 132.6,
+      "max": 132.6,
+      "avg": 132.6
+    },
+    "total_value": 317.02
+  },
+  {
+    "symbol": "KOG",
+    "name": "Kongsberg Gruppen ASA",
+    "exchange": "OSL",
+    "currency": "NOK",
+    "first_trade_date": "2000-01-03",
+    "last_trade_date": "2025-06-03",
+    "total_trades": 3,
+    "total_quantity": 93.8004,
+    "price_range": {
+      "min": 109.6,
+      "max": 109.6,
+      "avg": 109.6
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "KSS",
+    "name": "Kleos",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2018-08-24",
+    "last_trade_date": "2023-08-29",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.1,
+      "max": 0.16,
+      "avg": 0.13
+    },
+    "total_value": 37.5
+  },
+  {
+    "symbol": "LAT",
+    "name": "Latecoere",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2016-02-11",
+    "last_trade_date": "2019-01-14",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 2.815,
+      "max": 3.2,
+      "avg": 3.0075
+    },
+    "total_value": 11.53
+  },
+  {
+    "symbol": "LAZR",
+    "name": "Luminar Technologies Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2020-12-02",
+    "last_trade_date": "2020-12-02",
+    "total_trades": 1,
+    "total_quantity": 4.119,
+    "price_range": {
+      "min": 18.0,
+      "max": 18.0,
+      "avg": 18.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "LBAS",
+    "name": "Location Based Technologies Inc",
+    "exchange": "OTC",
+    "currency": "USD",
+    "first_trade_date": "2007-03-07",
+    "last_trade_date": "2008-10-28",
+    "total_trades": 2,
+    "total_quantity": 1053.26,
+    "price_range": {
+      "min": 0.22,
+      "max": 0.22,
+      "avg": 0.22
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "LDO",
+    "name": "Leonardo S.p.A.",
+    "exchange": "BIT",
+    "currency": "EUR",
+    "first_trade_date": "1995-01-02",
+    "last_trade_date": "2005-07-18",
+    "total_trades": 2,
+    "total_quantity": 3.76,
+    "price_range": {
+      "min": 278.56,
+      "max": 278.56,
+      "avg": 278.56
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "LDOS",
+    "name": "Leidos Holdings Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2006-10-13",
+    "last_trade_date": "2006-10-13",
+    "total_trades": 1,
+    "total_quantity": 1.596,
+    "price_range": {
+      "min": 46.7,
+      "max": 46.7,
+      "avg": 46.7
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "LGSN",
+    "name": "Leica Geosystems",
+    "exchange": "OTHER",
+    "currency": "CHF",
+    "first_trade_date": "2000-07-12",
+    "last_trade_date": "2005-08-15",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 375.0,
+      "max": 440.0,
+      "avg": 407.5
+    },
+    "total_value": -16.64
+  },
+  {
+    "symbol": "LHX",
+    "name": "L3Harris Technologies Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1968-01-02",
+    "last_trade_date": "2005-03-31",
+    "total_trades": 5,
+    "total_quantity": 62.2235,
+    "price_range": {
+      "min": 27.76,
+      "max": 27.76,
+      "avg": 27.76
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "LIDR",
+    "name": "AEye Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-01-11",
+    "last_trade_date": "2023-12-27",
+    "total_trades": 2,
+    "total_quantity": 0.219,
+    "price_range": {
+      "min": 11.0,
+      "max": 11.0,
+      "avg": 11.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "LITE",
+    "name": "SpotLite360 IOT Solutions Inc",
+    "exchange": "CNSX",
+    "currency": "CAD",
+    "first_trade_date": "2022-12-07",
+    "last_trade_date": "2022-12-07",
+    "total_trades": 1,
+    "total_quantity": 9.3,
+    "price_range": {
+      "min": 0.115,
+      "max": 0.115,
+      "avg": 0.115
+    },
+    "total_value": 1.17
+  },
+  {
+    "symbol": "LKCO",
+    "name": "Luokung Technology Corp",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2018-09-13",
+    "last_trade_date": "2025-04-12",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.18,
+      "max": 8.0,
+      "avg": 4.09
+    },
+    "total_value": 97.5
+  },
+  {
+    "symbol": "LLAP",
+    "name": "Terran Orbital Corp - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2021-04-23",
+    "last_trade_date": "2021-04-23",
+    "total_trades": 1,
+    "total_quantity": 7.943,
+    "price_range": {
+      "min": 9.7,
+      "max": 9.7,
+      "avg": 9.7
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "LMT",
+    "name": "Lockheed Martin Corp.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1993-06-30",
+    "last_trade_date": "1999-01-04",
+    "total_trades": 3,
+    "total_quantity": 3.0798,
+    "price_range": {
+      "min": 66.015,
+      "max": 66.015,
+      "avg": 66.015
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "LSEG",
+    "name": "London Stock Exchange Group",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2018-06-30",
+    "last_trade_date": "2018-06-30",
+    "total_trades": 1,
+    "total_quantity": 1.2538,
+    "price_range": {
+      "min": 44.71,
+      "max": 44.71,
+      "avg": 44.71
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "LT",
+    "name": "Larsen & Toubro Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "2015-06-30",
+    "last_trade_date": "2015-06-30",
+    "total_trades": 1,
+    "total_quantity": 2.7444,
+    "price_range": {
+      "min": 1782.8,
+      "max": 1782.8,
+      "avg": 1782.8
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "LUNR",
+    "name": "Intuitive Machines Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2023-02-14",
+    "last_trade_date": "2023-02-14",
+    "total_trades": 1,
+    "total_quantity": 6.687,
+    "price_range": {
+      "min": 10.42,
+      "max": 10.42,
+      "avg": 10.42
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "LYFT",
+    "name": "Lyft Inc - Ordinary Shares Cls A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2019-03-29",
+    "last_trade_date": "2019-03-29",
+    "total_trades": 1,
+    "total_quantity": 0.9837,
+    "price_range": {
+      "min": 72.0,
+      "max": 72.0,
+      "avg": 72.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MAIL",
+    "name": "VK Company Limited - GDR - Reg S",
+    "exchange": "LSE",
+    "currency": "USD",
+    "first_trade_date": "2014-11-13",
+    "last_trade_date": "2020-11-02",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 22.88,
+      "max": 26.05,
+      "avg": 24.465
+    },
+    "total_value": -40.54
+  },
+  {
+    "symbol": "MAPMYINDIA",
+    "name": "C.E. Info Systems Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "2021-12-21",
+    "last_trade_date": "2021-12-21",
+    "total_trades": 1,
+    "total_quantity": 3.4566,
+    "price_range": {
+      "min": 1565.0,
+      "max": 1565.0,
+      "avg": 1565.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MAPS",
+    "name": "MapsPeople AS",
+    "exchange": "CSE",
+    "currency": "DKK",
+    "first_trade_date": "2021-06-02",
+    "last_trade_date": "2025-06-27",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.73,
+      "max": 8.1,
+      "avg": 4.415
+    },
+    "total_value": 89.77
+  },
+  {
+    "symbol": "MAPS",
+    "name": "ProStar Holdings Inc.",
+    "exchange": "CVE",
+    "currency": "CAD",
+    "first_trade_date": "2010-05-03",
+    "last_trade_date": "2021-01-11",
+    "total_trades": 2,
+    "total_quantity": 28.91,
+    "price_range": {
+      "min": 0.35,
+      "max": 0.35,
+      "avg": 0.35
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MAPS",
+    "name": "WM Technology Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2019-10-01",
+    "last_trade_date": "2019-10-01",
+    "total_trades": 1,
+    "total_quantity": 6.8818,
+    "price_range": {
+      "min": 9.81,
+      "max": 9.81,
+      "avg": 9.81
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MAPT",
+    "name": "Maptelligent Inc",
+    "exchange": "OTC",
+    "currency": "USD",
+    "first_trade_date": "2018-07-02",
+    "last_trade_date": "2020-10-09",
+    "total_trades": 3,
+    "total_quantity": 1.0,
+    "price_range": {
+      "min": 0.0006,
+      "max": 0.0006,
+      "avg": 0.0006
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MAXR",
+    "name": "Maxar Technologies Inc",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2000-07-12",
+    "last_trade_date": "2023-05-03",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 14.0,
+      "max": 71.35,
+      "avg": 42.675
+    },
+    "total_value": -389.66
+  },
+  {
+    "symbol": "MBG",
+    "name": "Mercedes-Benz Group AG",
+    "exchange": "FRA",
+    "currency": "EUR",
+    "first_trade_date": "2015-08-03",
+    "last_trade_date": "2015-08-03",
+    "total_trades": 1,
+    "total_quantity": 0.122,
+    "price_range": {
+      "min": 81.661,
+      "max": 81.661,
+      "avg": 81.661
+    },
+    "total_value": 15.0
+  },
+  {
+    "symbol": "MBLY",
+    "name": "Mobileye Global Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2022-10-26",
+    "last_trade_date": "2022-10-26",
+    "total_trades": 1,
+    "total_quantity": 2.2417,
+    "price_range": {
+      "min": 28.97,
+      "max": 28.97,
+      "avg": 28.97
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MBLY",
+    "name": "Mobileye B.V.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2014-08-01",
+    "last_trade_date": "2017-08-31",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 36.0,
+      "max": 62.67,
+      "avg": 49.335
+    },
+    "total_value": -105.44
+  },
+  {
+    "symbol": "MCD",
+    "name": "McDonald`s Corp",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1985-01-02",
+    "last_trade_date": "1994-06-30",
+    "total_trades": 6,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 28.88,
+      "max": 51.66,
+      "avg": 40.27
+    },
+    "total_value": -704.55
+  },
+  {
+    "symbol": "MCO",
+    "name": "Moody`s Corp.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2019-07-24",
+    "last_trade_date": "2019-07-24",
+    "total_trades": 1,
+    "total_quantity": 0.3453,
+    "price_range": {
+      "min": 202.65,
+      "max": 202.65,
+      "avg": 202.65
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MDA",
+    "name": "MDA Space Ltd.",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2021-04-14",
+    "last_trade_date": "2021-04-14",
+    "total_trades": 1,
+    "total_quantity": 6.85,
+    "price_range": {
+      "min": 14.0,
+      "max": 14.0,
+      "avg": 14.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MDB",
+    "name": "MongoDB Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2017-10-19",
+    "last_trade_date": "2017-10-19",
+    "total_trades": 1,
+    "total_quantity": 2.3764,
+    "price_range": {
+      "min": 33.0,
+      "max": 33.0,
+      "avg": 33.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2016-02-16",
+    "last_trade_date": "2016-02-16",
+    "total_trades": 1,
+    "total_quantity": 0.6993,
+    "price_range": {
+      "min": 102.01,
+      "max": 102.01,
+      "avg": 102.01
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MLBMD",
+    "name": "Swissnet Group AG",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2021-02-12",
+    "last_trade_date": "2025-05-06",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 6.55,
+      "max": 26.5,
+      "avg": 16.525
+    },
+    "total_value": 72.41
+  },
+  {
+    "symbol": "MLUAV",
+    "name": "Embention Sistemas Inteligentes S.A.",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2023-03-03",
+    "last_trade_date": "2023-03-03",
+    "total_trades": 1,
+    "total_quantity": 12.72,
+    "price_range": {
+      "min": 5.0,
+      "max": 5.0,
+      "avg": 5.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MMI.W",
+    "name": "Motorola Mobility Holdings Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2004-01-04",
+    "last_trade_date": "2004-01-05",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 31.17,
+      "max": 31.17,
+      "avg": 31.17
+    },
+    "total_value": 0.6
+  },
+  {
+    "symbol": "MMM",
+    "name": "3M Co.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1975-06-30",
+    "last_trade_date": "2024-04-02",
+    "total_trades": 6,
+    "total_quantity": 6.8531,
+    "price_range": {
+      "min": 65.875,
+      "max": 92.84,
+      "avg": 79.3575
+    },
+    "total_value": 99.45
+  },
+  {
+    "symbol": "MOMO",
+    "name": "Hello Group Inc - ADR",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2014-12-01",
+    "last_trade_date": "2014-12-01",
+    "total_trades": 1,
+    "total_quantity": 5.951,
+    "price_range": {
+      "min": 14.25,
+      "max": 14.25,
+      "avg": 14.25
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MORN",
+    "name": "Morningstar Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2017-06-30",
+    "last_trade_date": "2017-06-30",
+    "total_trades": 1,
+    "total_quantity": 0.9687,
+    "price_range": {
+      "min": 78.36,
+      "max": 78.36,
+      "avg": 78.36
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MRDB",
+    "name": "MariaDB Plc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2022-12-19",
+    "last_trade_date": "2025-05-05",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.5494,
+      "max": 10.0,
+      "avg": 5.2747
+    },
+    "total_value": 94.32
+  },
+  {
+    "symbol": "MSCI",
+    "name": "MSCI Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2019-01-01",
+    "last_trade_date": "2019-01-01",
+    "total_trades": 1,
+    "total_quantity": 0.4775,
+    "price_range": {
+      "min": 147.43,
+      "max": 147.43,
+      "avg": 147.43
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1992-06-30",
+    "last_trade_date": "2003-02-18",
+    "total_trades": 6,
+    "total_quantity": 31.8807,
+    "price_range": {
+      "min": 70.08,
+      "max": 70.08,
+      "avg": 70.08
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "MSI",
+    "name": "Motorola Solutions Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1985-06-30",
+    "last_trade_date": "2011-01-05",
+    "total_trades": 8,
+    "total_quantity": 3.9989,
+    "price_range": {
+      "min": 34.625,
+      "max": 39.83,
+      "avg": 37.2275
+    },
+    "total_value": 88.9
+  },
+  {
+    "symbol": "MTTR",
+    "name": "Matterport Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-02-02",
+    "last_trade_date": "2025-03-10",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 5.38,
+      "max": 10.69,
+      "avg": 8.035
+    },
+    "total_value": 38.79
+  },
+  {
+    "symbol": "MVIS",
+    "name": "Microvision Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1996-08-27",
+    "last_trade_date": "2012-02-21",
+    "total_trades": 2,
+    "total_quantity": 0.2597,
+    "price_range": {
+      "min": 49.0,
+      "max": 49.0,
+      "avg": 49.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "NATI",
+    "name": "National Instruments Corp.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2008-07-01",
+    "last_trade_date": "2023-10-23",
+    "total_trades": 3,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 28.37,
+      "max": 59.98,
+      "avg": 44.175
+    },
+    "total_value": -315.43
+  },
+  {
+    "symbol": "NBIS",
+    "name": "Nebius Group N.V. - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2011-05-24",
+    "last_trade_date": "2024-07-10",
+    "total_trades": 3,
+    "total_quantity": 11.915,
+    "price_range": {
+      "min": 18.94,
+      "max": 35.0,
+      "avg": 24.2933
+    },
+    "total_value": 355.99
+  },
+  {
+    "symbol": "NEA",
+    "name": "Nearmap Ltd",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2012-11-01",
+    "last_trade_date": "2022-12-06",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.035,
+      "max": 2.1,
+      "avg": 1.0675
+    },
+    "total_value": -5899.7
+  },
+  {
+    "symbol": "NEM",
+    "name": "Nemetschek SE",
+    "exchange": "XETR",
+    "currency": "EUR",
+    "first_trade_date": "2001-12-28",
+    "last_trade_date": "2019-06-28",
+    "total_trades": 3,
+    "total_quantity": 156.224,
+    "price_range": {
+      "min": 4.35,
+      "max": 4.35,
+      "avg": 4.35
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "NIO",
+    "name": "NIO Inc - ADR",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2023-12-25",
+    "last_trade_date": "2023-12-25",
+    "total_trades": 1,
+    "total_quantity": 8.071,
+    "price_range": {
+      "min": 8.42,
+      "max": 8.42,
+      "avg": 8.42
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "NIR",
+    "name": "Near Intelligence Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2023-03-23",
+    "last_trade_date": "2024-01-01",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.004,
+      "max": 17.38,
+      "avg": 8.692
+    },
+    "total_value": 99.98
+  },
+  {
+    "symbol": "NN",
+    "name": "NextNav Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-10-29",
+    "last_trade_date": "2021-10-29",
+    "total_trades": 1,
+    "total_quantity": 6.937,
+    "price_range": {
+      "min": 10.86,
+      "max": 10.86,
+      "avg": 10.86
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "NOC",
+    "name": "Northrop Grumman Corp.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1968-01-02",
+    "last_trade_date": "2004-06-22",
+    "total_trades": 5,
+    "total_quantity": 48.8933,
+    "price_range": {
+      "min": 18.19,
+      "max": 18.19,
+      "avg": 18.19
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "NOD",
+    "name": "Nordic Semiconductor",
+    "exchange": "OSL",
+    "currency": "NOK",
+    "first_trade_date": "2019-07-01",
+    "last_trade_date": "2019-07-01",
+    "total_trades": 1,
+    "total_quantity": 15.888,
+    "price_range": {
+      "min": 37.62,
+      "max": 37.62,
+      "avg": 37.62
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "NOKIA SEK",
+    "name": "Nokia Corp",
+    "exchange": "STO",
+    "currency": "SEK",
+    "first_trade_date": "2006-06-30",
+    "last_trade_date": "2022-12-31",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 48.285,
+      "max": 147.0,
+      "avg": 97.6425
+    },
+    "total_value": 75.11
+  },
+  {
+    "symbol": "NTAP",
+    "name": "Netapp Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1995-11-21",
+    "last_trade_date": "2000-03-23",
+    "total_trades": 5,
+    "total_quantity": 73.152,
+    "price_range": {
+      "min": 13.5,
+      "max": 13.5,
+      "avg": 13.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "NTAR",
+    "name": "NexTech AR Solutions Corp",
+    "exchange": "NEO",
+    "currency": "CAD",
+    "first_trade_date": "2018-11-12",
+    "last_trade_date": "2018-11-12",
+    "total_trades": 1,
+    "total_quantity": 307.6,
+    "price_range": {
+      "min": 0.31,
+      "max": 0.31,
+      "avg": 0.31
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corp",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2015-06-30",
+    "last_trade_date": "2024-06-10",
+    "total_trades": 3,
+    "total_quantity": 151.2146,
+    "price_range": {
+      "min": 20.12,
+      "max": 20.12,
+      "avg": 20.12
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "NVEE",
+    "name": "NV5 Global Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2019-12-20",
+    "last_trade_date": "2025-08-04",
+    "total_trades": 3,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 22.56,
+      "max": 49.12,
+      "avg": 35.84
+    },
+    "total_value": -88.35
+  },
+  {
+    "symbol": "NWS",
+    "name": "News Corp - Ordinary Shares - Class B",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2013-06-19",
+    "last_trade_date": "2013-06-19",
+    "total_trades": 1,
+    "total_quantity": 3.031,
+    "price_range": {
+      "min": 31.71,
+      "max": 31.71,
+      "avg": 31.71
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "NXPI",
+    "name": "NXP Semiconductors NV",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2016-01-06",
+    "last_trade_date": "2016-01-06",
+    "total_trades": 1,
+    "total_quantity": 0.2273,
+    "price_range": {
+      "min": 82.39,
+      "max": 82.39,
+      "avg": 82.39
+    },
+    "total_value": 26.04
+  },
+  {
+    "symbol": "NYT",
+    "name": "New York Times Co. - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1969-01-14",
+    "last_trade_date": "1998-07-02",
+    "total_trades": 4,
+    "total_quantity": 24.2989,
+    "price_range": {
+      "min": 47.52,
+      "max": 47.52,
+      "avg": 47.52
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "OHB",
+    "name": "OHB SE",
+    "exchange": "FRA",
+    "currency": "EUR",
+    "first_trade_date": "2001-12-28",
+    "last_trade_date": "2001-12-28",
+    "total_trades": 1,
+    "total_quantity": 12.869,
+    "price_range": {
+      "min": 4.47,
+      "max": 4.47,
+      "avg": 4.47
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "OII",
+    "name": "Oceaneering International, Inc.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1975-11-03",
+    "last_trade_date": "2011-06-13",
+    "total_trades": 3,
+    "total_quantity": 20.1957,
+    "price_range": {
+      "min": 11.88,
+      "max": 11.88,
+      "avg": 11.88
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ON",
+    "name": "ON Semiconductor Corp.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2016-09-19",
+    "last_trade_date": "2016-09-19",
+    "total_trades": 1,
+    "total_quantity": 7.24,
+    "price_range": {
+      "min": 11.31,
+      "max": 11.31,
+      "avg": 11.31
+    },
+    "total_value": 109.12
+  },
+  {
+    "symbol": "OPI",
+    "name": "Optigis S.A.",
+    "exchange": "WAR",
+    "currency": "PLN",
+    "first_trade_date": "2021-08-17",
+    "last_trade_date": "2021-08-17",
+    "total_trades": 1,
+    "total_quantity": 344.93,
+    "price_range": {
+      "min": 0.82,
+      "max": 0.82,
+      "avg": 0.82
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ORBC",
+    "name": "Orbcomm Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2006-11-06",
+    "last_trade_date": "2021-04-08",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 7.49,
+      "max": 11.5,
+      "avg": 9.495
+    },
+    "total_value": -54.49
+  },
+  {
+    "symbol": "ORBI",
+    "name": "Orbit Technologies Ltd",
+    "exchange": "TLV",
+    "currency": "ILS",
+    "first_trade_date": "2007-07-02",
+    "last_trade_date": "2007-07-02",
+    "total_trades": 1,
+    "total_quantity": 24.0,
+    "price_range": {
+      "min": 15.1,
+      "max": 15.1,
+      "avg": 15.1
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ORBM",
+    "name": "Orbimage",
+    "exchange": "OTHER",
+    "currency": "USD",
+    "first_trade_date": "2000-01-03",
+    "last_trade_date": "2002-12-31",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.01,
+      "max": 3.75,
+      "avg": 1.88
+    },
+    "total_value": 99.73
+  },
+  {
+    "symbol": "ORCL",
+    "name": "Oracle Corp.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1986-03-12",
+    "last_trade_date": "2000-10-13",
+    "total_trades": 10,
+    "total_quantity": 648.115,
+    "price_range": {
+      "min": 15.0,
+      "max": 15.0,
+      "avg": 15.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ORI",
+    "name": "Orica Limited",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2023-12-19",
+    "last_trade_date": "2023-12-19",
+    "total_trades": 1,
+    "total_quantity": 6.013,
+    "price_range": {
+      "min": 16.63,
+      "max": 16.63,
+      "avg": 16.63
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "OSI",
+    "name": "OSI Geospatial",
+    "exchange": "OTHER",
+    "currency": "CAD",
+    "first_trade_date": "1998-06-30",
+    "last_trade_date": "2008-04-30",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.395,
+      "max": 0.5,
+      "avg": 0.4475
+    },
+    "total_value": 21.23
+  },
+  {
+    "symbol": "OTMO",
+    "name": "Otonomo Technologies Ltd",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2020-10-20",
+    "last_trade_date": "2023-08-07",
+    "total_trades": 3,
+    "total_quantity": -0.0,
+    "price_range": {
+      "min": 3.7317,
+      "max": 144.68,
+      "avg": 74.2058
+    },
+    "total_value": 99.84
+  },
+  {
+    "symbol": "OUST",
+    "name": "Ouster Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2020-10-09",
+    "last_trade_date": "2023-04-21",
+    "total_trades": 3,
+    "total_quantity": 1.465,
+    "price_range": {
+      "min": 9.7,
+      "max": 9.7,
+      "avg": 9.7
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PAR",
+    "name": "Par Technology Corp.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2014-01-01",
+    "last_trade_date": "2014-01-01",
+    "total_trades": 1,
+    "total_quantity": 16.407,
+    "price_range": {
+      "min": 5.45,
+      "max": 5.45,
+      "avg": 5.45
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PARRO",
+    "name": "Parrot",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2006-06-28",
+    "last_trade_date": "2006-06-28",
+    "total_trades": 1,
+    "total_quantity": 3.3377,
+    "price_range": {
+      "min": 17.45,
+      "max": 17.45,
+      "avg": 17.45
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PBI",
+    "name": "Pitney Bowes, Inc.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2007-04-19",
+    "last_trade_date": "2019-12-02",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 4.83,
+      "max": 47.83,
+      "avg": 26.33
+    },
+    "total_value": 87.66
+  },
+  {
+    "symbol": "PCOR",
+    "name": "Procore Technologies Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2021-05-20",
+    "last_trade_date": "2021-05-20",
+    "total_trades": 1,
+    "total_quantity": 0.9193,
+    "price_range": {
+      "min": 84.0,
+      "max": 84.0,
+      "avg": 84.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PEGA",
+    "name": "Pegasystems Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2014-06-10",
+    "last_trade_date": "2025-06-23",
+    "total_trades": 2,
+    "total_quantity": 8.374,
+    "price_range": {
+      "min": 21.38,
+      "max": 21.38,
+      "avg": 21.38
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PGS",
+    "name": "PGS ASA",
+    "exchange": "OSL",
+    "currency": "NOK",
+    "first_trade_date": "2000-01-03",
+    "last_trade_date": "2024-07-23",
+    "total_trades": 4,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 9.022,
+      "max": 2010.6,
+      "avg": 1009.811
+    },
+    "total_value": 96.23
+  },
+  {
+    "symbol": "PL",
+    "name": "Planet Labs PBC - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2021-04-01",
+    "last_trade_date": "2021-04-01",
+    "total_trades": 1,
+    "total_quantity": 7.75,
+    "price_range": {
+      "min": 9.8,
+      "max": 9.8,
+      "avg": 9.8
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PLTR",
+    "name": "Palantir Technologies Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2020-09-30",
+    "last_trade_date": "2020-09-30",
+    "total_trades": 1,
+    "total_quantity": 7.542,
+    "price_range": {
+      "min": 9.5,
+      "max": 9.5,
+      "avg": 9.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PNG",
+    "name": "Kraken Robotics Inc",
+    "exchange": "CVE",
+    "currency": "CAD",
+    "first_trade_date": "2013-09-24",
+    "last_trade_date": "2015-02-24",
+    "total_trades": 2,
+    "total_quantity": 227.45,
+    "price_range": {
+      "min": 0.19,
+      "max": 0.19,
+      "avg": 0.19
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PRGS",
+    "name": "Progress Software Corp.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2023-02-06",
+    "last_trade_date": "2023-02-06",
+    "total_trades": 1,
+    "total_quantity": 1.2295,
+    "price_range": {
+      "min": 56.02,
+      "max": 56.02,
+      "avg": 56.02
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PSD",
+    "name": "Pulse Seismic Inc - Ordinary Shares - Class A",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2001-11-21",
+    "last_trade_date": "2001-11-21",
+    "total_trades": 1,
+    "total_quantity": 51.609,
+    "price_range": {
+      "min": 1.6,
+      "max": 1.6,
+      "avg": 1.6
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PSN",
+    "name": "Parsons Corp",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2019-05-08",
+    "last_trade_date": "2019-05-08",
+    "total_trades": 1,
+    "total_quantity": 2.5955,
+    "price_range": {
+      "min": 27.0,
+      "max": 27.0,
+      "avg": 27.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PSON",
+    "name": "Pearson plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "1995-07-24",
+    "last_trade_date": "1995-07-24",
+    "total_trades": 1,
+    "total_quantity": 182.5,
+    "price_range": {
+      "min": 0.204,
+      "max": 0.204,
+      "avg": 0.204
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PTC",
+    "name": "PTC Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1989-12-08",
+    "last_trade_date": "2006-02-28",
+    "total_trades": 7,
+    "total_quantity": 32.1029,
+    "price_range": {
+      "min": 18.144,
+      "max": 18.144,
+      "avg": 18.144
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "PXDT",
+    "name": "Pixie Dust Technologies Inc - ADR",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2023-08-23",
+    "last_trade_date": "2023-08-23",
+    "total_trades": 1,
+    "total_quantity": 8.129,
+    "price_range": {
+      "min": 7.97,
+      "max": 7.97,
+      "avg": 7.97
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "QBE",
+    "name": "Qbe Insurance Group",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2022-10-28",
+    "last_trade_date": "2022-10-28",
+    "total_trades": 1,
+    "total_quantity": 8.177,
+    "price_range": {
+      "min": 12.23,
+      "max": 12.23,
+      "avg": 12.23
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "QCOM",
+    "name": "Qualcomm, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2000-03-02",
+    "last_trade_date": "2004-08-16",
+    "total_trades": 2,
+    "total_quantity": 0.4424,
+    "price_range": {
+      "min": 139.0,
+      "max": 139.0,
+      "avg": 139.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "QNGYQ",
+    "name": "Quanergy Systems Inc",
+    "exchange": "OTC",
+    "currency": "USD",
+    "first_trade_date": "2022-02-08",
+    "last_trade_date": "2023-12-01",
+    "total_trades": 3,
+    "total_quantity": -0.0,
+    "price_range": {
+      "min": 0.19,
+      "max": 7.05,
+      "avg": 3.62
+    },
+    "total_value": 99.68
+  },
+  {
+    "symbol": "QQ.",
+    "name": "Qinetiq Group",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2006-02-10",
+    "last_trade_date": "2006-02-10",
+    "total_trades": 1,
+    "total_quantity": 19.741,
+    "price_range": {
+      "min": 2.15,
+      "max": 2.15,
+      "avg": 2.15
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "QTX",
+    "name": "Quartix Technologies Plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2014-11-05",
+    "last_trade_date": "2014-11-05",
+    "total_trades": 1,
+    "total_quantity": 60.578,
+    "price_range": {
+      "min": 0.9,
+      "max": 0.9,
+      "avg": 0.9
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "RAVN",
+    "name": "Raven Industries, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1980-03-03",
+    "last_trade_date": "2021-06-21",
+    "total_trades": 8,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 2.42,
+      "max": 57.65,
+      "avg": 30.035
+    },
+    "total_value": -70313.0
+  },
+  {
+    "symbol": "RCAT",
+    "name": "Red Cat Holdings Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2005-05-24",
+    "last_trade_date": "2019-08-01",
+    "total_trades": 4,
+    "total_quantity": 0.4,
+    "price_range": {
+      "min": 0.01,
+      "max": 0.01,
+      "avg": 0.01
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "RDW",
+    "name": "Redwire Corporation",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2021-01-14",
+    "last_trade_date": "2021-01-14",
+    "total_trades": 1,
+    "total_quantity": 7.239,
+    "price_range": {
+      "min": 10.7,
+      "max": 10.7,
+      "avg": 10.7
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "RHM",
+    "name": "Rheinmetall AG",
+    "exchange": "XETR",
+    "currency": "EUR",
+    "first_trade_date": "2005-06-30",
+    "last_trade_date": "2005-06-30",
+    "total_trades": 1,
+    "total_quantity": 1.518,
+    "price_range": {
+      "min": 41.62,
+      "max": 41.62,
+      "avg": 41.62
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "RKT",
+    "name": "Rocketdna Ltd.",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2018-06-22",
+    "last_trade_date": "2018-06-22",
+    "total_trades": 1,
+    "total_quantity": 487.8,
+    "price_range": {
+      "min": 0.205,
+      "max": 0.205,
+      "avg": 0.205
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ROLTA",
+    "name": "Rolta India Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "1999-01-01",
+    "last_trade_date": "2008-01-24",
+    "total_trades": 2,
+    "total_quantity": 80.04,
+    "price_range": {
+      "min": 67.0,
+      "max": 67.0,
+      "avg": 67.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "RTX",
+    "name": "RTX Corp",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1995-06-30",
+    "last_trade_date": "2005-06-13",
+    "total_trades": 4,
+    "total_quantity": 10.4395,
+    "price_range": {
+      "min": 46.08,
+      "max": 46.08,
+      "avg": 46.08
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "RUL",
+    "name": "Rpmglobal Hldgs Ltd",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2008-05-27",
+    "last_trade_date": "2008-05-27",
+    "total_trades": 1,
+    "total_quantity": 84.74,
+    "price_range": {
+      "min": 1.18,
+      "max": 1.18,
+      "avg": 1.18
+    },
+    "total_value": 99.99
+  },
+  {
+    "symbol": "RWWI",
+    "name": "Rand Worldwide Inc",
+    "exchange": "OTC",
+    "currency": "USD",
+    "first_trade_date": "1996-10-01",
+    "last_trade_date": "2003-10-02",
+    "total_trades": 2,
+    "total_quantity": 3.6173,
+    "price_range": {
+      "min": 99.99,
+      "max": 99.99,
+      "avg": 99.99
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "S63",
+    "name": "Singapore Technologies Engineering Ltd",
+    "exchange": "SGX",
+    "currency": "SGD",
+    "first_trade_date": "2015-06-30",
+    "last_trade_date": "2015-06-30",
+    "total_trades": 1,
+    "total_quantity": 31.324,
+    "price_range": {
+      "min": 3.3,
+      "max": 3.3,
+      "avg": 3.3
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SAAB B",
+    "name": "SAAB AB - Ordinary Shares - Class B",
+    "exchange": "STO",
+    "currency": "SEK",
+    "first_trade_date": "2000-01-03",
+    "last_trade_date": "2024-05-07",
+    "total_trades": 2,
+    "total_quantity": 29.378,
+    "price_range": {
+      "min": 75.5,
+      "max": 75.5,
+      "avg": 75.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SAF",
+    "name": "Safran SA",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "1998-09-01",
+    "last_trade_date": "2004-12-22",
+    "total_trades": 3,
+    "total_quantity": 3.5519,
+    "price_range": {
+      "min": 162.15,
+      "max": 162.15,
+      "avg": 162.15
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SAIC",
+    "name": "Science Applications International Corp.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2013-09-30",
+    "last_trade_date": "2013-09-30",
+    "total_trades": 1,
+    "total_quantity": 2.643,
+    "price_range": {
+      "min": 35.25,
+      "max": 35.25,
+      "avg": 35.25
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SAP",
+    "name": "Sap SE",
+    "exchange": "FRA",
+    "currency": "EUR",
+    "first_trade_date": "2013-07-09",
+    "last_trade_date": "2013-07-09",
+    "total_trades": 1,
+    "total_quantity": 1.2535,
+    "price_range": {
+      "min": 56.4,
+      "max": 56.4,
+      "avg": 56.4
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SATL",
+    "name": "Satellogic Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-03-26",
+    "last_trade_date": "2021-03-26",
+    "total_trades": 1,
+    "total_quantity": 7.669,
+    "price_range": {
+      "min": 9.9,
+      "max": 9.9,
+      "avg": 9.9
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SCW",
+    "name": "Scanway S.A.",
+    "exchange": "WAR",
+    "currency": "PLN",
+    "first_trade_date": "2023-10-11",
+    "last_trade_date": "2023-10-11",
+    "total_trades": 1,
+    "total_quantity": 6.147,
+    "price_range": {
+      "min": 44.5,
+      "max": 44.5,
+      "avg": 44.5
+    },
+    "total_value": 100.01
+  },
+  {
+    "symbol": "SECU B",
+    "name": "Securitas AB - Ordinary Shares - Class B",
+    "exchange": "STO",
+    "currency": "SEK",
+    "first_trade_date": "2013-06-30",
+    "last_trade_date": "2013-06-30",
+    "total_trades": 1,
+    "total_quantity": 10.45,
+    "price_range": {
+      "min": 58.65,
+      "max": 58.65,
+      "avg": 58.65
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SFD",
+    "name": "NXT Energy Solutions Inc",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2007-12-03",
+    "last_trade_date": "2007-12-03",
+    "total_trades": 1,
+    "total_quantity": 18.033,
+    "price_range": {
+      "min": 4.9,
+      "max": 4.9,
+      "avg": 4.9
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SIDU",
+    "name": "Sidus Space Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-12-14",
+    "last_trade_date": "2023-12-20",
+    "total_trades": 2,
+    "total_quantity": 0.0264,
+    "price_range": {
+      "min": 27.0,
+      "max": 27.0,
+      "avg": 27.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SIE",
+    "name": "Siemens AG - Registered Shares",
+    "exchange": "FRA",
+    "currency": "EUR",
+    "first_trade_date": "2007-06-30",
+    "last_trade_date": "2007-06-30",
+    "total_trades": 1,
+    "total_quantity": 0.594,
+    "price_range": {
+      "min": 105.97,
+      "max": 105.97,
+      "avg": 105.97
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SKYX",
+    "name": "SKYX Platforms Corp",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2022-02-10",
+    "last_trade_date": "2022-02-10",
+    "total_trades": 1,
+    "total_quantity": 5.1266,
+    "price_range": {
+      "min": 14.0,
+      "max": 14.0,
+      "avg": 14.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SLB",
+    "name": "Schlumberger Ltd.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2002-12-19",
+    "last_trade_date": "2006-04-10",
+    "total_trades": 2,
+    "total_quantity": 2.3062,
+    "price_range": {
+      "min": 43.5,
+      "max": 43.5,
+      "avg": 43.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SMTC",
+    "name": "Semtech Corp.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2023-01-13",
+    "last_trade_date": "2023-01-13",
+    "total_trades": 1,
+    "total_quantity": 10.389,
+    "price_range": {
+      "min": 30.71,
+      "max": 30.71,
+      "avg": 30.71
+    },
+    "total_value": 458.01
+  },
+  {
+    "symbol": "SNOW",
+    "name": "Snowflake Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2020-09-16",
+    "last_trade_date": "2020-09-16",
+    "total_trades": 1,
+    "total_quantity": 0.2979,
+    "price_range": {
+      "min": 245.0,
+      "max": 245.0,
+      "avg": 245.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SNPS",
+    "name": "Synopsys, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2025-07-17",
+    "last_trade_date": "2025-07-17",
+    "total_trades": 1,
+    "total_quantity": 0.1508,
+    "price_range": {
+      "min": 571.2,
+      "max": 571.2,
+      "avg": 571.2
+    },
+    "total_value": 132.06
+  },
+  {
+    "symbol": "SOLV",
+    "name": "Solventum Corp",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2024-04-01",
+    "last_trade_date": "2024-04-02",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 66.9,
+      "max": 69.55,
+      "avg": 68.225
+    },
+    "total_value": 0.55
+  },
+  {
+    "symbol": "SORT",
+    "name": "Sorted Group Holdings Plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2018-03-22",
+    "last_trade_date": "2024-02-19",
+    "total_trades": 2,
+    "total_quantity": 437.0,
+    "price_range": {
+      "min": 0.0002,
+      "max": 0.0002,
+      "avg": 0.0002
+    },
+    "total_value": 100.02
+  },
+  {
+    "symbol": "SPA",
+    "name": "1Spatial PLC",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2005-06-21",
+    "last_trade_date": "2018-08-22",
+    "total_trades": 4,
+    "total_quantity": 130.65,
+    "price_range": {
+      "min": 0.0425,
+      "max": 1.15,
+      "avg": 0.5425
+    },
+    "total_value": 199.7
+  },
+  {
+    "symbol": "SPACE42",
+    "name": "SPACE42",
+    "exchange": "OTHER",
+    "currency": "AED",
+    "first_trade_date": "2024-10-01",
+    "last_trade_date": "2024-10-01",
+    "total_trades": 1,
+    "total_quantity": 151.22,
+    "price_range": {
+      "min": 2.38,
+      "max": 2.38,
+      "avg": 2.38
+    },
+    "total_value": 142.4
+  },
+  {
+    "symbol": "SPAI",
+    "name": "Sparc AI Inc",
+    "exchange": "CNSX",
+    "currency": "CAD",
+    "first_trade_date": "2020-12-07",
+    "last_trade_date": "2020-12-07",
+    "total_trades": 1,
+    "total_quantity": 1187.3,
+    "price_range": {
+      "min": 0.08,
+      "max": 0.08,
+      "avg": 0.08
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SPGI",
+    "name": "S&P Global Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1992-01-01",
+    "last_trade_date": "2005-05-18",
+    "total_trades": 3,
+    "total_quantity": 4.0776,
+    "price_range": {
+      "min": 57.28,
+      "max": 57.28,
+      "avg": 57.28
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SPIR",
+    "name": "Spire Global Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2020-11-03",
+    "last_trade_date": "2023-08-31",
+    "total_trades": 2,
+    "total_quantity": 1.572,
+    "price_range": {
+      "min": 9.5,
+      "max": 9.5,
+      "avg": 9.5
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SPR",
+    "name": "Spyrosoft SA",
+    "exchange": "WAR",
+    "currency": "PLN",
+    "first_trade_date": "2020-02-28",
+    "last_trade_date": "2020-02-28",
+    "total_trades": 1,
+    "total_quantity": 25.576,
+    "price_range": {
+      "min": 10.0,
+      "max": 10.0,
+      "avg": 10.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SPT",
+    "name": "Spirent Communications Plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "1998-01-30",
+    "last_trade_date": "2024-03-05",
+    "total_trades": 4,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 1.7262,
+      "max": 9.126,
+      "avg": 5.4261
+    },
+    "total_value": 79.51
+  },
+  {
+    "symbol": "SREN",
+    "name": "Swiss Re Ltd",
+    "exchange": "SWX",
+    "currency": "CHF",
+    "first_trade_date": "2011-06-10",
+    "last_trade_date": "2011-06-10",
+    "total_trades": 1,
+    "total_quantity": 1.8046,
+    "price_range": {
+      "min": 49.19,
+      "max": 49.19,
+      "avg": 49.19
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SRP",
+    "name": "Serco Group plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2010-05-27",
+    "last_trade_date": "2010-05-27",
+    "total_trades": 1,
+    "total_quantity": 9.59,
+    "price_range": {
+      "min": 6.03,
+      "max": 6.03,
+      "avg": 6.03
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SSIT",
+    "name": "Seraphim Space Investment Trust Plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2021-07-14",
+    "last_trade_date": "2021-07-14",
+    "total_trades": 1,
+    "total_quantity": 52.92,
+    "price_range": {
+      "min": 1.02,
+      "max": 1.02,
+      "avg": 1.02
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SST",
+    "name": "System1 Inc - Ordinary Shares - Class A",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2020-08-03",
+    "last_trade_date": "2025-06-12",
+    "total_trades": 2,
+    "total_quantity": 1.073,
+    "price_range": {
+      "min": 10.1,
+      "max": 10.1,
+      "avg": 10.1
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "STMPA",
+    "name": "ST Microelectronics",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2008-04-10",
+    "last_trade_date": "2008-04-10",
+    "total_trades": 1,
+    "total_quantity": 8.285,
+    "price_range": {
+      "min": 7.09,
+      "max": 7.09,
+      "avg": 7.09
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "STN",
+    "name": "Stantec Inc",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2004-03-24",
+    "last_trade_date": "2014-11-17",
+    "total_trades": 3,
+    "total_quantity": 12.7599,
+    "price_range": {
+      "min": 26.56,
+      "max": 26.56,
+      "avg": 26.56
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "STXS",
+    "name": "Stereotaxis Inc",
+    "exchange": "AMEX",
+    "currency": "USD",
+    "first_trade_date": "2016-02-11",
+    "last_trade_date": "2019-01-11",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.7999,
+      "max": 1.23,
+      "avg": 1.015
+    },
+    "total_value": -62.7
+  },
+  {
+    "symbol": "SU",
+    "name": "Schneider Electric SE",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2011-06-01",
+    "last_trade_date": "2011-09-02",
+    "total_trades": 2,
+    "total_quantity": 1.3084,
+    "price_range": {
+      "min": 113.2,
+      "max": 113.2,
+      "avg": 113.2
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SUBC",
+    "name": "Subsea 7 S.A.",
+    "exchange": "OSL",
+    "currency": "NOK",
+    "first_trade_date": "2006-01-02",
+    "last_trade_date": "2006-01-02",
+    "total_trades": 1,
+    "total_quantity": 6.206,
+    "price_range": {
+      "min": 79.75,
+      "max": 79.75,
+      "avg": 79.75
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SWIR",
+    "name": "Sierra Wireless Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2003-06-30",
+    "last_trade_date": "2023-01-13",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 6.45,
+      "max": 30.99,
+      "avg": 18.72
+    },
+    "total_value": -358.01
+  },
+  {
+    "symbol": "SWK",
+    "name": "Stanley Black & Decker Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2012-06-07",
+    "last_trade_date": "2021-12-08",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 64.68,
+      "max": 192.22,
+      "avg": 128.45
+    },
+    "total_value": -303.77
+  },
+  {
+    "symbol": "SWKS",
+    "name": "Skyworks Solutions, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2013-09-17",
+    "last_trade_date": "2013-09-17",
+    "total_trades": 1,
+    "total_quantity": 3.6856,
+    "price_range": {
+      "min": 25.31,
+      "max": 25.31,
+      "avg": 25.31
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "SYXXF",
+    "name": "Synodon Inc",
+    "exchange": "OTC",
+    "currency": "USD",
+    "first_trade_date": "2011-10-30",
+    "last_trade_date": "2011-10-30",
+    "total_trades": 1,
+    "total_quantity": 851.6,
+    "price_range": {
+      "min": 0.1255,
+      "max": 0.1255,
+      "avg": 0.1255
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "T",
+    "name": "AT&T, Inc.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2018-07-07",
+    "last_trade_date": "2022-04-08",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 24.14,
+      "max": 32.68,
+      "avg": 28.41
+    },
+    "total_value": 99.25
+  },
+  {
+    "symbol": "TATACOMM",
+    "name": "Tata Communications Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "1994-11-07",
+    "last_trade_date": "1994-11-07",
+    "total_trades": 1,
+    "total_quantity": 12.953,
+    "price_range": {
+      "min": 207.0,
+      "max": 207.0,
+      "avg": 207.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TCS",
+    "name": "Tata Consultancy Services Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "2005-08-25",
+    "last_trade_date": "2005-08-25",
+    "total_trades": 1,
+    "total_quantity": 22.142,
+    "price_range": {
+      "min": 149.85,
+      "max": 149.85,
+      "avg": 149.85
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TDC",
+    "name": "Teradata Corp",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2018-04-09",
+    "last_trade_date": "2018-04-09",
+    "total_trades": 1,
+    "total_quantity": 1.9502,
+    "price_range": {
+      "min": 39.37,
+      "max": 39.37,
+      "avg": 39.37
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TDY",
+    "name": "Teledyne Technologies Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1999-11-01",
+    "last_trade_date": "1999-11-01",
+    "total_trades": 1,
+    "total_quantity": 7.57,
+    "price_range": {
+      "min": 8.44,
+      "max": 8.44,
+      "avg": 8.44
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TECHM",
+    "name": "Tech Mahindra Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "2006-08-28",
+    "last_trade_date": "2015-03-19",
+    "total_trades": 2,
+    "total_quantity": 54.064,
+    "price_range": {
+      "min": 130.25,
+      "max": 130.25,
+      "avg": 130.25
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TER",
+    "name": "Teradyne, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2011-06-30",
+    "last_trade_date": "2011-06-30",
+    "total_trades": 1,
+    "total_quantity": 7.206,
+    "price_range": {
+      "min": 14.52,
+      "max": 14.52,
+      "avg": 14.52
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TGS",
+    "name": "TGS ASA",
+    "exchange": "OSL",
+    "currency": "NOK",
+    "first_trade_date": "2010-06-24",
+    "last_trade_date": "2010-06-24",
+    "total_trades": 1,
+    "total_quantity": 6.724,
+    "price_range": {
+      "min": 83.8606,
+      "max": 83.8606,
+      "avg": 83.8606
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "THO",
+    "name": "Thor Industries, Inc.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2018-02-14",
+    "last_trade_date": "2018-02-14",
+    "total_trades": 1,
+    "total_quantity": 0.6081,
+    "price_range": {
+      "min": 128.89,
+      "max": 128.89,
+      "avg": 128.89
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TIC",
+    "name": "Acuren Corporation Ltd.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2025-08-04",
+    "last_trade_date": "2025-08-04",
+    "total_trades": 1,
+    "total_quantity": 11.0505,
+    "price_range": {
+      "min": 11.03,
+      "max": 11.03,
+      "avg": 11.03
+    },
+    "total_value": 188.35
+  },
+  {
+    "symbol": "TKX.H",
+    "name": "TrackX Holdings Inc",
+    "exchange": "CVE",
+    "currency": "CAD",
+    "first_trade_date": "2016-08-12",
+    "last_trade_date": "2022-12-07",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.005,
+      "max": 0.47,
+      "avg": 0.2375
+    },
+    "total_value": 98.83
+  },
+  {
+    "symbol": "TNAV",
+    "name": "Telenav Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2010-05-13",
+    "last_trade_date": "2021-02-17",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 4.79,
+      "max": 8.0,
+      "avg": 6.395
+    },
+    "total_value": 30.77
+  },
+  {
+    "symbol": "TOM2",
+    "name": "TomTom N.V.",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "2005-05-27",
+    "last_trade_date": "2019-05-23",
+    "total_trades": 2,
+    "total_quantity": 2.3027,
+    "price_range": {
+      "min": 18.38,
+      "max": 18.38,
+      "avg": 18.38
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TRCK",
+    "name": "Track Group Inc",
+    "exchange": "OTC",
+    "currency": "USD",
+    "first_trade_date": "2005-08-19",
+    "last_trade_date": "2013-03-26",
+    "total_trades": 2,
+    "total_quantity": 1.7,
+    "price_range": {
+      "min": 0.27,
+      "max": 0.27,
+      "avg": 0.27
+    },
+    "total_value": 99.99
+  },
+  {
+    "symbol": "TRIP",
+    "name": "TripAdvisor Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2011-12-07",
+    "last_trade_date": "2011-12-07",
+    "total_trades": 1,
+    "total_quantity": 4.204,
+    "price_range": {
+      "min": 24.46,
+      "max": 24.46,
+      "avg": 24.46
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TRMB",
+    "name": "Trimble Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1990-07-02",
+    "last_trade_date": "2013-03-21",
+    "total_trades": 4,
+    "total_quantity": 28.946,
+    "price_range": {
+      "min": 10.38,
+      "max": 10.38,
+      "avg": 10.38
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TRV",
+    "name": "Travelers Companies Inc.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2012-01-02",
+    "last_trade_date": "2012-01-02",
+    "total_trades": 1,
+    "total_quantity": 1.7221,
+    "price_range": {
+      "min": 59.17,
+      "max": 59.17,
+      "avg": 59.17
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2015-10-01",
+    "last_trade_date": "2022-08-25",
+    "total_trades": 3,
+    "total_quantity": 3.6729,
+    "price_range": {
+      "min": 239.88,
+      "max": 239.88,
+      "avg": 239.88
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TSP",
+    "name": "TuSimple Holdings Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-04-15",
+    "last_trade_date": "2024-02-20",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.25,
+      "max": 40.25,
+      "avg": 20.25
+    },
+    "total_value": 99.27
+  },
+  {
+    "symbol": "TTEK",
+    "name": "Tetra Tech, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1991-12-17",
+    "last_trade_date": "2024-09-09",
+    "total_trades": 11,
+    "total_quantity": 200.2026,
+    "price_range": {
+      "min": 10.73,
+      "max": 10.73,
+      "avg": 10.73
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "TWX",
+    "name": "Time Warner Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "1996-10-10",
+    "last_trade_date": "2018-07-07",
+    "total_trades": 4,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 3.9,
+      "max": 98.77,
+      "avg": 51.335
+    },
+    "total_value": -275.52
+  },
+  {
+    "symbol": "U",
+    "name": "Unity Software Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2020-09-18",
+    "last_trade_date": "2020-09-18",
+    "total_trades": 1,
+    "total_quantity": 0.9721,
+    "price_range": {
+      "min": 75.0,
+      "max": 75.0,
+      "avg": 75.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "UAVS",
+    "name": "AgEagle Aerial Systems Inc.",
+    "exchange": "AMEX",
+    "currency": "USD",
+    "first_trade_date": "2014-01-02",
+    "last_trade_date": "2024-10-15",
+    "total_trades": 4,
+    "total_quantity": 0.01,
+    "price_range": {
+      "min": 0.55,
+      "max": 0.55,
+      "avg": 0.55
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "UBER",
+    "name": "Uber Technologies Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2019-05-01",
+    "last_trade_date": "2019-05-01",
+    "total_trades": 1,
+    "total_quantity": 1.6784,
+    "price_range": {
+      "min": 42.0,
+      "max": 42.0,
+      "avg": 42.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "UBXN",
+    "name": "u-blox Holding AG",
+    "exchange": "SWX",
+    "currency": "CHF",
+    "first_trade_date": "2007-10-26",
+    "last_trade_date": "2007-10-26",
+    "total_trades": 1,
+    "total_quantity": 1.7345,
+    "price_range": {
+      "min": 61.0,
+      "max": 61.0,
+      "avg": 61.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "UI",
+    "name": "Urbanimmersive Inc",
+    "exchange": "CVE",
+    "currency": "CAD",
+    "first_trade_date": "2012-10-16",
+    "last_trade_date": "2025-02-05",
+    "total_trades": 3,
+    "total_quantity": -0.0,
+    "price_range": {
+      "min": 0.02,
+      "max": 0.1,
+      "avg": 0.06
+    },
+    "total_value": 95.49
+  },
+  {
+    "symbol": "ULY",
+    "name": "Urgent.ly Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2023-10-19",
+    "last_trade_date": "2025-03-18",
+    "total_trades": 2,
+    "total_quantity": 1.276,
+    "price_range": {
+      "min": 12.0,
+      "max": 12.0,
+      "avg": 12.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "UNIBAP",
+    "name": "Unibap AB",
+    "exchange": "STO",
+    "currency": "SEK",
+    "first_trade_date": "2017-03-27",
+    "last_trade_date": "2017-03-27",
+    "total_trades": 1,
+    "total_quantity": 21.619,
+    "price_range": {
+      "min": 31.0,
+      "max": 31.0,
+      "avg": 31.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "UR",
+    "name": "UrtheCast Corp",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2014-02-03",
+    "last_trade_date": "2021-06-30",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.065,
+      "max": 2.69,
+      "avg": 1.3775
+    },
+    "total_value": 97.47
+  },
+  {
+    "symbol": "USC",
+    "name": "Union of Survey & Construction JSC",
+    "exchange": "OTHER",
+    "currency": "VND",
+    "first_trade_date": "2020-11-23",
+    "last_trade_date": "2020-11-23",
+    "total_trades": 1,
+    "total_quantity": 261.61,
+    "price_range": {
+      "min": 6500.0,
+      "max": 6500.0,
+      "avg": 6500.0
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "VERS",
+    "name": "VERSES AI Inc - Ordinary Shares - Class A (Sub Voting)",
+    "exchange": "NEO",
+    "currency": "CAD",
+    "first_trade_date": "2023-06-28",
+    "last_trade_date": "2025-03-27",
+    "total_trades": 2,
+    "total_quantity": 13.09,
+    "price_range": {
+      "min": 0.78,
+      "max": 0.78,
+      "avg": 0.78
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "VIAV",
+    "name": "Viavi Solutions Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2024-03-05",
+    "last_trade_date": "2024-03-05",
+    "total_trades": 1,
+    "total_quantity": 1.37,
+    "price_range": {
+      "min": 9.73,
+      "max": 9.73,
+      "avg": 9.73
+    },
+    "total_value": 20.49
+  },
+  {
+    "symbol": "VIRI",
+    "name": "Viridien",
+    "exchange": "EURONEXT",
+    "currency": "EUR",
+    "first_trade_date": "1994-01-03",
+    "last_trade_date": "2024-07-31",
+    "total_trades": 4,
+    "total_quantity": 0.0053,
+    "price_range": {
+      "min": 98.59,
+      "max": 98.59,
+      "avg": 98.59
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "VLDR",
+    "name": "Velodyne Lidar Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2018-10-26",
+    "last_trade_date": "2023-02-14",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.0,
+      "max": 9.55,
+      "avg": 4.775
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "VORB",
+    "name": "Virgin Orbit Holdings Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-05-19",
+    "last_trade_date": "2023-04-16",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.0769,
+      "max": 9.7,
+      "avg": 4.8884
+    },
+    "total_value": 99.08
+  },
+  {
+    "symbol": "VOW",
+    "name": "Volkswagen AG",
+    "exchange": "FRA",
+    "currency": "EUR",
+    "first_trade_date": "2015-08-03",
+    "last_trade_date": "2015-08-03",
+    "total_trades": 1,
+    "total_quantity": 0.054,
+    "price_range": {
+      "min": 184.525,
+      "max": 184.525,
+      "avg": 184.525
+    },
+    "total_value": 15.0
+  },
+  {
+    "symbol": "VR1",
+    "name": "Vection Technologies",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2017-03-17",
+    "last_trade_date": "2017-03-17",
+    "total_trades": 1,
+    "total_quantity": 476.2,
+    "price_range": {
+      "min": 0.21,
+      "max": 0.21,
+      "avg": 0.21
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "VRAR",
+    "name": "Glimpse Group Inc (The)",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2021-07-01",
+    "last_trade_date": "2021-07-01",
+    "total_trades": 1,
+    "total_quantity": 6.381,
+    "price_range": {
+      "min": 11.75,
+      "max": 11.75,
+      "avg": 11.75
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "VRS",
+    "name": "Veris Ltd",
+    "exchange": "ASX",
+    "currency": "AUD",
+    "first_trade_date": "2011-12-11",
+    "last_trade_date": "2011-12-11",
+    "total_trades": 1,
+    "total_quantity": 625.0,
+    "price_range": {
+      "min": 0.16,
+      "max": 0.16,
+      "avg": 0.16
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "VRSK",
+    "name": "Verisk Analytics Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2014-12-08",
+    "last_trade_date": "2014-12-08",
+    "total_trades": 1,
+    "total_quantity": 1.3184,
+    "price_range": {
+      "min": 63.26,
+      "max": 63.26,
+      "avg": 63.26
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "VSAT",
+    "name": "Viasat, Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1996-12-02",
+    "last_trade_date": "2023-05-09",
+    "total_trades": 3,
+    "total_quantity": 14.345,
+    "price_range": {
+      "min": 9.5,
+      "max": 36.6,
+      "avg": 23.05
+    },
+    "total_value": 200.0
+  },
+  {
+    "symbol": "VXTR",
+    "name": "Voxtur Analytics Corp",
+    "exchange": "CVE",
+    "currency": "CAD",
+    "first_trade_date": "2008-04-07",
+    "last_trade_date": "2008-04-07",
+    "total_trades": 1,
+    "total_quantity": 486.33,
+    "price_range": {
+      "min": 0.19,
+      "max": 0.19,
+      "avg": 0.19
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "VZ",
+    "name": "Verizon Communications Inc",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2016-11-07",
+    "last_trade_date": "2016-11-07",
+    "total_trades": 1,
+    "total_quantity": 1.6294,
+    "price_range": {
+      "min": 47.08,
+      "max": 47.08,
+      "avg": 47.08
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "WBD",
+    "name": "Warner Bros. Discovery Inc - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2022-04-08",
+    "last_trade_date": "2022-04-08",
+    "total_trades": 1,
+    "total_quantity": 8.9374,
+    "price_range": {
+      "min": 23.12,
+      "max": 23.12,
+      "avg": 23.12
+    },
+    "total_value": 276.27
+  },
+  {
+    "symbol": "WG",
+    "name": "John Wood Group Plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2002-06-05",
+    "last_trade_date": "2011-07-04",
+    "total_trades": 2,
+    "total_quantity": 8.425,
+    "price_range": {
+      "min": 3.6,
+      "max": 3.6,
+      "avg": 3.6
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "WIPRO",
+    "name": "Wipro Ltd.",
+    "exchange": "NSE",
+    "currency": "INR",
+    "first_trade_date": "2009-06-30",
+    "last_trade_date": "2024-12-03",
+    "total_trades": 2,
+    "total_quantity": 90.45,
+    "price_range": {
+      "min": 85.05,
+      "max": 85.05,
+      "avg": 85.05
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "WLDN",
+    "name": "Willdan Group Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2006-11-21",
+    "last_trade_date": "2006-11-21",
+    "total_trades": 1,
+    "total_quantity": 7.287,
+    "price_range": {
+      "min": 10.56,
+      "max": 10.56,
+      "avg": 10.56
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "WLDS",
+    "name": "Wearable Devices Ltd",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2022-09-13",
+    "last_trade_date": "2025-03-17",
+    "total_trades": 3,
+    "total_quantity": 0.665,
+    "price_range": {
+      "min": 4.7,
+      "max": 4.7,
+      "avg": 4.7
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "WPHO",
+    "name": "Windar Photonics Plc",
+    "exchange": "LSE",
+    "currency": "GBP",
+    "first_trade_date": "2015-03-30",
+    "last_trade_date": "2015-03-30",
+    "total_trades": 1,
+    "total_quantity": 43.455,
+    "price_range": {
+      "min": 1.19,
+      "max": 1.19,
+      "avg": 1.19
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "WSP",
+    "name": "WSP Global Inc",
+    "exchange": "TSE",
+    "currency": "CAD",
+    "first_trade_date": "2006-05-25",
+    "last_trade_date": "2006-05-25",
+    "total_trades": 1,
+    "total_quantity": 8.176,
+    "price_range": {
+      "min": 10.31,
+      "max": 10.31,
+      "avg": 10.31
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "XRX",
+    "name": "Xerox Holdings Corp",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1993-06-30",
+    "last_trade_date": "2001-11-30",
+    "total_trades": 4,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 8.4,
+      "max": 44.79,
+      "avg": 26.595
+    },
+    "total_value": -3.25
+  },
+  {
+    "symbol": "XTIA",
+    "name": "XTI Aerospace Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2014-04-09",
+    "last_trade_date": "2024-03-12",
+    "total_trades": 4,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 0.0532,
+      "max": 6.0,
+      "avg": 3.0266
+    },
+    "total_value": 99.99
+  },
+  {
+    "symbol": "YAHSAT",
+    "name": "YAHSAT",
+    "exchange": "OTHER",
+    "currency": "AED",
+    "first_trade_date": "2023-03-16",
+    "last_trade_date": "2024-10-01",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 2.08,
+      "max": 2.53,
+      "avg": 2.305
+    },
+    "total_value": 20.4
+  },
+  {
+    "symbol": "YAN",
+    "name": "Neptis S.A.",
+    "exchange": "WAR",
+    "currency": "PLN",
+    "first_trade_date": "2014-07-10",
+    "last_trade_date": "2018-10-01",
+    "total_trades": 2,
+    "total_quantity": 32.474,
+    "price_range": {
+      "min": 17.3,
+      "max": 17.3,
+      "avg": 17.3
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "YHOO",
+    "name": "Yahoo Inc",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "1998-06-01",
+    "last_trade_date": "2015-06-04",
+    "total_trades": 4,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 15.0,
+      "max": 42.88,
+      "avg": 28.94
+    },
+    "total_value": -788.76
+  },
+  {
+    "symbol": "YNDX",
+    "name": "Yandex NV - Ordinary Shares - Class A",
+    "exchange": "MISX",
+    "currency": "RUB",
+    "first_trade_date": "2022-03-08",
+    "last_trade_date": "2024-07-10",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 1930.0,
+      "max": 4073.2,
+      "avg": 3001.6
+    },
+    "total_value": -234.3
+  },
+  {
+    "symbol": "YUM",
+    "name": "Yum Brands Inc.",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "first_trade_date": "2021-09-06",
+    "last_trade_date": "2021-09-06",
+    "total_trades": 1,
+    "total_quantity": 0.5682,
+    "price_range": {
+      "min": 130.92,
+      "max": 130.92,
+      "avg": 130.92
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "ZBRA",
+    "name": "Zebra Technologies Corp. - Ordinary Shares - Class A",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "first_trade_date": "2014-06-30",
+    "last_trade_date": "2014-06-30",
+    "total_trades": 1,
+    "total_quantity": 1.1629,
+    "price_range": {
+      "min": 81.01,
+      "max": 81.01,
+      "avg": 81.01
+    },
+    "total_value": 100.0
+  },
+  {
+    "symbol": "maps",
+    "name": "mapinfo",
+    "exchange": "OTHER",
+    "currency": "USD",
+    "first_trade_date": "1995-01-01",
+    "last_trade_date": "2007-04-19",
+    "total_trades": 2,
+    "total_quantity": 0.0,
+    "price_range": {
+      "min": 20.25,
+      "max": 21.5,
+      "avg": 20.875
+    },
+    "total_value": 30.25
+  }
+]
